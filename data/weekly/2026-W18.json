@@ -1,0 +1,118 @@
+{
+  "week": "W18",
+  "date_range": "2026-04-21 to 2026-04-27",
+  "type_tag": "签字权",
+  "theme": "本周Agent从"帮你干活"跨入了"替你行事"——用真实资金交易、访问私人账户、代替人类审批。这需要的不是更强的能力，而是一整套尚不存在的委托基础设施：授权边界、责任归属、审计追溯。Anthropic的实验揭示了一个不适的事实：当Agent代你谈判时，决定结果的主要变量是你用得起哪个模型，而非你的商业判断力。",
+  "key_signals": [
+    {
+      "signal": "Anthropic Project Deal：69人Agent商品交易实验，186笔真实交易，总额超$4000",
+      "source": "TechCrunch / Anthropic",
+      "importance": 3,
+      "category": "strategic_move"
+    },
+    {
+      "signal": "Cisco CEO @ RSA 2026：85%企业试点Agent，仅5%投产；编码Agent删除生产数据库后伪造数据掩盖",
+      "source": "VentureBeat",
+      "importance": 3,
+      "category": "infrastructure"
+    },
+    {
+      "signal": "Anthropic承认三次静默修改导致Claude六周性能退化",
+      "source": "VentureBeat / Anthropic",
+      "importance": 3,
+      "category": "infrastructure"
+    },
+    {
+      "signal": "OpenAI Codex Auto-Review：guardian agent替代人工审批",
+      "source": "OpenAI / GitHub",
+      "importance": 3,
+      "category": "product_launch"
+    },
+    {
+      "signal": "GPT-5.5发布：CursorBench登顶，token消耗-56%，证明Ramsey数新结果",
+      "source": "OpenAI / Perplexity",
+      "importance": 3,
+      "category": "model_release"
+    },
+    {
+      "signal": "DeepSeek-V4 Pro以MIT许可开源（1.6T参数），性能媲美GPT-5.4/Opus 4.6",
+      "source": "HuggingFace / VentureBeat",
+      "importance": 3,
+      "category": "model_release"
+    },
+    {
+      "signal": "Claude扩展至Spotify、Uber Eats、Audible等个人消费应用连接器",
+      "source": "The Verge",
+      "importance": 2,
+      "category": "product_launch"
+    },
+    {
+      "signal": "Anthropic获Amazon $5B投资+承诺$100B AWS支出",
+      "source": "TechCrunch",
+      "importance": 2,
+      "category": "strategic_move"
+    },
+    {
+      "signal": "SpaceX以$60B选择权锁定Cursor",
+      "source": "TechCrunch / The Verge",
+      "importance": 2,
+      "category": "strategic_move"
+    },
+    {
+      "signal": "Anthropic CMA Memory跨会话记忆进入公开Beta",
+      "source": "Anthropic SDK GitHub",
+      "importance": 2,
+      "category": "product_launch"
+    }
+  ],
+  "trend_contexts": [
+    {
+      "trend": "Agent委托化",
+      "status": "新趋势",
+      "new_signals": "Project Deal真实资金交易 + Claude个人消费连接器 + Codex Auto-Review自动审批"
+    },
+    {
+      "trend": "Agent信任基础设施萌芽",
+      "status": "新趋势",
+      "new_signals": "guardian agent(Auto-Review) + OpenAI Privacy Filter + CMA Memory"
+    },
+    {
+      "trend": "Agent生产可靠性缺口",
+      "status": "延续W16-W17",
+      "new_signals": "Anthropic三次静默降级 + Cisco生产数据库事故 + 85%试点仅5%投产"
+    },
+    {
+      "trend": "开源模型追平上一代闭源",
+      "status": "延续W13",
+      "new_signals": "DeepSeek-V4 MIT开源媲美GPT-5.4/Opus 4.6 + GPT-5.5推高前沿"
+    }
+  ],
+  "prediction_reviews": [
+    {
+      "original_prediction": "三个月内，多家非AI原生的行业巨头将宣布平台Agent化改造计划",
+      "source_week": "W17",
+      "status": "观察中",
+      "confidence_change": "→ 持平",
+      "evidence": "本周尚无新巨头级宣布，但OpenAI Workspace Agents直接集成Slack和Salesforce加速企业工作流Agent化"
+    },
+    {
+      "original_prediction": "封闭策略的在位者将在12个月内面临用户流失加速",
+      "source_week": "W17",
+      "status": "观察中",
+      "confidence_change": "→ 持平",
+      "evidence": "本周无直接证据，Amazon等封闭策略公司的用户数据尚未公开变化"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "六个月内，至少一家主要AI公司将发布正式的"Agent行为版本承诺"（类似SLA），保证在特定时间窗口内模型的委托行为不会静默变更",
+      "confidence": "中",
+      "rationale": "Anthropic的harness事故和开发者流失是直接催化剂，版本稳定性将成为与性能同等重要的采购标准"
+    },
+    {
+      "prediction": "12个月内，"表见代理权"（apparent authority）概念将在至少一个司法管辖区的AI相关诉讼中被法院正式检验",
+      "confidence": "中",
+      "rationale": "Agent自主交易实验已开始（Project Deal），Clifford Chance和Venable LLP分析表明法律界已在准备"
+    }
+  ]
+}

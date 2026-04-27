@@ -1,0 +1,104 @@
+{
+  "week": "W16",
+  "date_range": "2026-04-07 to 2026-04-13",
+  "type_tag": "无人校验",
+  "theme": "Agent进入生产环境的速度创下纪录，但衡量Agent真实能力的评估体系在同一周被证明系统性失效。部署在加速，校验没人做。",
+  "key_signals": [
+    {
+      "signal": "Anthropic Claude Managed Agents公测，Notion/Rakuten/Asana/Sentry已生产使用",
+      "source": "Anthropic/Reddit",
+      "importance": 3,
+      "category": "deployment"
+    },
+    {
+      "signal": "Berkeley RDI证明8个主流Agent benchmark可被exploit到近满分",
+      "source": "Berkeley RDI Blog / Hacker News",
+      "importance": 3,
+      "category": "evaluation"
+    },
+    {
+      "signal": "a16z: Q1 2026 AI融资超2025全年；29%财富500强为AI创业公司付费客户",
+      "source": "a16z Twitter / Crunchbase",
+      "importance": 3,
+      "category": "capital"
+    },
+    {
+      "signal": "ClawBench: 153个真实任务跨144平台，Claude Sonnet 4.6成功率33.3%",
+      "source": "arXiv",
+      "importance": 3,
+      "category": "evaluation"
+    },
+    {
+      "signal": "Reddit用户用19个Claude Agent替代团队运营商业审计平台",
+      "source": "Reddit",
+      "importance": 2,
+      "category": "deployment"
+    },
+    {
+      "signal": "MiniMax-M2.7开源，230B参数，SWE-Pro 56.22%",
+      "source": "HuggingFace/Twitter",
+      "importance": 2,
+      "category": "open_source"
+    },
+    {
+      "signal": "MIT Open Agentic Web会议：Agent基础设施处于DNS时代",
+      "source": "Reddit会议纪要",
+      "importance": 2,
+      "category": "infrastructure"
+    },
+    {
+      "signal": "RSAC 2026: AI Agent零信任架构成为企业安全焦点",
+      "source": "VentureBeat",
+      "importance": 2,
+      "category": "security"
+    }
+  ],
+  "trend_contexts": [
+    {
+      "trend": "Agent生产化部署加速",
+      "status": "延续W14-W15",
+      "new_signals": "Anthropic Managed Agents + a16z Q1数据"
+    },
+    {
+      "trend": "Agent评估体系危机",
+      "status": "新趋势",
+      "new_signals": "Berkeley RDI审计 + ClawBench"
+    },
+    {
+      "trend": "开源模型代码能力跃升",
+      "status": "延续W13-W15",
+      "new_signals": "MiniMax M2.7 + GLM-5.1"
+    },
+    {
+      "trend": "Agent安全基础设施从零起步",
+      "status": "延续W15",
+      "new_signals": "RSAC零信任架构 + MIT身份协议 + Agent欺骗研究"
+    }
+  ],
+  "prediction_reviews": [
+    {
+      "original_prediction": "更多模型提供商将对Agent使用场景引入按量计费或差异化定价",
+      "source_week": "W15",
+      "status": "验证中",
+      "evidence": "Anthropic Managed Agents定价$0.08/runtime hour + token费用"
+    },
+    {
+      "original_prediction": "Gemma 4 Apache 2.0将催生一批自托管Agent方案",
+      "source_week": "W15",
+      "status": "验证中",
+      "evidence": "Unsloth免费微调Gemma 4 31B on Kaggle + Ollama Cloud订阅"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "六个月内，至少一家主要AI公司将在模型发布时同时提供真实任务通过率指标",
+      "confidence": "中",
+      "rationale": "Berkeley RDI和ClawBench正在改变评估话语权"
+    },
+    {
+      "prediction": "Agent零信任架构将成为企业采购Agent服务的标准要求之一",
+      "confidence": "中高",
+      "rationale": "Agent欺骗研究和生产环境安全事件加速企业安全要求具体化"
+    }
+  ]
+}

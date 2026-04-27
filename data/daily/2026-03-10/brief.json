@@ -1,0 +1,226 @@
+{
+  "date": "2026-03-10",
+  "signal_count": 10,
+  "raw_item_count": 199,
+  "insights": [
+    {
+      "title": "Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents",
+      "signal_text": "微软宣布推出 Copilot Cowork，这是一个由 Anthropic 技术支持的云驱动 AI Agent，可在 Microsoft 365 应用套件中跨应用工作。用户描述任务后，AI 会规划并执行，标志着企业级 AI Agent 向跨应用工作流自动化迈进。",
+      "signal_strength": 0.9,
+      "insight": "跨应用工作流自动化成为企业级AI Agent的核心价值，用户交互范式从单点指令转向任务描述。",
+      "implication": "小红书电商、客服等场景的Agent需具备跨功能（内容、商品、交易）的任务分解与执行能力。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered"
+        },
+        {
+          "name": "@minchoi",
+          "url": "https://x.com/minchoi/status/2031044696944844990"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "头部公司战略动作",
+        "搜索与推荐"
+      ]
+    },
+    {
+      "title": "Anthropic Launches Multi-Agent Code Review for Claude Code",
+      "signal_text": "Anthropic 发布 Claude Code 中的 Code Review 功能，这是一个多智能体代码审查系统，可自动分析 AI 生成的代码、标记逻辑错误，旨在帮助企业管理 AI 生成代码的激增。Anthropic 工程师表示，该功能使工程师代码产出提升 200%。",
+      "signal_strength": 0.85,
+      "insight": "多智能体协作成为处理复杂、高精度任务（如代码审查）的新范式，能大幅提升产出质量与效率。",
+      "implication": "小红书内容创作工具（如脚本生成、视频剪辑）可引入多Agent协作架构，进行质量校验与优化。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "TechCrunch",
+          "url": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/"
+        },
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon"
+        },
+        {
+          "name": "@bcherny (Anthropic)",
+          "url": "https://x.com/bcherny/status/2031089411820228645"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "内容创作与理解",
+        "头部公司战略动作"
+      ]
+    },
+    {
+      "title": "OpenAI Acquires Promptfoo to Strengthen AI Security Testing",
+      "signal_text": "OpenAI 宣布收购 AI 安全平台 Promptfoo，该平台帮助企业识别和修复 AI 系统开发中的漏洞。OpenAI 表示，其技术将增强 OpenAI Frontier 中的 Agentic 安全测试和评估能力，且 Promptfoo 将保持开源。",
+      "signal_strength": 0.85,
+      "insight": "头部厂商将AI安全测试与评估能力整合为核心基础设施，以应对Agentic系统带来的新型风险。",
+      "implication": "小红书部署的任何平台级Agent（如导购、客服）都必须前置集成系统化的安全测试与评估流程。",
+      "category": "infrastructure",
+      "sources": [
+        {
+          "name": "OpenAI Blog",
+          "url": "https://openai.com/index/openai-to-acquire-promptfoo"
+        },
+        {
+          "name": "@OpenAI",
+          "url": "https://x.com/OpenAI/status/2031052793835106753"
+        }
+      ],
+      "tags": [
+        "内容安全与治理",
+        "头部公司战略动作",
+        "Agent 与新交互范式"
+      ]
+    },
+    {
+      "title": "NVIDIA to Launch Open-Source AI Agent Platform",
+      "signal_text": "据 Wired 报道，NVIDIA 计划在年度开发者大会前推出一个开源 AI Agent 平台，其设计思路与 OpenClaw 类似，旨在拥抱 AI Agent 生态。此举表明硬件巨头正积极布局 Agent 软件栈，可能重塑开发工具格局。",
+      "signal_strength": 0.8,
+      "insight": "硬件巨头下场布局开源Agent平台，将加速Agent开发工具的标准化与生态繁荣。",
+      "implication": "小红书自研Agent框架可基于更成熟的开源底座，降低开发门槛，但需应对更激烈的生态竞争。",
+      "category": "ecosystem_shift",
+      "sources": [
+        {
+          "name": "Wired",
+          "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "头部公司战略动作",
+        "开源生态"
+      ]
+    },
+    {
+      "title": "Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents",
+      "signal_text": "吴恩达发布开源工具 Context Hub，为 Coding Agent 提供最新的 API 文档。通过简单的 CLI，Agent 可以获取精选文档，解决 Coding Agent 常使用过时 API 的问题，获 1500+ likes，关注度极高。",
+      "signal_strength": 0.8,
+      "insight": "为Agent提供动态、精准的上下文（如最新API文档）是提升其任务成功率的关键基础设施。",
+      "implication": "小红书电商、本地生活服务Agent需实时接入商品、价格、库存等动态业务数据源作为上下文。",
+      "category": "infrastructure",
+      "sources": [
+        {
+          "name": "@AndrewYNg",
+          "url": "https://x.com/AndrewYNg/status/2031051809499054099"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "开源生态",
+        "搜索与推荐"
+      ]
+    },
+    {
+      "title": "Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns",
+      "signal_text": "Perplexity CEO Arav Srinivas 宣布，Claude Code 现已作为子 Agent 集成到 Perplexity Computer 中，并添加了 GitHub CLI。同时，Perplexity Computer 可连接 Google 和 Meta Ads API，以人类无法匹敌的频率自主运行广告活动，获 1200+ likes。",
+      "signal_strength": 0.8,
+      "insight": "Agent能力正从信息处理延伸至商业操作（如广告投放），实现端到端的自动化商业闭环。",
+      "implication": "小红书电商广告、达人营销等场景可探索由Agent驱动的自动化策略制定与执行优化。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "@AravSrinivas",
+          "url": "https://x.com/AravSrinivas/status/2031039066352033884"
+        },
+        {
+          "name": "@AravSrinivas",
+          "url": "https://x.com/AravSrinivas/status/2031105215429226843"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "搜索与推荐",
+        "头部公司战略动作"
+      ]
+    },
+    {
+      "title": "Research: Agentic RAG Taxonomy and Architectures Survey",
+      "signal_text": "一篇来自知名研究人员的论文《SoK: Agentic Retrieval-Augmented Generation (RAG): Taxonomy, Architectures, Evaluation, and Research Directions》系统梳理了 Agentic RAG 的 taxonomy、架构、评估和研究方向，指出 RAG 系统正演化为 Agentic 架构，LLM 自主协调多步推理、动态内存管理和迭代检索策略。",
+      "signal_strength": 0.75,
+      "insight": "RAG系统正从静态检索增强向由LLM自主协调的、具备多步推理与动态记忆的Agentic架构演进。",
+      "implication": "小红书的搜索推荐系统需升级为Agentic RAG架构，以处理更复杂的用户意图与多轮交互。",
+      "category": "research_breakthrough",
+      "sources": [
+        {
+          "name": "Arxiv",
+          "url": "http://arxiv.org/abs/2603.07379v1"
+        }
+      ],
+      "tags": [
+        "搜索与推荐",
+        "Agent 与新交互范式",
+        "技术突破"
+      ]
+    },
+    {
+      "title": "a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share",
+      "signal_text": "a16z 发布的报告指出，全球 AI 使用正分裂为三个 distinct camps。同时，视频、音乐和语音类 AI 产品已开始从图像生成工具中夺取市场份额。报告还显示，Sora 日活用户已超 300 万，ChatGPT 付费订阅用户数是 Gemini 和 Claude 总和的 2.5 倍以上。",
+      "signal_strength": 0.75,
+      "insight": "AI应用市场分化加剧，视频/音乐/语音等富媒体生成工具增长迅猛，正成为独立赛道。",
+      "implication": "小红书需加速在视频生成与编辑等富媒体AI创作工具上的投入，以应对创作者需求与竞争。",
+      "category": "ecosystem_shift",
+      "sources": [
+        {
+          "name": "@a16z",
+          "url": "https://x.com/a16z/status/2031105607303049541"
+        },
+        {
+          "name": "@a16z",
+          "url": "https://x.com/a16z/status/2031172864568848546"
+        },
+        {
+          "name": "@a16z",
+          "url": "https://x.com/a16z/status/2031095477936566306"
+        }
+      ],
+      "tags": [
+        "行业风险与监管",
+        "内容创作与理解",
+        "头部公司战略动作"
+      ]
+    },
+    {
+      "title": "Research: Benchmarking LLM Online Adaptation to Continual Knowledge Streams",
+      "signal_text": "研究人员引入 Online Adaptation Benchmark (OAB)，用于评估 LLM 在动态、持续知识流中的在线适应能力。该研究关注 LLM 在现实动态语境中遇到不断演变的知识时，如何保持准确和有效，对内容平台的实时信息处理有参考价值。",
+      "signal_strength": 0.7,
+      "insight": "LLM对持续知识流的在线适应能力成为其在动态内容平台中保持准确性与时效性的关键瓶颈。",
+      "implication": "小红书的搜索推荐与内容理解模型需具备对实时热点、趋势的快速在线学习与适应机制。",
+      "category": "research_breakthrough",
+      "sources": [
+        {
+          "name": "Arxiv",
+          "url": "http://arxiv.org/abs/2603.07392v1"
+        }
+      ],
+      "tags": [
+        "搜索与推荐",
+        "技术突破",
+        "内容理解"
+      ]
+    },
+    {
+      "title": "Community Highlights AI Agent Security Risks via Email Hijacking",
+      "signal_text": "社区讨论指出，如果 AI Agent 读取和回复邮件，攻击者可在邮件正文中嵌入指令，从而劫持 Agent（例如用于自动回复、支持分流）。这揭示了 Agent 在真实环境交互中面临的新型安全威胁，对内容安全和治理有警示作用。",
+      "signal_strength": 0.65,
+      "insight": "Agent在与外部环境（如邮件）交互时，面临指令注入等新型安全威胁，攻击面扩大。",
+      "implication": "小红书任何具备外部交互能力的Agent（如客服、创作者助手）必须强化输入清洗与指令过滤机制。",
+      "category": "infrastructure",
+      "sources": [
+        {
+          "name": "Reddit AI",
+          "url": "https://www.reddit.com/r/artificial/comments/1rpcthv/3_ways_someone_can_hijack_your_ai_agent_through/"
+        }
+      ],
+      "tags": [
+        "内容安全与治理",
+        "Agent 与新交互范式",
+        "行业风险与监管"
+      ]
+    }
+  ],
+  "trend_summary": "今日核心趋势观察：\n- **趋势要点1**：**AI Agent 生态正从“单点工具”加速迈向“多Agent协作与安全平台化”**。微软、Anthropic、NVIDIA 等巨头正通过推出跨应用协作平台、开源框架和多智能体系统，构建下一代 AI 基础设施，其核心是让多个 Agent 能安全、可靠地协同工作。\n- **趋势要点2**：**AI 生成内容的激增正催生“质量与安全”的自动化守门人**。无论是针对 AI 生成代码的自动审查（Claude Code Review），还是针对 AI 系统漏洞的自动化测试（OpenAI 收购 Promptfoo），都表明行业重心从“生成能力”向“生成质量与可控性”快速迁移。\n- **趋势要点3**：**AI 应用层正经历“垂直深化”与“使用分裂”**。一方面，AI 深度集成进特定工作流（如代码开发、广告投放）；另一方面，全球用户偏好正分裂为不同阵营，视频/音乐/语音等模态工具开始争夺市场份额，预示应用场景的多元化和专业化。\n- **趋势要点4**：**“动态知识更新”与“持续学习”成为 Agent 能力的关键瓶颈与研究前沿**。无论是为 Coding Agent 提供最新 API 文档的工具，还是评估 LLM 适应持续知识流的新基准（OAB），都指向让 AI 系统在快速变化的世界中保持实时性和准确性的核心挑战。\n- **趋势要点5**：**Agent 在真实环境中的自主行动引发了新型、具体化的安全威胁**。社区已开始关注如通过邮件劫持 Agent 等实际攻击向量，这迫使行业在推动 Agent 落地的同时，必须将安全测试（Agentic Security）提升到与能力开发同等重要的地位。\n\n今日 top signals：\n- [0.9] Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents\n- [0.8] Anthropic Launches Multi-Agent Code Review for Claude Code\n- [0.8] OpenAI Acquires Promptfoo to Strengthen AI Security Testing\n- [0.8] NVIDIA to Launch Open-Source AI Agent Platform\n- [0.8] Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents\n- [0.8] Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns\n- [0.8] Research: Agentic RAG Taxonomy and Architectures Survey\n- [0.8] a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share\n- [0.7] Research: Benchmarking LLM Online Adaptation to Continual Knowledge Streams\n- [0.7] Community Highlights AI Agent Security Risks via Email Hijacking\n\n趋势走向：\n- AI Safety Pivot and Accelerated AGI Timelines: accelerating (signals: 26)\n- Embodied AI and Autonomous Vehicle Investment Surge: accelerating (signals: 11)\n- Open Source Foundation Model Proliferation: accelerating (signals: 14)\n- AI Hardware Competition and Nvidia Challengers: stable (signals: 9)\n- Enterprise AI Agent Adoption and Product Launches: accelerating (signals: 32)\n- AI Infrastructure and Supply Chain Reshoring: fading (signals: 2)\n- AI Research Acceleration in Reasoning and Efficiency: accelerating (signals: 35)\n- AI Talent Wars and Legal Battles: accelerating (signals: 11)\n- Legacy System Disruption by AI Modernization: accelerating (signals: 2)\n- AI-Powered Search and Information Retrieval Transformation: accelerating (signals: 5)"
+}

@@ -1,0 +1,217 @@
+# AI Frontier Insight Bot - Data Sources Configuration
+
+# ═══════════════════════════════════════════════════
+# Twitter / X (via x-monitor)
+# ═══════════════════════════════════════════════════
+# 实际数据来自 x-monitor 子系统，通过浏览器抓取 X List (~200 账号)
+# 数据存储在 data/x-monitor/{date}.json，由 TwitterCollector 读取
+# 账号来源：mitbunny.ai 数据库，筛选条件：粉丝≥5000，AI 相关角色
+# 覆盖：OpenAI, Google/DeepMind, NVIDIA, Anthropic, Meta, Microsoft,
+#       HuggingFace, 各大高校教授, AI 创业公司创始人, 独立研究者等
+twitter:
+  enabled: true
+  source: "x-monitor"  # 从 data/x-monitor/*.json 读取，非 API 直采
+  list_url: "https://x.com/i/lists/2026486577304842549"
+  max_members: 200
+  sync_source: "https://x.mitbunny.ai"
+
+# ═══════════════════════════════════════════════════
+# GitHub
+# ═══════════════════════════════════════════════════
+github:
+  enabled: true
+  trending:
+    topics:
+      - "artificial-intelligence"
+      - "machine-learning"
+      - "llm"
+      - "agents"
+      - "deep-learning"
+      - "generative-ai"
+    language: ""
+    since: "daily"
+    max_results: 30
+  watch_repos:
+    # Foundation model SDKs
+    - "openai/openai-python"
+    - "anthropics/anthropic-sdk-python"
+    # Frameworks
+    - "langchain-ai/langchain"
+    - "langchain-ai/langgraph"
+    - "microsoft/autogen"
+    - "crewAIInc/crewAI"
+    # Models & Serving
+    - "huggingface/transformers"
+    - "vllm-project/vllm"
+    - "ollama/ollama"
+    # Notable Projects
+    - "All-Hands-AI/OpenHands"
+    - "browser-use/browser-use"
+    - "Significant-Gravitas/AutoGPT"
+    # Benchmarks
+    - "princeton-nlp/SWE-bench"
+
+# ═══════════════════════════════════════════════════
+# Arxiv
+# ═══════════════════════════════════════════════════
+arxiv:
+  enabled: true
+  categories:
+    - "cs.AI"   # Artificial Intelligence
+    - "cs.CL"   # Computation and Language (NLP)
+    - "cs.LG"   # Machine Learning
+    - "cs.CV"   # Computer Vision
+    - "cs.MA"   # Multi-Agent Systems
+  max_results: 25
+  sort_by: "submittedDate"
+
+# ═══════════════════════════════════════════════════
+# HuggingFace
+# ═══════════════════════════════════════════════════
+huggingface:
+  enabled: true
+  trending_models: 15
+  new_models: 10
+  trending_spaces: 10
+
+# ═══════════════════════════════════════════════════
+# RSS Feeds
+# ═══════════════════════════════════════════════════
+rss:
+  enabled: true
+  feeds:
+    # ── 付费科技媒体（标题+摘要作为信号线索）──
+    - url: "https://www.theinformation.com/feed"
+      name: "The Information"
+      group: "premium_tech_media"
+      enabled: true
+
+    # ── 英文科技媒体 ──
+    - url: "https://techcrunch.com/feed/"
+      name: "TechCrunch"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.theverge.com/rss/index.xml"
+      name: "The Verge"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://feeds.arstechnica.com/arstechnica/technology-lab"
+      name: "Ars Technica"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.wired.com/feed/rss"
+      name: "Wired"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://venturebeat.com/feed/"
+      name: "VentureBeat"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://www.technologyreview.com/feed/"
+      name: "MIT Technology Review"
+      group: "english_tech_media"
+      enabled: true
+    - url: "https://feeds.feedburner.com/TechCrunch/artificial-intelligence"
+      name: "TechCrunch AI"
+      group: "english_tech_media"
+      enabled: false  # FeedBurner URL returns 404
+
+    # ── AI 公司博客（官方博客）──
+    - url: "https://openai.com/blog/rss.xml"
+      name: "OpenAI Blog"
+      group: "official_blog"
+      enabled: true
+    - url: "https://blog.google/technology/ai/rss/"
+      name: "Google AI Blog"
+      group: "official_blog"
+      enabled: true
+    - url: "https://engineering.fb.com/feed/"
+      name: "Meta Engineering"
+      group: "official_blog"
+      enabled: true
+    - url: "https://raw.githubusercontent.com/Olshansk/rss-feeds/main/feeds/feed_anthropic_news.xml"
+      name: "Anthropic Blog"
+      group: "official_blog"
+      enabled: true
+
+    # ── 技术社区 ──
+    - url: "https://hnrss.org/frontpage"
+      name: "Hacker News"
+      group: "tech_community"
+      enabled: true
+    - url: "https://www.reddit.com/r/MachineLearning/.rss"
+      name: "Reddit ML"
+      group: "tech_community"
+      enabled: true
+    - url: "https://www.reddit.com/r/artificial/.rss"
+      name: "Reddit AI"
+      group: "tech_community"
+      enabled: true
+
+    # ── ML 平台 ──
+    - url: "https://huggingface.co/blog/feed.xml"
+      name: "HuggingFace Blog"
+      group: "ml_platform"
+      enabled: true
+
+    # ── AI Safety / Alignment ──
+    - url: "https://www.lesswrong.com/feed.xml?view=curated-rss"
+      name: "LessWrong (Curated)"
+      group: "alignment"
+      enabled: true
+    - url: "https://www.alignmentforum.org/feed.xml"
+      name: "Alignment Forum"
+      group: "alignment"
+      enabled: true
+
+    # ── VC / 行业洞察 (a16z) ──
+    # a16z 博客 RSS 已下线（全 404），改用 podcast feeds
+    - url: "https://feeds.simplecast.com/JGE3yC0V"
+      name: "a16z Podcast (The a16z Show)"
+      group: "vc_insight"
+      enabled: true
+    - url: "https://feeds.simplecast.com/j9kKMsfH"
+      name: "a16z 16 Minutes News"
+      group: "vc_insight"
+      enabled: true
+    - url: "https://feeds.simplecast.com/AuWJKpna"
+      name: "a16z Live"
+      group: "vc_insight"
+      enabled: true
+
+    # ── 中文播客 / 自媒体 ──
+    - url: "https://feeds.fireside.fm/sv101/rss"
+      name: "硅谷101"
+      group: "chinese_podcast"
+      enabled: true
+    - url: "https://feed.xyzfm.space/ym6ug8jctfp8"
+      name: "海外独角兽"
+      group: "chinese_podcast"
+      enabled: true
+    # 注：海外独角兽公众号文章暂无稳定 RSS，此为其小宇宙播客 feed（via Apple Podcasts）
+    # 内容为 AI 深度访谈（DeepSeek、Agent、AI Scientist 等主题）
+
+    # ── 研究博客 ──
+    - url: "https://lilianweng.github.io/index.xml"
+      name: "Lil'Log (Lilian Weng)"
+      group: "research_blog"
+      enabled: true
+
+    # ── Benchmark / Leaderboard ──
+    - url: "https://blog.lmarena.ai/feed"
+      name: "LMSYS Arena Blog"
+      group: "benchmark"
+      enabled: true
+    - url: "https://scale.com/blog/rss.xml"
+      name: "Scale AI Blog"
+      group: "benchmark"
+      enabled: true
+    - url: "https://aider.chat/feed.xml"
+      name: "Aider Leaderboard"
+      group: "benchmark"
+      enabled: true
+    - url: "https://arcprize.org/feed"
+      name: "ARC Prize"
+      group: "benchmark"
+      enabled: true
+

@@ -1,0 +1,118 @@
+{
+  "week": "W17",
+  "date_range": "2026-04-14 to 2026-04-20",
+  "type_tag": "Context保卫战",
+  "theme": "本周AI同时进入了五个以上专业领域，垂直行业的专业壁垒正在被同时击穿。对在位者来说，真正的问题不是能不能挡住，而是手里最值钱的资产——用户context——应该封起来、用来自建模型、还是主动开放给AI调用。而在它们犹豫的每一天，模型公司都在通过持久记忆、自学习Agent和数百万用户交互疯狂积累自己的context。这是一场和时间赛跑的保卫战。",
+  "key_signals": [
+    {
+      "signal": "Salesforce Headless 360：27年CRM平台全面改造为Agent基础设施，100+新工具，60+MCP工具",
+      "source": "VentureBeat / TDX 2026",
+      "importance": 3,
+      "category": "ecosystem_shift"
+    },
+    {
+      "signal": "Anthropic发布Claude Opus 4.7（SWE-bench Pro 64.3%）+ Claude Design（挑战Figma）",
+      "source": "Anthropic / VentureBeat",
+      "importance": 3,
+      "category": "model_release"
+    },
+    {
+      "signal": "OpenAI推出生命科学专用模型GPT-Rosalind，与Amgen/Moderna/Allen Institute/Thermo Fisher合作",
+      "source": "OpenAI / VentureBeat",
+      "importance": 3,
+      "category": "strategic_move"
+    },
+    {
+      "signal": "OpenAI Codex升级为全能计算机操作员，90+插件，可操作Mac应用",
+      "source": "OpenAI Blog / VentureBeat",
+      "importance": 3,
+      "category": "product_launch"
+    },
+    {
+      "signal": "Lightrun调查：43%AI生成代码投产需调试，0%负责人非常有信心",
+      "source": "VentureBeat / Lightrun",
+      "importance": 3,
+      "category": "infrastructure"
+    },
+    {
+      "signal": "Shopify发布AI Toolkit（MCP）+ Agentic Storefronts + Universal Commerce Protocol",
+      "source": "Shopify / AlternativeTo",
+      "importance": 3,
+      "category": "ecosystem_shift"
+    },
+    {
+      "signal": "SAP全面支持MCP协议，ServiceNow推出AI Agent Fabric支持MCP和A2A",
+      "source": "Techzine / ServiceNow",
+      "importance": 2,
+      "category": "ecosystem_shift"
+    },
+    {
+      "signal": "OpenAI发布网络安全模型GPT-5.4-Cyber",
+      "source": "OpenAI / Wired",
+      "importance": 2,
+      "category": "model_release"
+    },
+    {
+      "signal": "Cursor洽谈以$50B估值融资$2B+",
+      "source": "TechCrunch",
+      "importance": 2,
+      "category": "strategic_move"
+    },
+    {
+      "signal": "Stanford HAI 2026：AI采用速度超互联网，年轻开发者就业率降20%",
+      "source": "Reddit / Stanford HAI",
+      "importance": 2,
+      "category": "ecosystem_shift"
+    }
+  ],
+  "trend_contexts": [
+    {
+      "trend": "垂类平台Agent化",
+      "status": "新趋势",
+      "new_signals": "Salesforce Headless 360 + Shopify AI Toolkit/UCP + SAP MCP + ServiceNow AI Agent Fabric"
+    },
+    {
+      "trend": "AI品类并行扩张",
+      "status": "新趋势",
+      "new_signals": "Codex升级 + Claude Design + GPT-Rosalind + GPT-5.4-Cyber"
+    },
+    {
+      "trend": "模型迭代加速",
+      "status": "延续W14-W16",
+      "new_signals": "Opus 4.7 + Codex全面升级"
+    },
+    {
+      "trend": "Agent生产可靠性缺口",
+      "status": "延续W16",
+      "new_signals": "Lightrun 43%调试率 + VentureBeat 1/3失败率"
+    }
+  ],
+  "prediction_reviews": [
+    {
+      "original_prediction": "六个月内至少一家主要AI公司将在模型发布时同时提供真实任务通过率指标",
+      "source_week": "W16",
+      "status": "观察中",
+      "confidence_change": "↑ 略升",
+      "evidence": "Scale AI CEO展示Muse Spark在ClawEval上的排名，方向符合但头部模型公司正式发布中尚未采用"
+    },
+    {
+      "original_prediction": "Agent零信任架构将成为企业采购Agent服务的标准要求之一",
+      "source_week": "W16",
+      "status": "观察中",
+      "confidence_change": "→ 持平",
+      "evidence": "VentureBeat调查显示多数企业无法阻止Stage-3 Agent威胁，威胁认知增强但甲方尚未形成统一采购要求"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "三个月内，多家非AI原生的行业巨头将宣布类似的平台Agent化改造计划，Oracle/Adobe/Workday等将面临跟进压力",
+      "confidence": "中高",
+      "rationale": "Salesforce Headless 360是标杆事件，Shopify/SAP/ServiceNow已在同期做出类似动作，形成行业趋势"
+    },
+    {
+      "prediction": "封闭策略的在位者将在12个月内面临用户流失加速，开放平台的体验差距将快速扩大",
+      "confidence": "中",
+      "rationale": "出版业经验（79%封锁AI爬虫但未能阻止AI内容增长）是先导案例，AI Agent能力的持续提升将加剧封闭平台的体验劣势"
+    }
+  ]
+}

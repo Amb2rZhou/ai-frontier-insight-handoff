@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": " -path:index -path:weekly-summaries",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:companies  ",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
+    },
+    {
+      "query": "path:products  ",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "path:trends  ",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "path:weekly-summaries  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084188
+      }
+    },
+    {
+      "query": "path:technologies  ",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": 0.4,
+  "nodeSizeMultiplier": 0.955160590277778,
+  "lineSizeMultiplier": 0.5766015625,
+  "collapse-forces": false,
+  "centerStrength": 0.288194444444444,
+  "repelStrength": 3.73003472222222,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 1.5077511339985592,
+  "close": true
+}

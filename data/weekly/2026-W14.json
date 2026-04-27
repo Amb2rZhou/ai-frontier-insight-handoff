@@ -1,0 +1,142 @@
+{
+  "week": "2026-W14",
+  "date_range": "2026-03-24 ~ 2026-03-30",
+  "generated_at": "2026-03-30T20:00:00+08:00",
+  "type_tag": "交互范式转移",
+  "theme": "Agent本周完成了从对话窗口到操作系统的跨越——当它能直接操控设备、执行任务和调用真实服务时，AI竞争的核心从谁的回答最好变成了谁的Agent最先住进用户的设备。",
+  "key_signals": [
+    {
+      "title": "Anthropic发布Claude Computer Use",
+      "signal_strength": 0.88,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-24", "2026-03-25", "2026-03-26"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai"},
+        {"name": "9to5Mac", "url": "https://9to5mac.com/2026/03/23/anthropic-is-giving-claude-the-ability-to-use-your-mac-for-you/"}
+      ],
+      "relevance_to_thesis": "最激进的OS级Agent实现，标志着Agent从对话窗口正式进入操作系统"
+    },
+    {
+      "title": "Google Gemini设备端Agent能力上线",
+      "signal_strength": 0.8,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-24"],
+      "sources": [
+        {"name": "9to5Google", "url": "https://9to5google.com/2026/03/17/gemini-screen-automation-pixel/"},
+        {"name": "Android Central", "url": "https://www.androidcentral.com/phones/google-pixel/gemini-screen-automation-expands-to-pixel-10-series"}
+      ],
+      "relevance_to_thesis": "移动端Agent执行能力上线，覆盖更大用户基数的设备入口争夺"
+    },
+    {
+      "title": "Google发布Gemini 3.1 Flash Live",
+      "signal_strength": 0.9,
+      "category": "model_release",
+      "dates_appeared": ["2026-03-27"],
+      "sources": [
+        {"name": "Google AI Blog", "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/"},
+        {"name": "MarkTechPost", "url": "https://www.marktechpost.com/2026/03/26/google-releases-gemini-3-1-flash-live-a-real-time-multimodal-voice-model-for-low-latency-audio-video-and-tool-use-for-ai-agents/"}
+      ],
+      "relevance_to_thesis": "实时语音+视觉Agent，进一步缩小Agent与人类助手的交互界面差异"
+    },
+    {
+      "title": "litellm PyPI供应链攻击",
+      "signal_strength": 0.9,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-03-25"],
+      "sources": [
+        {"name": "Snyk", "url": "https://snyk.io/articles/poisoned-security-scanner-backdooring-litellm/"},
+        {"name": "The Hacker News", "url": "https://thehackernews.com/2026/03/teampcp-backdoors-litellm-versions.html"}
+      ],
+      "relevance_to_thesis": "Agent获得OS级权限后供应链成为新攻击面，每个依赖库都是潜在后门"
+    },
+    {
+      "title": "Intercom发布Fin Apex 1.0",
+      "signal_strength": 0.8,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-27"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6"},
+        {"name": "Intercom Blog", "url": "https://www.intercom.com/blog/announcing-fin-apex-the-age-of-vertical-models-is-here/"}
+      ],
+      "relevance_to_thesis": "垂直定制模型击败通用前沿模型，强化基座模型可替换组件化趋势"
+    },
+    {
+      "title": "OpenAI Codex推出插件支持",
+      "signal_strength": 0.8,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-03-28"],
+      "sources": [
+        {"name": "OpenAI Devs", "url": "https://x.com/OpenAIDevs/status/2037604273434018259"}
+      ],
+      "relevance_to_thesis": "Agent通过插件直接接入企业工作流，从对话转向执行"
+    },
+    {
+      "title": "Cloudflare发布Dynamic Workers",
+      "signal_strength": 0.82,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-03-25"],
+      "sources": [
+        {"name": "Cloudflare Blog", "url": "https://blog.cloudflare.com/dynamic-workers/"},
+        {"name": "VentureBeat", "url": "https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x"}
+      ],
+      "relevance_to_thesis": "Agent沙箱化速度提升100x，解决规模化部署的关键基础设施瓶颈"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "Enterprise AI Agent Adoption and Product Launches",
+      "trajectory": "accelerating",
+      "this_week_signals": 15,
+      "relationship_to_thesis": "Agent从对话跨入执行，是企业AI Agent采纳加速的直接驱动力"
+    },
+    {
+      "trend_name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "trajectory": "accelerating",
+      "this_week_signals": 8,
+      "relationship_to_thesis": "Agent获得OS级权限后安全威胁性质改变，从行为失控扩展到供应链攻击"
+    },
+    {
+      "trend_name": "AI Research Acceleration in Reasoning and Efficiency",
+      "trajectory": "accelerating",
+      "this_week_signals": 7,
+      "relationship_to_thesis": "TurboQuant、IndexCache等效率优化直接支撑Agent实时执行的基础设施需求"
+    },
+    {
+      "trend_name": "AI Hardware Competition and Nvidia Challengers",
+      "trajectory": "accelerating",
+      "this_week_signals": 4,
+      "relationship_to_thesis": "Arm进入芯片制造、Inflection 900MW数据中心，基础设施为Agent时代加速投资"
+    }
+  ],
+  "prediction_review": [
+    {
+      "prediction": "更多头部AI应用宣布基于开源模型构建自有模型（W13预测）",
+      "status": "partially_confirmed",
+      "evidence": "Intercom Fin Apex 1.0在客服场景击败通用前沿模型，验证垂直模型超越通用API趋势扩散，但具体路径为后训练而非开源微调"
+    },
+    {
+      "prediction": "Agent安全事件将推动Agent IAM产品发布（W13预测）",
+      "status": "partially_confirmed",
+      "evidence": "OpenAI推出AI Safety Bug Bounty，Anthropic公开Claude Code安全设计，NVIDIA发布OpenShell Agent治理框架。安全产品化趋势启动但完整Agent IAM尚未出现"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "主要操作系统厂商将发布专门的Agent权限管理API或框架",
+      "confidence_level": "高",
+      "timeframe": "未来数月",
+      "basis": "Anthropic和Google的沙箱设计已证明OS级Agent权限管理的紧迫需求；OS厂商有最强动机和能力"
+    },
+    {
+      "prediction": "先入为主效应将在特定操作系统上显现，率先进入的Agent获得显著用户留存优势",
+      "confidence_level": "中",
+      "timeframe": "未来一个季度",
+      "basis": "Agent积累用户操作历史和偏好后切换成本上升；但用户行为受价格等多因素影响"
+    }
+  ],
+  "watchlist": [
+    "Claude Computer Use真实场景表现和安全事件报告——定义行业对Agent权限的态度",
+    "litellm供应链攻击后续——TeamPCP已扩散到五个生态系统，更大规模攻击的可能性",
+    "Intercom Fin Apex后续——更多垂直应用是否跟进自建模型策略"
+  ]
+}

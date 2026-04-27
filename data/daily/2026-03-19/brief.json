@@ -1,0 +1,217 @@
+{
+  "date": "2026-03-19",
+  "signal_count": 10,
+  "raw_item_count": 224,
+  "insights": [
+    {
+      "title": "Google Launches Stitch: AI-Native Vibe Design Platform",
+      "signal_text": "Google Labs 正式推出 Stitch，这是一个由自然语言驱动的高保真设计平台，可将用户对应用或商业概念的描述转化为 AI 原生的设计画布，标志着 AI 辅助创意工具进入新阶段。该发布推文获得 730+ likes 和 43k+ views，引发高度关注。",
+      "signal_strength": 0.85,
+      "insight": "AI原生设计平台将创意生成门槛降至自然语言，重塑内容生产上游。",
+      "implication": "内容平台的创作者工具可以考虑集成或对标此类AI设计能力，赋能用户快速生成高保真视觉内容。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "@GoogleLabs",
+          "url": "https://x.com/GoogleLabs/status/2034337527293944228"
+        }
+      ],
+      "tags": [
+        "内容创作与理解",
+        "Agent 与新交互范式",
+        "头部公司战略动作"
+      ]
+    },
+    {
+      "title": "MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks",
+      "signal_text": "据 VentureBeat 报道，中国 AI 初创公司 MiniMax 发布了专有模型 M2.7，该模型具备“自我进化”能力，据称可自主执行 30-50% 的强化学习研究工作流，专为编码和智能体任务设计。该模型已在 Ollama 云平台上线，供开发者使用。",
+      "signal_strength": 0.8,
+      "insight": "模型“自我进化”能力将Agent开发从人工调参转向自动化迭代，大幅提升效率。",
+      "implication": "电商与内容平台的AI研发团队可以评估此类模型，用于自动化推荐算法优化或客服Agent的持续学习。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "VentureBeat",
+          "url": "https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50"
+        },
+        {
+          "name": "@ollama",
+          "url": "https://x.com/ollama/status/2034351916097106424"
+        }
+      ],
+      "tags": [
+        "头部公司战略动作",
+        "Agent 与新交互范式",
+        "开源生态"
+      ]
+    },
+    {
+      "title": "Google Releases Developer Guide for AI Agent Protocols",
+      "signal_text": "Google Developers 发布了《AI Agent 协议开发者指南》，旨在通过采用 MCP、A2A、UCP 等 6 种开放标准，解决智能体与不同工具、API 和前端集成时的定制化胶水代码问题，推动智能体开发生态的标准化。该推文获 317+ likes。",
+      "signal_strength": 0.75,
+      "insight": "Agent协议标准化是生态爆发的关键基础设施，降低集成成本。",
+      "implication": "平台在构建内部Agent系统时，建议探索采用此类开放协议，以兼容更广泛的工具生态。",
+      "category": "ecosystem_shift",
+      "sources": [
+        {
+          "name": "@googledevs",
+          "url": "https://x.com/googledevs/status/2034374282504015964"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "开源生态",
+        "技术突破"
+      ]
+    },
+    {
+      "title": "Research: New Benchmark for Safety Evaluation of Unified Multimodal Models",
+      "signal_text": "研究人员提出 UniSAFE，这是首个针对统一多模态模型（UMMs）的综合安全评估基准。与单任务模型不同，UMMs 引入了跨模态的新安全风险，该基准旨在填补现有评估在任务和模态上的碎片化空白。",
+      "signal_strength": 0.75,
+      "insight": "统一多模态模型（UMMs）的安全风险是跨模态的，传统单模态评估已失效。",
+      "implication": "内容安全团队在审核AI生成的图文/视频时，必须建立针对跨模态攻击的新型评估基准。",
+      "category": "research_breakthrough",
+      "sources": [
+        {
+          "name": "Arxiv (UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models)",
+          "url": "http://arxiv.org/abs/2603.17476v1"
+        }
+      ],
+      "tags": [
+        "内容安全与治理",
+        "技术突破",
+        "多模态融合"
+      ]
+    },
+    {
+      "title": "Perplexity's Comet AI Agent App Completes Multi-Platform Rollout",
+      "signal_text": "Perplexity 的 AI 智能体应用 Comet 正式登陆 iOS，完成了其在 Android、Web 和 iOS 的多平台覆盖。Comet 旨在作为自主执行复杂任务的智能体，此次发布标志着消费级 AI Agent 产品竞争进入新阶段。发布推文获 495+ likes 和 41k+ views。",
+      "signal_strength": 0.75,
+      "insight": "消费级AI Agent完成多平台覆盖，标志着自主任务执行从概念进入用户日常。",
+      "implication": "社区与电商平台值得关注如何将自身服务（如购物、内容管理）封装成Compatible Tools供主流Agent调用。",
+      "category": "strategic_move",
+      "sources": [
+        {
+          "name": "@perplexity_ai",
+          "url": "https://x.com/perplexity_ai/status/2034315813105103082"
+        },
+        {
+          "name": "@AravSrinivas",
+          "url": "https://x.com/AravSrinivas/status/2034316312516907311"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "头部公司战略动作",
+        "新产品形态"
+      ]
+    },
+    {
+      "title": "HuggingFace CEO Highlights Agentic World Challenges and Adaptations",
+      "signal_text": "HuggingFace CEO Clement Delangue 指出，AI 智能体世界带来新挑战，如其大型开源仓库正被 AI 生成的“垃圾”PR 淹没（约每 3 分钟一个）。同时，HF 也推出新功能，为智能体自动提供论文的 Markdown 版本以节省 token，并优化了热门研究论文的阅读体验。",
+      "signal_strength": 0.7,
+      "insight": "AI Agent的自动化行为正在污染开源协作生态，生成大量低质内容。",
+      "implication": "内容平台与开源社区的治理团队需要考虑设计针对AI Agent的贡献审核与反垃圾机制。",
+      "category": "ecosystem_shift",
+      "sources": [
+        {
+          "name": "@ClementDelangue",
+          "url": "https://x.com/ClementDelangue/status/2034294644800974908"
+        },
+        {
+          "name": "@_akhaliq",
+          "url": "https://x.com/_akhaliq/status/2034332776988569764"
+        },
+        {
+          "name": "@ClementDelangue",
+          "url": "https://x.com/ClementDelangue/status/2034277529981178007"
+        }
+      ],
+      "tags": [
+        "开源生态",
+        "Agent 与新交互范式",
+        "内容安全与治理"
+      ]
+    },
+    {
+      "title": "Andrew Ng Launches New Course on Agent Memory with Oracle",
+      "signal_text": "吴恩达（Andrew Ng）与 Oracle 合作推出新课程《Agent Memory: Building Memory-Aware Agents》。课程旨在解决智能体在单次会话中工作良好，但会话结束后记忆重置的问题，这对于需要长期、多会话协作的研究型智能体等场景至关重要。该推文获 483+ likes。",
+      "signal_strength": 0.7,
+      "insight": "Agent记忆是其实用化的关键瓶颈，决定长期协作与个性化服务深度。",
+      "implication": "电商客服、个人助手类Agent的研发团队可以探索课程中的记忆架构，实现跨会话的连续服务。",
+      "category": "research_breakthrough",
+      "sources": [
+        {
+          "name": "@AndrewYNg",
+          "url": "https://x.com/AndrewYNg/status/2034314027678192114"
+        }
+      ],
+      "tags": [
+        "Agent 与新交互范式",
+        "开源生态"
+      ]
+    },
+    {
+      "title": "Research: Inducing Epistemological Humility in LLMs to Reduce Hallucination",
+      "signal_text": "研究人员提出 HypoTermInstruct，一种通过有监督微调（SFT）诱导 LLM 产生“认识论谦逊”的方法。该数据集包含 31,487 个带有“假设性术语”（如“可能”、“据我所知”）的回答，旨在训练模型在不确定时主动承认知识边界，从而减少幻觉。",
+      "signal_strength": 0.7,
+      "insight": "诱导LLM“认识论谦逊”是减少幻觉的一种有前景的SFT路径。",
+      "implication": "搜索产品与内容生成系统的团队可以考虑利用类似方法微调模型，提升答案的可靠性与可信度。",
+      "category": "research_breakthrough",
+      "sources": [
+        {
+          "name": "Arxiv (Inducing Epistemological Humility in Large Language Models)",
+          "url": "http://arxiv.org/abs/2603.17504v1"
+        }
+      ],
+      "tags": [
+        "内容安全与治理",
+        "技术突破",
+        "搜索与推荐"
+      ]
+    },
+    {
+      "title": "PyTorch Introduces Generalized Dot-Product Attention for Recommendation Systems",
+      "signal_text": "PyTorch 团队发布论文并提出 Generalized Dot-Product Attention（GDPA），这是一种专为大规模推荐系统设计的生产级注意力内核。GDPA 用灵活的激活函数替代 softmax，以更好地适应现实世界的 RecSys 任务，展示了 AI 基础设施在垂直场景的持续优化。",
+      "signal_strength": 0.65,
+      "insight": "AI基础设施优化正深入推荐系统等核心业务场景，追求极致性能。",
+      "implication": "推荐系统算法团队可以关注并测试GDPA等定制化内核，以提升大规模排序任务的效率与效果。",
+      "category": "infrastructure",
+      "sources": [
+        {
+          "name": "@PyTorch",
+          "url": "https://x.com/PyTorch/status/2034311193444094207"
+        }
+      ],
+      "tags": [
+        "技术突破",
+        "搜索与推荐",
+        "开源生态"
+      ]
+    },
+    {
+      "title": "Baidu's New OCR Model Ranks High on Benchmark",
+      "signal_text": "百度新发布的 OCR 模型 Qianfan-OCR 在 OlmOCRBench 榜单上位列第 7。该模型是一个统一的端到端文档智能模型，展示了中文科技公司在多模态文档理解领域的持续进展。",
+      "signal_strength": 0.6,
+      "insight": "端到端文档理解模型的进步，使得从复杂图像中提取结构化信息更加精准。",
+      "implication": "内容理解与电商商品信息提取团队可以考虑集成先进OCR模型，自动化处理用户上传的图片/文档。",
+      "category": "model_release",
+      "sources": [
+        {
+          "name": "@_akhaliq",
+          "url": "https://x.com/_akhaliq/status/2034303678555750749"
+        },
+        {
+          "name": "@NielsRogge",
+          "url": "https://x.com/NielsRogge/status/2034228653299573226"
+        }
+      ],
+      "tags": [
+        "内容创作与理解",
+        "多模态融合",
+        "头部公司战略动作"
+      ]
+    }
+  ],
+  "trend_summary": "今日核心趋势观察：\n- **趋势要点1**：**AI Agent 从“能力构建”进入“系统集成与规模化”阶段**。今日 signals 密集指向 Agent 的协议标准化（Google）、多平台部署（Perplexity）、记忆能力课程（Andrew Ng）以及生产级自主进化（MiniMax），表明行业焦点正从证明单个 Agent 的可行性，转向解决其在实际环境中可靠、可互操作、可规模化运行的工程挑战。\n- **趋势要点2**：**AI 安全评估范式正从单模态/单任务向统一多模态（UMM）风险演进**。随着模型能力融合（如视觉、语言、推理），安全风险出现跨模态新维度（如通过多模态输入进行诱导攻击）。UniSAFE 基准的提出，标志着安全研究正追赶前沿模型架构的发展，填补评估空白，是 AGI 安全前瞻性布局的关键一步。\n- **趋势要点3**：**AI 原生应用开发范式趋于“自然语言驱动”与“高保真生成”融合**。Google Stitch 的出现，将自然语言描述直接转化为可交互的设计画布，这超越了 Copilot 式的辅助，迈向由创意意图直接驱动完整、高保真原型生成的“Vibe Design”新范式，大幅降低从概念到可视产出的门槛。\n- **趋势要点4**：**基础设施层正针对特定高负载场景进行深度优化**。PyTorch 推出专为推荐系统优化的 GDPA 注意力内核，表明在通用 Transformer 架构之上，针对搜索、广告、推荐等超大规模、低延迟的特定生产场景，正出现一波底层算子和系统级的专业化、精细化创新浪潮。\n\n今日 top signals：\n- [0.8] Google Launches Stitch: AI-Native Vibe Design Platform: Google Labs 正式推出 Stitch，这是一个由自然语言驱动的高保真设计平台，可将用户对应用或商业概念的描述转化为 AI 原生的设计画布，标志着 AI 辅助创意工具进入新阶段。该发布推文获得\n- [0.8] MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks: 据 VentureBeat 报道，中国 AI 初创公司 MiniMax 发布了专有模型 M2.7，该模型具备“自我进化”能力，据称可自主执行 30-50% 的强化学习研究工作流，专为编码和智能体任务设\n- [0.8] Google Releases Developer Guide for AI Agent Protocols: Google Developers 发布了《AI Agent 协议开发者指南》，旨在通过采用 MCP、A2A、UCP 等 6 种开放标准，解决智能体与不同工具、API 和前端集成时的定制化胶水代码问题\n- [0.8] Research: New Benchmark for Safety Evaluation of Unified Multimodal Models: 研究人员提出 UniSAFE，这是首个针对统一多模态模型（UMMs）的综合安全评估基准。与单任务模型不同，UMMs 引入了跨模态的新安全风险，该基准旨在填补现有评估在任务和模态上的碎片化空白。\n- [0.8] Perplexity's Comet AI Agent App Completes Multi-Platform Rollout: Perplexity 的 AI 智能体应用 Comet 正式登陆 iOS，完成了其在 Android、Web 和 iOS 的多平台覆盖。Comet 旨在作为自主执行复杂任务的智能体，此次发布标志着消费\n- [0.7] HuggingFace CEO Highlights Agentic World Challenges and Adaptations: HuggingFace CEO Clement Delangue 指出，AI 智能体世界带来新挑战，如其大型开源仓库正被 AI 生成的“垃圾”PR 淹没（约每 3 分钟一个）。同时，HF 也推出新功能\n- [0.7] Andrew Ng Launches New Course on Agent Memory with Oracle: 吴恩达（Andrew Ng）与 Oracle 合作推出新课程《Agent Memory: Building Memory-Aware Agents》。课程旨在解决智能体在单次会话中工作良好，但会话结束\n- [0.7] Research: Inducing Epistemological Humility in LLMs to Reduce Hallucination: 研究人员提出 HypoTermInstruct，一种通过有监督微调（SFT）诱导 LLM 产生“认识论谦逊”的方法。该数据集包含 31,487 个带有“假设性术语”（如“可能”、“据我所知”）的回答，\n- [0.7] PyTorch Introduces Generalized Dot-Product Attention for Recommendation Systems: PyTorch 团队发布论文并提出 Generalized Dot-Product Attention（GDPA），这是一种专为大规模推荐系统设计的生产级注意力内核。GDPA 用灵活的激活函数替代 s\n- [0.6] Baidu's New OCR Model Ranks High on Benchmark: 百度新发布的 OCR 模型 Qianfan-OCR 在 OlmOCRBench 榜单上位列第 7。该模型是一个统一的端到端文档智能模型，展示了中文科技公司在多模态文档理解领域的持续进展。\n\n趋势走向：\n- AI Safety Pivot and Accelerated AGI Timelines: accelerating (signals: 32)\n- Embodied AI and Autonomous Vehicle Investment Surge: stable (signals: 11)\n- Open Source Foundation Model Proliferation: accelerating (signals: 21)\n- AI Hardware Competition and Nvidia Challengers: accelerating (signals: 11)\n- Enterprise AI Agent Adoption and Product Launches: accelerating (signals: 52)\n- AI Infrastructure and Supply Chain Reshoring: fading (signals: 2)\n- AI Research Acceleration in Reasoning and Efficiency: accelerating (signals: 47)\n- AI Talent Wars and Legal Battles: accelerating (signals: 17)\n- Legacy System Disruption by AI Modernization: accelerating (signals: 2)\n- AI-Powered Search and Information Retrieval Transformation: accelerating (signals: 5)"
+}

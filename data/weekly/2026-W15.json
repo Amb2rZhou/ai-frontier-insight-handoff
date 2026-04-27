@@ -1,0 +1,149 @@
+{
+  "week": "2026-W15",
+  "date_range": "2026-03-31 ~ 2026-04-06",
+  "generated_at": "2026-04-07T12:00:00+08:00",
+  "type_tag": "算不过来的账",
+  "theme": "Agent的真实使用成本正在击穿现有定价模型。Anthropic限制第三方工具调用、OpenAI重置Codex速率限制、GitHub API被Agent打满——三件事指向同一个经济学问题：Agent每session消耗的token是对话的数十倍，包月制撑不住了。谁来为Agent的真实成本买单？",
+  "key_signals": [
+    {
+      "title": "Anthropic限制Claude订阅者使用第三方工具",
+      "signal_strength": 0.95,
+      "category": "pricing_model_shift",
+      "dates_appeared": ["2026-04-04", "2026-04-05"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/"},
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/anthropic-cuts-off-the-ability-to-use-claude-subscriptions-with-openclaw-and"}
+      ],
+      "relevance_to_thesis": "包月制击穿的第一个症状——Agent使用模式的基础设施成本迫使从包月退回计量制"
+    },
+    {
+      "title": "Agent框架每session浪费35万+token",
+      "signal_strength": 0.90,
+      "category": "efficiency_crisis",
+      "dates_appeared": ["2026-04-04"],
+      "sources": [
+        {"name": "Reddit r/artificial", "url": "https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/"}
+      ],
+      "relevance_to_thesis": "揭示Agent成本问题的结构性根源——当前框架效率极低，95%的token消耗可被优化"
+    },
+    {
+      "title": "OpenAI Codex重置速率限制",
+      "signal_strength": 0.85,
+      "category": "capacity_pressure",
+      "dates_appeared": ["2026-04-02"],
+      "sources": [
+        {"name": "@thsottiaux", "url": "https://x.com/thsottiaux/status/2039248564967424483"}
+      ],
+      "relevance_to_thesis": "Agent使用模式超出预期负载模型的又一证据"
+    },
+    {
+      "title": "GitHub API速率限制成为Agent瓶颈",
+      "signal_strength": 0.82,
+      "category": "infrastructure_bottleneck",
+      "dates_appeared": ["2026-04-04"],
+      "sources": [
+        {"name": "@steipete", "url": "https://x.com/steipete/status/2040067429242675523"}
+      ],
+      "relevance_to_thesis": "Agent成本压力不限于模型API——整个互联网基础设施都未为Agent使用模式设计"
+    },
+    {
+      "title": "Google发布Gemma 4（Apache 2.0）",
+      "signal_strength": 0.93,
+      "category": "open_source_alternative",
+      "dates_appeared": ["2026-04-02", "2026-04-03"],
+      "sources": [
+        {"name": "Google Blog", "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/"},
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter"}
+      ],
+      "relevance_to_thesis": "将自建Agent方案的性能天花板抬到全球第三，直接压缩商业API定价空间"
+    },
+    {
+      "title": "Intuit AI Agent 85%复用率",
+      "signal_strength": 0.80,
+      "category": "unit_economics_evidence",
+      "dates_appeared": ["2026-04-02"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved"}
+      ],
+      "relevance_to_thesis": "最有商业价值的Agent是最节制的——人机协同而非最大自主化才是可持续模型"
+    },
+    {
+      "title": "微软发布三个自研MAI基础模型",
+      "signal_strength": 0.85,
+      "category": "self_build_trend",
+      "dates_appeared": ["2026-04-02"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google"}
+      ],
+      "relevance_to_thesis": "最大API客户选择自建——商业API定价权有上限"
+    },
+    {
+      "title": "OpenAI完成1220亿美元融资",
+      "signal_strength": 0.88,
+      "category": "capital_strategy",
+      "dates_appeared": ["2026-03-31", "2026-04-01"],
+      "sources": [
+        {"name": "OpenAI", "url": "https://openai.com/index/accelerating-the-next-phase-ai/"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/03/31/openai-funding-round-ipo.html"}
+      ],
+      "relevance_to_thesis": "巨额融资可补贴亏损扩建基础设施，但若单位经济算不过来，更多资本只是延缓问题"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "Agent Unit Economics Crisis",
+      "trajectory": "accelerating",
+      "this_week_signals": 8,
+      "relationship_to_thesis": "Agent使用模式的成本结构与现有定价模型根本不兼容，多个平台同步出现压力信号"
+    },
+    {
+      "trend_name": "Open-Source Agent Viability",
+      "trajectory": "accelerating",
+      "this_week_signals": 6,
+      "relationship_to_thesis": "Gemma 4 + vLLM + 本地Agent方案——自建替代商业API的技术门槛降至周末项目水平"
+    },
+    {
+      "trend_name": "Agent Efficiency Optimization",
+      "trajectory": "emerging",
+      "this_week_signals": 4,
+      "relationship_to_thesis": "Token编译优化95%、Agent Skills减少90%上下文——效率优化可能是解决成本问题的关键路径"
+    },
+    {
+      "trend_name": "Platform Self-Build Trend",
+      "trajectory": "stable_growth",
+      "this_week_signals": 3,
+      "relationship_to_thesis": "微软自研MAI、阿里Qwen强调兼容性——大客户和竞品都在为绕过Agent税做准备"
+    }
+  ],
+  "prediction_review": [
+    {
+      "prediction": "主要操作系统厂商将发布Agent权限管理API或框架（W14预测）",
+      "status": "watching",
+      "evidence": "Google Agent Skills规范（上下文减少90%）可视为间接验证，但专门权限管理框架尚未出现"
+    },
+    {
+      "prediction": "先入为主效应将显现（W14预测）",
+      "status": "partially_confirmed",
+      "evidence": "Anthropic限制第三方工具正是利用用户依赖关系——只有用户难以迁移时平台才有底气收紧政策"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "更多模型提供商将对Agent使用场景引入按量计费或差异化定价",
+      "confidence_level": "高",
+      "timeframe": "未来数月",
+      "basis": "Agent使用模式的成本结构与包月定价根本不兼容，Anthropic只是第一个公开调整的"
+    },
+    {
+      "prediction": "Gemma 4 Apache 2.0将催生一批自托管Agent方案，尤其在编码和企业工作流领域",
+      "confidence_level": "中高",
+      "timeframe": "下一季度",
+      "basis": "全球排名第三的模型完全免费使用，且商业API开始加价——自建方案的经济激励前所未有地强"
+    }
+  ],
+  "watchlist": [
+    "Agent的真实单位经济数据——各平台Agent模式下每活跃用户的平均token消耗和基础设施成本",
+    "Anthropic限制后的用户流向——迁移速度将检验Agent时代的真实转换成本",
+    "Agent框架效率优化进展——从35万token浪费到编译优化95%，效率赛道的速度决定Agent何时变得便宜"
+  ]
+}

@@ -1,0 +1,472 @@
+{
+  "open_llm_leaderboard": {
+    "top_models": [
+      {
+        "name": "MaziyarPanahi/calme-3.2-instruct-78b",
+        "score": 52.08,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 77.965
+      },
+      {
+        "name": "MaziyarPanahi/calme-3.1-instruct-78b",
+        "score": 51.29,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 77.965
+      },
+      {
+        "name": "MaziyarPanahi/calme-2.4-rys-78b",
+        "score": 50.77,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 77.965
+      },
+      {
+        "name": "Qwen/Qwen2.5-72B-Instruct",
+        "score": 47.98,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 72.706
+      },
+      {
+        "name": "MaziyarPanahi/calme-2.1-qwen2.5-72b",
+        "score": 47.86,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 72.7
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V1-32B",
+        "score": 47.34,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.76
+      },
+      {
+        "name": "MaziyarPanahi/calme-2.2-qwen2.5-72b",
+        "score": 47.22,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 72.7
+      },
+      {
+        "name": "JungZoona/T3Q-Qwen2.5-14B-Instruct-1M-e3",
+        "score": 47.09,
+        "architecture": "Unknown",
+        "type": "❓ other",
+        "precision": "bfloat16",
+        "params_b": 0.0
+      },
+      {
+        "name": "JungZoona/T3Q-qwen2.5-14b-v1.0-e3",
+        "score": 47.09,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 14.77
+      },
+      {
+        "name": "Sakalti/ultiima-72B",
+        "score": 46.77,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "float16",
+        "params_b": 72.706
+      },
+      {
+        "name": "CombinHorizon/zetasepic-abliteratedV2-Qwen2.5-32B-Inst-BaseMerge-TIES",
+        "score": 46.76,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🤝 base merges and moerges",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Qwen/Qwen2.5-32B-Instruct",
+        "score": 46.6,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V3-32B",
+        "score": 46.37,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V6-32B",
+        "score": 46.23,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.76
+      },
+      {
+        "name": "OpenBuddy/openbuddy-llama3.3-70b-v24.1-131k",
+        "score": 45.74,
+        "architecture": "LlamaForCausalLM",
+        "type": "💬 chat models (RLHF, DPO, IFT, ...)",
+        "precision": "bfloat16",
+        "params_b": 70.554
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V5-32B",
+        "score": 45.67,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "CombinHorizon/huihui-ai-abliterated-Qwen2.5-32B-Inst-BaseMerge-TIES",
+        "score": 45.66,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🤝 base merges and moerges",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Saxo/Linkbricks-Horizon-AI-Avengers-V4-32B",
+        "score": 45.61,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "bfloat16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Sakalti/ultiima-32B",
+        "score": 45.4,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🤝 base merges and moerges",
+        "precision": "float16",
+        "params_b": 32.764
+      },
+      {
+        "name": "Sakalti/ultiima-72B-v1.5",
+        "score": 44.9,
+        "architecture": "Qwen2ForCausalLM",
+        "type": "🔶 fine-tuned on domain-specific datasets",
+        "precision": "float16",
+        "params_b": 72.706
+      }
+    ],
+    "updated": "2026-04-27T11:08:24.414026+08:00"
+  },
+  "swebench_verified": {
+    "top_models": [
+      {
+        "name": "live-SWE-agent + Claude 4.5 Opus medium (20251101)",
+        "score": 79.2,
+        "date": "2025-12-15"
+      },
+      {
+        "name": "Sonar Foundation Agent + Claude 4.5 Opus",
+        "score": 79.2,
+        "date": "2025-12-05"
+      },
+      {
+        "name": "TRAE + Doubao-Seed-Code",
+        "score": 78.8,
+        "date": "2025-09-28"
+      },
+      {
+        "name": "live-SWE-agent + Gemini 3 Pro Preview (2025-11-18)",
+        "score": 77.4,
+        "date": "2025-11-20"
+      },
+      {
+        "name": "Atlassian Rovo Dev (2025-09-02)",
+        "score": 76.8,
+        "date": "2025-09-02"
+      },
+      {
+        "name": "EPAM AI/Run Developer Agent v20250719 + Claude 4 Sonnet",
+        "score": 76.8,
+        "date": "2025-08-04"
+      },
+      {
+        "name": "mini-SWE-agent + Claude 4.5 Opus (high reasoning)",
+        "score": 76.8,
+        "date": "2026-02-17"
+      },
+      {
+        "name": "ACoder",
+        "score": 76.4,
+        "date": "2025-08-19"
+      },
+      {
+        "name": "mini-SWE-agent + Gemini 3 Flash (high reasoning)",
+        "score": 75.8,
+        "date": "2026-02-17"
+      },
+      {
+        "name": "mini-SWE-agent + MiniMax M2.5 (high reasoning)",
+        "score": 75.8,
+        "date": "2026-02-17"
+      },
+      {
+        "name": "Warp",
+        "score": 75.6,
+        "date": "2025-09-01"
+      },
+      {
+        "name": "mini-SWE-agent + Claude Opus 4.6",
+        "score": 75.6,
+        "date": "2026-02-17"
+      },
+      {
+        "name": "TRAE + Claude Sonnet 4 + Opus 4 + Sonnet 3.7 + Gemini 2.5 Pro",
+        "score": 75.2,
+        "date": "2025-06-12"
+      },
+      {
+        "name": "Harness AI",
+        "score": 74.8,
+        "date": "2025-07-31"
+      },
+      {
+        "name": "Sonar Foundation Agent + Claude 4.5 Sonnet",
+        "score": 74.8,
+        "date": "2025-11-03"
+      }
+    ],
+    "updated": "2026-04-27T11:08:24.414026+08:00"
+  },
+  "arc_agi_2": {
+    "top_models": [
+      {
+        "name": "2025_human_panel",
+        "score": 100.0
+      },
+      {
+        "name": "gemini_3_deep_think_022026",
+        "score": 84.6
+      },
+      {
+        "name": "gpt-5-4-pro-xhigh",
+        "score": 83.3
+      },
+      {
+        "name": "gemini-3-1-pro-preview",
+        "score": 77.1
+      },
+      {
+        "name": "gpt-5-4-xhigh",
+        "score": 74.0
+      },
+      {
+        "name": "johan_land_gpt_5_2_refine",
+        "score": 72.9
+      },
+      {
+        "name": "claude-opus-4-6-thinking-120K-high",
+        "score": 69.2
+      },
+      {
+        "name": "claude-opus-4-6-thinking-120K-max",
+        "score": 68.8
+      },
+      {
+        "name": "gpt-5-4-high",
+        "score": 67.5
+      },
+      {
+        "name": "claude-opus-4-6-thinking-120K-medium",
+        "score": 66.2
+      },
+      {
+        "name": "grok-4.20-beta-0309b-reasoning",
+        "score": 65.1
+      },
+      {
+        "name": "claude-opus-4-6-thinking-120K-low",
+        "score": 64.6
+      },
+      {
+        "name": "claude_sonnet_4_6_high",
+        "score": 60.4
+      },
+      {
+        "name": "claude_sonnet_4_6_max",
+        "score": 58.3
+      },
+      {
+        "name": "gpt-5-4-medium",
+        "score": 55.4
+      }
+    ],
+    "updated": "2026-04-16T09:32:01.824926+08:00"
+  },
+  "osworld": {
+    "top_models": [
+      {
+        "name": "Holo3-35B-A3B",
+        "score": 82.6,
+        "institution": "H Company"
+      },
+      {
+        "name": "OpenAPA w/ gemini-3.1-pro",
+        "score": 78.3,
+        "institution": "Laiye"
+      },
+      {
+        "name": "Holo3-35B-A3B",
+        "score": 78.2,
+        "institution": "H Company"
+      },
+      {
+        "name": "VLAA-GUI w/ Opus 4.5",
+        "score": 76.3,
+        "institution": "UCSC VLAA Lab"
+      },
+      {
+        "name": "HIPPO Agent w/ Opus 4.5",
+        "score": 74.5,
+        "institution": "Lenovo"
+      },
+      {
+        "name": "Kimi K2.6",
+        "score": 73.1,
+        "institution": "Moonshot AI"
+      },
+      {
+        "name": "agent s3 w/ Opus 4.5 + GPT-5 bBoN (N=10)",
+        "score": 72.6,
+        "institution": "Simular"
+      },
+      {
+        "name": "claude-sonnet-4-6",
+        "score": 72.1,
+        "institution": "Anthropic"
+      },
+      {
+        "name": "agent s3 w/ GPT-5 bBoN (N=10)",
+        "score": 69.9,
+        "institution": "Simular"
+      },
+      {
+        "name": "agent s3 w/ Opus 4.5 bBoN (N=1)",
+        "score": 67.5,
+        "institution": "Simular"
+      },
+      {
+        "name": "UiPath Screen Agent w/ Opus 4.5",
+        "score": 67.1,
+        "institution": "UiPath"
+      },
+      {
+        "name": "agent s3 w/ Opus 4.5 bBoN (N=1)",
+        "score": 66.5,
+        "institution": "Simular"
+      },
+      {
+        "name": "agent s3 w/ Opus 4.5 bBoN (N=1)",
+        "score": 66.5,
+        "institution": "Simular"
+      },
+      {
+        "name": "OS-Symphony w/ GPT-5",
+        "score": 65.8,
+        "institution": "Shanghai AI Laboratory"
+      },
+      {
+        "name": "agent s3 w/ GPT-5 bBoN (N=1)",
+        "score": 65.6,
+        "institution": "Simular"
+      }
+    ],
+    "updated": "2026-04-27T10:51:26.653469+08:00"
+  },
+  "terminal_bench": {
+    "top_models": [
+      {
+        "name": "OpenAI/codex (gpt-5.5)",
+        "score": 82.0,
+        "verified": true
+      },
+      {
+        "name": "ForgeCode/forge (gpt-5.4)",
+        "score": 81.8,
+        "verified": false
+      },
+      {
+        "name": "BIGAI/judy (gemini-3.1-pro-preview)",
+        "score": 80.2,
+        "verified": false
+      },
+      {
+        "name": "ForgeCode/forge (claude-opus-4-6)",
+        "score": 79.8,
+        "verified": false
+      },
+      {
+        "name": "OpenSage/sage (gpt-5.3-codex)",
+        "score": 78.4,
+        "verified": false
+      },
+      {
+        "name": "ForgeCode/forge (gemini-3.1-pro-preview)",
+        "score": 78.4,
+        "verified": false
+      },
+      {
+        "name": "Factory/Factory Droid (gpt-5.3-codex)",
+        "score": 77.3,
+        "verified": false
+      },
+      {
+        "name": "Capy/capy-build (claude-opus-4-6)",
+        "score": 75.3,
+        "verified": false
+      },
+      {
+        "name": "OpenAI/simple_codex (gpt-5.3-codex)",
+        "score": 75.1,
+        "verified": true
+      },
+      {
+        "name": "KRAFTON AI/terminus-3-3 (gemini-3.1-pro-preview)",
+        "score": 74.8,
+        "verified": false
+      },
+      {
+        "name": "KRAFTON AI/terminus-3-3 (claude-opus-4-6)",
+        "score": 74.7,
+        "verified": false
+      },
+      {
+        "name": "Coder/mux (gpt-5.3-codex)",
+        "score": 74.6,
+        "verified": false
+      },
+      {
+        "name": "ADYA/final (claude-4.6-opus)",
+        "score": 72.1,
+        "verified": false
+      },
+      {
+        "name": "Bigai/judy (claude-opus-4.6)",
+        "score": 71.9,
+        "verified": false
+      },
+      {
+        "name": "JetBrains/Junie (claude-opus-4-6 + gemini-3-flash-preview + gemini-3.1-pro-preview + gpt-5.3-codex)",
+        "score": 71.0,
+        "verified": false
+      }
+    ],
+    "updated": "2026-04-27T11:08:24.414026+08:00"
+  }
+}

@@ -1,0 +1,42 @@
+Given today's signals and the existing trend database, update the trends:
+
+Rules:
+- For existing trends with new signals: update trajectory (accelerating / stable / decelerating / fading), increment signal_count, add key_event if significant
+- **Before creating a new trend, check if the signal fits an existing trend as a sub-topic.** For example, "Consumer AI Agent Personalization" should be merged into "Enterprise AI Agent Adoption" rather than created as a separate trend. Only create a new trend if the pattern is genuinely distinct from ALL existing trends.
+- New trend threshold: 3+ signals or 1 very strong signal about something truly not covered by existing trends
+- For trends with no signals in >2 weeks: mark trajectory as "fading"
+- **Merge rule**: If two existing trends overlap significantly (>70% of their signals would match the same tags), propose merging them by adding a "merge_into" field to the smaller one
+- Max {max_trends} total trends (drop fading ones if at limit)
+
+Current trends:
+{current_trends}
+
+Today's signals:
+{today_signals}
+
+Output valid JSON:
+{{
+  "updated_trends": [
+    {{
+      "id": "existing_id_or_new",
+      "name": "trend name in English",
+      "trajectory": "accelerating | stable | decelerating | fading",
+      "signal_count_delta": 2,
+      "new_key_event": "brief description or null"
+    }}
+  ],
+  "new_trends": [
+    {{
+      "name": "trend name",
+      "related_tags": ["tag1", "tag2"],
+      "initial_trajectory": "accelerating | stable"
+    }}
+  ],
+  "merge_trends": [
+    {{
+      "source_id": "smaller_trend_id",
+      "target_id": "larger_trend_id",
+      "reason": "why these should be merged"
+    }}
+  ]
+}}

@@ -1,0 +1,40 @@
+You are writing the "AI Deep Insight" weekly report. This week's theme: {theme}.
+Theme description: {theme_description}
+
+This week's accumulated signals (sorted by strength):
+{weekly_signals}
+
+Long-term trend trajectories:
+{trends}
+
+Past predictions due for verification:
+{predictions_due}
+
+Generate a deep analysis report. Write in Chinese with English technical terms. Be specific, analytical, and forward-looking — avoid generic observations.
+
+Required sections:
+1. **context**: Why this theme now? What triggered this analysis? (1 paragraph)
+2. **why_this_matters**: Deep analysis of significance. Connect dots across signals. (2-3 paragraphs)
+3. **what_changes**: Concrete, actionable implications with rough timeline. (numbered list, 3-5 items)
+4. **what_comes_next**: Forward-looking predictions with confidence level (high/medium/low). (numbered list, 2-4 items)
+5. **self_correction**: Review past predictions honestly. What was right? What was wrong? Why? (1 paragraph, skip if no predictions to review)
+
+Output valid JSON:
+{{
+  "theme_title": "具体的主题标题 (English subtitle)",
+  "report": {{
+    "context": "...",
+    "why_this_matters": "...",
+    "what_changes": "...",
+    "what_comes_next": "...",
+    "self_correction": "..."
+  }},
+  "predictions": [
+    {{
+      "prediction": "specific prediction text",
+      "confidence": "high | medium | low",
+      "verification_due_weeks": 4,
+      "tags": ["tag1", "tag2"]
+    }}
+  ]
+}}

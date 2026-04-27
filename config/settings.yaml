@@ -1,0 +1,51 @@
+# AI Frontier Insight Bot - Settings
+# Schedule, analysis parameters, and delivery configuration
+
+timezone: "Asia/Shanghai"
+
+schedule:
+  daily:
+    send_hour: 10        # CST 10:00 send daily brief
+    send_minute: 0
+    # x-monitor 和采集时间自动推算：
+    # x-monitor = send_hour 前 45 分钟（需同步更新 launchd plist）
+    # 采集 = send_hour 前 30 分钟
+    fetch_offset_minutes: 30   # 采集在发送前多少分钟开始
+  weekly:
+    day: "sunday"        # Generate on Sunday
+    send_hour: 10        # CST 10:00 send weekly report
+    send_minute: 0
+
+analysis:
+  daily_max_signals: 10          # Max signals extracted from raw data
+  daily_max_insights: 10         # Max full insights (signal+insight+implication)
+  weekly_theme_rotation:         # Rotate monthly (week 1/2/3/4)
+    - "research"                 # Research breakthroughs
+    - "tech_trend"               # Technology trends
+    - "company_strategy"         # Company strategy analysis
+    - "meta_reflection"          # Meta-analysis + self-correction
+  model_primary: "claude-sonnet-4-20250514"
+  model_fallback: "claude-haiku-4-5-20251001"
+
+delivery:
+  webhook:
+    url_base: "https://redcity-open.xiaohongshu.com/api/robot/webhook/send"
+    # Channel keys from WEBHOOK_CHANNELS env var (JSON: {"channel_name":"key", ...})
+    alert_channels: ["insight bot（测试版）"]   # 运营错误信息只发这些频道
+  redoc:
+    enabled: true
+    # API details from REDOC_API_KEY / REDOC_BASE_URL GitHub Secrets
+
+memory:
+  retention_weeks: 12            # Keep 12 weeks of history
+  max_trends: 50                 # Max concurrent tracked trends
+  self_correction_lookback: 4    # Weeks to look back for prediction verification
+
+output:
+  language: "mixed"              # "mixed" = technical terms in English, analysis in Chinese
+  daily_title_template: "AI Frontier Brief {date}"
+  weekly_title_template: "AI Deep Insight - Week {week_number}: {theme_title}"
+
+filters:
+  blacklist_keywords: []
+  blacklist_sources: []

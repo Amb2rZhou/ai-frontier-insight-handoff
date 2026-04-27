@@ -1,0 +1,126 @@
+{
+  "week": "2026-W13",
+  "date_range": "2026-03-17 ~ 2026-03-23",
+  "generated_at": "2026-03-23T20:00:00+08:00",
+  "type_tag": "产业链价值再分配",
+  "theme": "Agent生态的爆发正在重新分配AI产业链的价值——模型层的调用量在增长，但定价权和差异化正在向应用层和基础设施层两端迁移。",
+  "key_signals": [
+    {
+      "title": "OpenAI发布GPT-5.4 mini和nano",
+      "signal_strength": 0.9,
+      "category": "model_release",
+      "dates_appeared": ["2026-03-17", "2026-03-18"],
+      "sources": [
+        {"name": "OpenAI", "url": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/"},
+        {"name": "The New Stack", "url": "https://thenewstack.io/gpt-54-nano-mini/"}
+      ],
+      "relevance_to_thesis": "模型公司主动降价适配Agent架构，印证定价权下降趋势；分层架构推荐体现生态锁定策略"
+    },
+    {
+      "title": "NVIDIA GTC发布NemoClaw企业Agent平台",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-17"],
+      "sources": [
+        {"name": "NVIDIA Newsroom", "url": "https://nvidianews.nvidia.com/news/nvidia-announces-nemoclaw"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/"}
+      ],
+      "relevance_to_thesis": "基础设施层向上延伸构建全栈Agent平台，将模型层变为可替换组件"
+    },
+    {
+      "title": "NVIDIA发布Nemotron-Cascade 2开源MoE模型",
+      "signal_strength": 0.85,
+      "category": "model_release",
+      "dates_appeared": ["2026-03-20", "2026-03-21", "2026-03-22", "2026-03-23"],
+      "sources": [
+        {"name": "NVIDIA Research", "url": "https://research.nvidia.com/labs/nemotron/nemotron-cascade-2/"},
+        {"name": "HuggingFace", "url": "https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B"}
+      ],
+      "relevance_to_thesis": "30B参数仅激活3B即达前沿水平，大幅降低本地Agent部署的能力门槛，削弱商业API的必要性"
+    },
+    {
+      "title": "Cursor承认Composer 2基于月之暗面Kimi K2.5构建",
+      "signal_strength": 0.85,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-03-20", "2026-03-22", "2026-03-23"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/"}
+      ],
+      "relevance_to_thesis": "头部应用基于开源模型自建垂直模型，绕过商业API依赖，应用层向上夺取价值"
+    },
+    {
+      "title": "OpenAI收购Python工具链公司Astral",
+      "signal_strength": 0.8,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-20"],
+      "sources": [
+        {"name": "OpenAI", "url": "https://openai.com/index/openai-to-acquire-astral/"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/03/19/openai-to-acquire-developer-tooling-startup-astral.html"}
+      ],
+      "relevance_to_thesis": "模型公司向开发者工具链延伸，从API供应商转型为平台，体现生态锁定策略"
+    },
+    {
+      "title": "Meta内部流氓Agent引发Sev 1安全事件",
+      "signal_strength": 0.85,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-03-18", "2026-03-20"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/"},
+        {"name": "VentureBeat", "url": "https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix/"}
+      ],
+      "relevance_to_thesis": "Agent安全问题天然属于基础设施层和应用层，进一步推动价值从模型层向两端迁移"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "Enterprise AI Agent Adoption and Product Launches",
+      "trajectory": "accelerating",
+      "this_week_signals": 12,
+      "relationship_to_thesis": "Agent生态爆发是价值链重新分配的直接驱动力"
+    },
+    {
+      "trend_name": "Open Source Foundation Model Proliferation",
+      "trajectory": "accelerating",
+      "this_week_signals": 6,
+      "relationship_to_thesis": "开源模型能力提升使应用层自建模型成为现实选择，削弱商业API定价权"
+    },
+    {
+      "trend_name": "AI Hardware Competition and Nvidia Challengers",
+      "trajectory": "accelerating",
+      "this_week_signals": 4,
+      "relationship_to_thesis": "NVIDIA从芯片商转型全栈平台，代表基础设施层的价值扩张"
+    },
+    {
+      "trend_name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "trajectory": "accelerating",
+      "this_week_signals": 5,
+      "relationship_to_thesis": "Agent安全缺陷重塑价值分配，安全能力成为平台竞争的关键差异化要素"
+    }
+  ],
+  "prediction_review": [
+    {
+      "prediction": "平台控制权将成为AI竞争的决定性变量（W12预测）",
+      "status": "confirmed",
+      "evidence": "Cursor自建模型、NVIDIA全栈布局、OpenAI收购Astral三个信号均印证控制权争夺已从趋势变为具体动作"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "未来数月将有更多头部AI应用宣布基于开源模型构建自有模型",
+      "confidence_level": "高",
+      "timeframe": "未来数月",
+      "basis": "Cursor估值293亿美元的成功案例将激励模仿者；开源模型能力的趋势线持续上升；垂直微调的经济优势在高流量应用中尤为明显"
+    },
+    {
+      "prediction": "Agent安全事件将推动主要云平台发布专门的Agent IAM产品或框架",
+      "confidence_level": "中",
+      "timeframe": "未来一个季度",
+      "basis": "Meta Sev 1事件暴露结构性IAM缺口；企业Agent部署加速将倒逼安全基础设施演化；但云平台产品发布周期可能长于一个季度"
+    }
+  ],
+  "watchlist": [
+    "Cursor Composer 2后续用户数据和性能对比——应用层自建模型趋势的关键验证点",
+    "NVIDIA NemoClaw从Alpha到GA的时间线——全栈Agent平台竞争力的时间窗口",
+    "OpenAI Codex生态的开发者留存率——生态锁定策略成败的关键指标"
+  ]
+}

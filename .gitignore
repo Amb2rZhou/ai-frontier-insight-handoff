@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+venv/
+.venv/
+
+# Environment
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Temp
+*.tmp
+*.log
+
+# Daily archive source files (large, regenerable)
+data/daily/*/sources.json
+docs/assets/sync-demo.mov
+docs/hi-bot-feature-spec.md

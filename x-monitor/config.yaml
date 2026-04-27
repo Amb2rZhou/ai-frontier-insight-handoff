@@ -1,0 +1,50 @@
+# X (Twitter) 监控 + List 自动维护配置
+
+# ─── 监控设置 ──────────────────────────────────────────
+lists:
+  - https://x.com/i/lists/2026486577304842549
+
+settings:
+  max_tweets: 500
+  scroll_rounds: 100
+  output_dir: ./data
+  headless: true
+  page_timeout: 30
+  delay_min: 5
+  delay_max: 15
+  generate_report: true
+
+# ─── List 自动同步设置 ─────────────────────────────────
+sync:
+  # mitbunny 数据源
+  source_url: https://x.mitbunny.ai
+
+  # 目标 X List ID（从链接中提取）
+  list_id: "2026486577304842549"
+
+  # 筛选条件（role 字段关键词匹配，留空表示不筛选）
+  # 多个关键词之间是 OR 关系
+  role_keywords:
+    - Research
+    - Scientist
+    - Engineer
+    - Professor
+    - Founder
+    - CEO
+    - CTO
+    - Director
+    - Lead
+
+  # 最少粉丝数（过滤掉太小的账号）
+  min_followers: 5000
+
+  # List 最大成员数
+  max_members: 200
+
+  # 每次运行最多添加/移除的账号数（安全限制）
+  max_additions_per_run: 10
+  max_removals_per_run: 5
+
+  # 操作之间的延迟（秒），模拟人类行为
+  action_delay_min: 5
+  action_delay_max: 12

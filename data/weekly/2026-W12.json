@@ -1,0 +1,186 @@
+{
+  "week": "2026-W12",
+  "date_range": "2026-03-10 ~ 2026-03-16",
+  "generated_at": "2026-03-17T14:00:00+08:00",
+  "type_tag": "Infrastructure Power Shift",
+  "theme": "AI竞争的决定性变量正在从模型能力转向平台控制权——本周五家巨头同步将Agent焊入各自基础设施的动作，本质上是一场锁定战，而非功能战。",
+  "key_signals": [
+    {
+      "title": "微软发布Copilot Cowork——由Anthropic驱动的跨应用Agent",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-09", "2026-03-10"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered"}
+      ],
+      "relevance_to_thesis": "核心论据——微软将Agent嵌入Office套件，建立平台锁定"
+    },
+    {
+      "title": "Google Chrome开放AI Agent原生浏览器接入",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-15"],
+      "sources": [
+        {"name": "@addyosmani", "url": "https://x.com/addyosmani/status/2032875051830358197"}
+      ],
+      "relevance_to_thesis": "核心论据——浏览器成为Agent原生执行环境，Google控制另一条管道"
+    },
+    {
+      "title": "VS Code推出Autopilot全自主模式",
+      "signal_strength": 0.8,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-09", "2026-03-12"],
+      "sources": [
+        {"name": "@code", "url": "https://x.com/code/status/2031860212764721161"}
+      ],
+      "relevance_to_thesis": "IDE成为Agent执行环境，微软在开发者工具层的基础设施布局"
+    },
+    {
+      "title": "NVIDIA发布Nemotron-3-Super开源模型并预告开源Agent平台",
+      "signal_strength": 0.9,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-03-11", "2026-03-12"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different"},
+        {"name": "Wired", "url": "https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/"}
+      ],
+      "relevance_to_thesis": "核心论据——芯片巨头扩展为Agent全栈供应商，模型能力被商品化"
+    },
+    {
+      "title": "OpenAI收购Promptfoo并公开Agent运行时架构",
+      "signal_strength": 0.85,
+      "category": "infrastructure",
+      "dates_appeared": ["2026-03-09", "2026-03-12"],
+      "sources": [
+        {"name": "OpenAI Blog", "url": "https://openai.com/index/openai-to-acquire-promptfoo"},
+        {"name": "OpenAI Blog", "url": "https://openai.com/index/equip-responses-api-computer-environment"}
+      ],
+      "relevance_to_thesis": "安全测试能力内化为基础设施，安全成为Agent平台准入门槛"
+    },
+    {
+      "title": "Perplexity Computer完成移动端上线",
+      "signal_strength": 0.8,
+      "category": "product_launch",
+      "dates_appeared": ["2026-03-13", "2026-03-14"],
+      "sources": [
+        {"name": "@perplexity_ai", "url": "https://x.com/perplexity_ai/status/2032160576303219185"},
+        {"name": "@AravSrinivas", "url": "https://x.com/AravSrinivas/status/2032495364088238147"}
+      ],
+      "relevance_to_thesis": "Agent平台商业化与跨设备部署，Agent-as-a-Service模式进入主流"
+    },
+    {
+      "title": "Yann LeCun成立AMI Labs——10.3亿美元创纪录种子轮",
+      "signal_strength": 0.95,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-10", "2026-03-11"],
+      "sources": [
+        {"name": "@ylecun", "url": "https://x.com/ylecun/status/2031268686984527936"}
+      ],
+      "relevance_to_thesis": "支撑论据——顶尖研究者押注LLM替代路径，模型架构竞争壁垒被侵蚀"
+    },
+    {
+      "title": "Meta收购Moltbook——AI Agent专属社交网络",
+      "signal_strength": 0.85,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-10", "2026-03-12"],
+      "sources": [
+        {"name": "Reddit AI", "url": "https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/"}
+      ],
+      "relevance_to_thesis": "深层信号——平台开始收购Agent的社交栖息地，争夺Agent经济入口"
+    },
+    {
+      "title": "OpenClaw获NVIDIA和微软工程支持，生态快速扩展",
+      "signal_strength": 0.85,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-03-15"],
+      "sources": [
+        {"name": "@openclaw", "url": "https://x.com/openclaw/status/2032694713493406060"},
+        {"name": "@steipete", "url": "https://x.com/steipete/status/2032675009005531237"}
+      ],
+      "relevance_to_thesis": "开源生态在加速基础设施标准化，巨头通过支持开源抢占管道"
+    },
+    {
+      "title": "字节跳动因合规风险暂停Seedance 2.0全球发布",
+      "signal_strength": 0.9,
+      "category": "industry_risk",
+      "dates_appeared": ["2026-03-15", "2026-03-16"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"}
+      ],
+      "relevance_to_thesis": "反面案例——缺乏合规基础设施的产品无法进入市场，安全是准入门槛"
+    },
+    {
+      "title": "Perplexity向NIST提交AI Agent安全框架",
+      "signal_strength": 0.7,
+      "category": "industry_risk",
+      "dates_appeared": ["2026-03-15"],
+      "sources": [
+        {"name": "Arxiv", "url": "http://arxiv.org/abs/2603.12230v1"}
+      ],
+      "relevance_to_thesis": "行业主动推动Agent安全标准化，安全框架成为基础设施竞争的新维度"
+    },
+    {
+      "title": "MCP协议初创公司Manufact完成630万美元融资",
+      "signal_strength": 0.7,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-03-12"],
+      "sources": [
+        {"name": "VentureBeat", "url": "https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and"}
+      ],
+      "relevance_to_thesis": "Agent连接协议获资本验证，标准化管道的商业价值被认可"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "Enterprise AI Agent Adoption and Product Launches",
+      "trajectory": "accelerating",
+      "this_week_signals": 13,
+      "relationship_to_thesis": "Agent产品密集发布和基础设施同步构建是本周核心主题的直接表现"
+    },
+    {
+      "trend_name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "trajectory": "accelerating",
+      "this_week_signals": 4,
+      "relationship_to_thesis": "安全能力从附加功能变为Agent基础设施准入门槛，与上周Safety Epistemology主题形成延续"
+    },
+    {
+      "trend_name": "Open Source Foundation Model Proliferation",
+      "trajectory": "accelerating",
+      "this_week_signals": 5,
+      "relationship_to_thesis": "开源模型和Agent框架加速基础设施标准化，侵蚀闭源模型的竞争壁垒"
+    }
+  ],
+  "prediction_review": [
+    {
+      "original_prediction": "CoT监控的可靠性将成为未来数月AI安全领域的核心争议焦点",
+      "original_confidence": "高",
+      "outcome": "持续中——OpenAI发布IH-Challenge和收购Promptfoo显示其正系统性强化安全评估能力，但独立CoT忠实性复现研究尚未出现",
+      "source_week": "2026-W11"
+    },
+    {
+      "original_prediction": "模型厂商的自有安全评估将面临越来越多的公信力挑战，第三方独立安全评估的需求将显著增长",
+      "original_confidence": "中",
+      "outcome": "初步验证——Perplexity向NIST提交Agent安全框架，NVIDIA在GTC专题讨论Agent治理",
+      "source_week": "2026-W11"
+    }
+  ],
+  "new_predictions": [
+    {
+      "prediction": "GTC 2026将成为Agent基础设施竞争的标志性节点，NVIDIA预计将正式发布开源Agent平台和治理框架",
+      "confidence_level": "高",
+      "timeframe": "本周内",
+      "basis": "NVIDIA已预告多场Agent相关专题，工程师已开始支持OpenClaw等开源项目，Nemotron-3-Super和NeMo Agent Toolkit已提前发布"
+    },
+    {
+      "prediction": "未来数月，Agent平台锁定将成为企业AI采购的核心争议，催生对跨平台Agent编排和标准化协议的需求",
+      "confidence_level": "中",
+      "timeframe": "未来数月",
+      "basis": "微软、Google、NVIDIA本周同步推出Agent基础设施，MCP协议获资本验证，但标准协议成熟度和采用速度仍不确定"
+    }
+  ],
+  "watchlist": [
+    "GTC 2026的Agent基础设施发布——NVIDIA已预告开源Agent平台、Agent治理专题讨论、本地Agent部署方案",
+    "MCP协议及类似标准的企业采用进展——关注是否有更多头部公司宣布支持",
+    "首批Agent平台锁定案例——微软Copilot Cowork和Google Workspace Agent进入企业市场后的迁移和互操作性问题"
+  ]
+}

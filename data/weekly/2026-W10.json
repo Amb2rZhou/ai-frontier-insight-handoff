@@ -1,0 +1,101 @@
+{
+  "week": "2026-W10",
+  "date_range": "2026-02-25 ~ 2026-03-03",
+  "generated_at": "2026-03-05T17:00:00+08:00",
+  "type_tag": "Geopolitics & AI Power",
+  "theme": "美国政府首次将本土AI公司列为供应链风险——一个本可通过不续约解决的商业分歧被升级为国家安全级惩罚。当AI能力成为国家安全基础设施，政府对供应商的核心需求从能力转向可控性。",
+  "key_signals": [
+    {
+      "title": "Anthropic放弃Constitutional AI安全承诺",
+      "signal_strength": 0.9,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-02-25"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/02/25/anthropic-drops-promise-never-to-build-destructive-ai/"},
+        {"name": "Anthropic Blog", "url": "https://www.anthropic.com/news/the-case-for-targeted-regulation"}
+      ],
+      "relevance_to_thesis": "事件序幕——从抽象安全框架转向具体场景红线的策略调整"
+    },
+    {
+      "title": "Anthropic拒绝Pentagon最后通牒，划定两条窄口径红线",
+      "signal_strength": 0.95,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-02-27"],
+      "sources": [
+        {"name": "The Verge", "url": "https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei"},
+        {"name": "NPR", "url": "https://www.npr.org/2026/02/27/nx-s1-5729118/trump-anthropic-pentagon-openai-ai-weapons-ban"}
+      ],
+      "relevance_to_thesis": "核心冲突——要求将限制写入合同文本触发惩罚"
+    },
+    {
+      "title": "Anthropic被指定为供应链风险——史上首次用于美国本土公司",
+      "signal_strength": 0.95,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-02-27", "2026-02-28"],
+      "sources": [
+        {"name": "Axios", "url": "https://www.axios.com/2026/02/27/anthropic-pentagon-supply-chain-risk-claude"},
+        {"name": "Lawfare", "url": "https://www.lawfaremedia.org/article/pentagon's-anthropic-designation-won't-survive-first-contact-with-legal-system"},
+        {"name": "R Street", "url": "https://www.rstreet.org/commentary/anthropic-the-pentagon-and-the-ai-innovation-ecosystem/"}
+      ],
+      "relevance_to_thesis": "核心论据——政府跳过正常选项动用极端工具，目的是建立先例而非管理风险"
+    },
+    {
+      "title": "OpenAI获Pentagon合同，附技术保障而非合同条款限制",
+      "signal_strength": 0.95,
+      "category": "strategic_move",
+      "dates_appeared": ["2026-03-01"],
+      "sources": [
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/"},
+        {"name": "CNBC", "url": "https://www.cnbc.com/2026/03/03/openai-sam-altman-pentagon-deal-amended-surveillance-limits.html"},
+        {"name": "NBC News", "url": "https://www.nbcnews.com/tech/tech-news/openai-alters-deal-pentagon-critics-sound-alarm-surveillance-rcna261357"}
+      ],
+      "relevance_to_thesis": "镜像对照——相同限制不同执行方式，技术保障vs合同条款的法律执行力根本不同"
+    },
+    {
+      "title": "消费市场用脚投票——Claude登顶、ChatGPT卸载激增",
+      "signal_strength": 0.9,
+      "category": "ecosystem_shift",
+      "dates_appeared": ["2026-02-28", "2026-03-01", "2026-03-02", "2026-03-03"],
+      "sources": [
+        {"name": "Fortune", "url": "https://fortune.com/2026/03/02/anthropic-claude-dario-amodei-number-one-app-store-openai-chatgpt-sam-altman-department-war/"},
+        {"name": "TechCrunch", "url": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"},
+        {"name": "The Verge", "url": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing"}
+      ],
+      "relevance_to_thesis": "二阶效应——治理叙事首次被证明可在72小时内改变AI产品市场格局"
+    }
+  ],
+  "trend_context": [
+    {
+      "trend_name": "AI Safety Pivot and Accelerated AGI Timelines",
+      "trajectory": "accelerating",
+      "this_week_signals": 6,
+      "relationship_to_thesis": "安全立场从学术讨论升级为国家权力博弈的筹码"
+    },
+    {
+      "trend_name": "AI Talent Wars and Legal Battles",
+      "trajectory": "accelerating",
+      "this_week_signals": 3,
+      "relationship_to_thesis": "员工公开信浪潮表明人才市场也在用立场投票"
+    }
+  ],
+  "prediction_review": [],
+  "new_predictions": [
+    {
+      "prediction": "Anthropic将在法庭上挑战供应链风险指定，初步法律动作中有较高概率获得程序性质疑",
+      "confidence_level": "中",
+      "timeframe": "未来数月",
+      "basis": "多位法律专家指出程序缺陷（未完成风险评估、首次用于本土公司、使用场景与立法意图不符），但司法系统可能考虑政治因素"
+    },
+    {
+      "prediction": "更多AI公司在政府合同中采用技术保障而非合同条款模式来实施安全限制",
+      "confidence_level": "高",
+      "timeframe": "未来数月",
+      "basis": "本周提供了清晰的AB测试——相同限制内容，合同条款路径被封杀，技术保障路径获得合同"
+    }
+  ],
+  "watchlist": [
+    "Anthropic法律挑战的具体策略和初步法院回应",
+    "OpenAI-Pentagon合同中follow-on modification机制是否被触发",
+    "其他AI公司（Google DeepMind、Meta AI）对政府市场的态度变化"
+  ]
+}
