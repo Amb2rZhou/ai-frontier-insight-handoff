@@ -88,7 +88,11 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 
 ### 分发流程（当前）
 
-Pipeline 本身**不直接推送消息**，而是通过 GitHub → Seal → Redoc 的链路：
+Pipeline 本身**不直接推送消息**，而是绕了一层 GitHub 中转。原因：Twitter 数据依赖 Playwright 爬虫，云端 IP 容易触发 X 的反爬机制，所以整个 pipeline 只能跑在本地 Mac 上；而 Seal（公司内部工具）无法访问本地文件，只能从 GitHub 拉取——因此形成了「本地生成 → push 到 GitHub → Seal 拉取」的迂回链路。
+
+**v2 用 X API 后可以在云端跑 pipeline，就不再需要 GitHub 中转了。**
+
+具体流程：
 
 1. Pipeline 生成日报 markdown，`run_daily.sh` 自动 `git push` 到 GitHub 仓库
 2. **Seal**（公司内部工具）定时从 GitHub 仓库拉取当天新增的日报文件
