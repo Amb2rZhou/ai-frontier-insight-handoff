@@ -13,7 +13,7 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 **现状**：v1 稳定运行 2 个多月（2026-02-25 至今），日报从未中断。跑在我的 Mac 上，launchd 定时触发。
 
 **核心数据**：
-- 每日采集 ~150 条原始信息（RSS + Twitter + GitHub + ArXiv + HuggingFace + Benchmarks）
+- 每日采集 ~200+ 条原始信息（RSS + Twitter + GitHub + ArXiv + HuggingFace + Benchmarks）
 - LLM 筛选出 10 条最有价值的信号 → 生成洞察
 - 维护一个 60+ 页的 LLM-Wiki 知识库（公司/产品/技术/趋势时间线）
 - 累计 8 期周报深度分析
@@ -25,7 +25,7 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 每天 09:30 自动执行的完整流程：
 
 ```
-原始数据 (150+条)          LLM 筛选             LLM 分析              输出
+原始数据 (200+条)          LLM 筛选             LLM 分析              输出
 ┌──────────────┐     ┌──────────────┐     ┌──────────────┐     ┌──────────────┐
 │ RSS (27 feeds)│     │ 提取 10 条   │     │ 每条信号加上  │     │ 日报 markdown │
 │ Twitter (200+)│────▶│ 最有价值信号  │────▶│ 洞察 + 启示  │────▶│ 日报 markdown │
@@ -71,7 +71,7 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 
 ### 信号筛选逻辑
 
-核心 prompt 在 `prompts/signal_extraction.txt`。LLM 收到 ~150 条原始信息后：
+核心 prompt 在 `prompts/signal_extraction.txt`。LLM 收到 ~200+ 条原始信息后：
 
 1. **合并同一事件**的多条信息为一条 signal
 2. 按 signal_strength (0-1) 打分，基于来源权威性、事件重要性、影响力
