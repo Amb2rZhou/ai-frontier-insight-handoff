@@ -86,6 +86,23 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 - **备用模型**：Anthropic Claude Haiku / Sonnet
 - 优先用 `DEEPSEEK_API_KEY`，没有则 fallback 到 `ANTHROPIC_API_KEY`
 
+### 周报 Pipeline
+
+周报每周日生成，目前**手动触发**（未自动化）：
+
+```bash
+python -m src.main weekly
+```
+
+流程：
+1. 读取 `memory/weekly_signals.json` 中本周累积的所有日报信号
+2. 结合 `memory/trends.json` 趋势数据和 wiki 上下文
+3. LLM 生成深度分析周报（含主题轮换：research → tech_trend → company_strategy → meta_reflection）
+4. 输出到 `data/weekly/W{n}.md` + `W{n}.json`
+5. 手动发送到 Hi 群
+
+主题轮换配置在 `config/settings.yaml` 的 `weekly_theme_rotation` 字段，四周一轮。累计已产出 8 期周报（W10-W17）。
+
 ### 分发流程
 
 Pipeline 本身**不直接推送消息**，而是绕了一层 GitHub 中转。原因：Twitter 数据依赖 Playwright 爬虫，云端 IP 容易触发 X 的反爬机制，所以整个 pipeline 只能跑在本地 Mac 上；而 Seal（公司内部工具）无法访问本地文件，只能从 GitHub 拉取——因此形成了「本地生成 → push 到 GitHub → Seal 拉取」的迂回链路。
