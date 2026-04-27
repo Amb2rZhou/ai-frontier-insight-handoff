@@ -2,7 +2,7 @@
 
 > 最后更新：2026-04-27
 > 原维护者：Zhile Zhou (zhilezhou2026@u.northwestern.edu)
-> 代码仓库：本仓库
+> 代码仓库：https://github.com/Amb2rZhou/ai-frontier-insight-handoff
 
 ---
 
