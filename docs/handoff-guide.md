@@ -88,7 +88,7 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 
 ### 周报 Pipeline
 
-周报由 **Claude Code skill**（`weekly-insight`）生成，每周一早上自动触发（cron `0 8 * * 1`），在当天日报跑完后执行。
+周报由 **Claude Code skill**（`weekly-insight`）生成，每周一上午自动触发（cron `0 10 * * 1`），在当天日报跑完之后执行。
 
 **核心原则**：每期周报只讲**一个最重要的趋势**，写成带论点的深度分析文章（essay），不是新闻汇总。
 
@@ -255,7 +255,7 @@ python -m src.main cleanup
 1. **RSS 源失效**：`The Information` (403)、`ARC Prize` (404) 已不可用。定期检查 RSS 是否正常返回。
 2. **去重不完美**：标题 word overlap ≥ 60% 才判重。同一事件换角度报道（如「X 发布 Y」vs「Z 集成 Y」）可能漏判。
 3. **ENTITY_MAP 是静态的**：新公司/产品出现后需要手动在 `src/wiki/updater.py` 的 `ENTITY_MAP` 加关键词映射。
-4. **周报依赖 Claude Code**：由 Claude Code skill 自动触发（周一 08:00），需要 Claude Code 环境可用。迁移到云端后需要替代方案（如调用内部 LLM API 重写周报生成逻辑）。
+4. **周报依赖 Claude Code**：由 Claude Code skill 自动触发（周一 10:00），需要 Claude Code 环境可用。迁移到云端后需要替代方案（如调用内部 LLM API 重写周报生成逻辑）。
 5. **x-monitor 不稳定**：依赖 Playwright 浏览器自动化，偶尔抓不到数据。
 
 ---
