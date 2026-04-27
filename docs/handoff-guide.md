@@ -82,9 +82,9 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 ### LLM 调用
 
 - `src/analysis/ai_client.py` 封装了所有 LLM 调用
-- **主力模型**：DeepSeek V3（便宜，日均花费 < ¥1）
-- **备用模型**：Anthropic Claude Haiku / Sonnet
+- **当前模型**：DeepSeek V3（便宜，日均花费 < ¥1），备用 Anthropic Claude Haiku / Sonnet
 - 优先用 `DEEPSEEK_API_KEY`，没有则 fallback 到 `ANTHROPIC_API_KEY`
+- **v2 建议**：换成内部模型 API key，或直接让 Seal 等内部 agent 来执行 LLM 调用环节，不再依赖外部 API
 
 ### 分发流程（当前）
 
