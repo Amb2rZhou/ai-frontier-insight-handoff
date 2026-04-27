@@ -45,7 +45,7 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 3. 产出 JSON 文件存到 `data/x-monitor/{date}.json`
 4. 主 pipeline 的 `src/collectors/twitter.py` **只是读取这些 JSON 文件**，本身不做网络请求
 
-**为什么这么做**：之前 X API 需要 Pro 层级（$5,000/月），成本不合理。
+**为什么这么做**：之前没有申请 X API 的额度，所以用浏览器爬虫作为替代方案。
 
 **已知问题**：
 - 依赖本地浏览器环境，无法在无 GUI 的服务器上运行
