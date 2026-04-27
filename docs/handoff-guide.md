@@ -67,7 +67,7 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 | 6 | `src/wiki/updater.py` | 自动把今天的 insight 写入对应 wiki 页面的时间线 |
 | 7 | `src/formatters/daily_markdown.py` | 格式化日报 markdown |
 | 8 | `scripts/run_daily.sh` | Git commit + push 到 GitHub 仓库 |
-| 9 | Seal（外部） | 每天从 GitHub 拉取新日报 → 写入 Redoc 空间 → webhook 发 Redoc 链接到企微群 |
+| 9 | Seal（外部） | 每天从 GitHub 拉取新日报 → 写入 Redoc 空间 → webhook 发 Redoc 链接到 Hi 群 |
 
 ### 信号筛选逻辑
 
@@ -149,8 +149,8 @@ ai-frontier-insight/
 │   ├── formatters/            # ── 输出格式化 ──
 │   │   └── daily_markdown.py  # 日报 markdown 生成（支持分段发送）
 │   │
-│   ├── delivery/              # ── 推送层 ──
-│   │   └── webhook.py         # RedCity webhook 封装
+│   ├── delivery/              # ── 推送层（当前未使用，v2 可复用）──
+│   │   └── webhook.py         # RedCity webhook 封装（早期直推方案遗留）
 │   │
 │   └── utils/                 # ── 工具 ──
 │       ├── config.py          # YAML 配置加载
@@ -235,7 +235,7 @@ LLM 每天做两件事：
 云端 Agent（内部服务器）
   ├── 数据采集：X API (付费) + RSS + ArXiv + GitHub + HuggingFace
   ├── LLM-Wiki：自动维护结构化知识库
-  ├── 定时推送：日报/周报 → Hi RedCity webhook
+  ├── 定时推送：日报/周报 → Redoc → Hi 群
   ├── 交互响应：@bot 提问/追问/查脉络/待办
   └── Wiki 可视化：Quartz 部署的 web 界面
 ```
@@ -352,9 +352,7 @@ python -m src.main cleanup
 
 ### Git 注意
 
-全局 git config 配了 `http.proxy=127.0.0.1:7897`，梯子不开 push 会失败。绕过方式：
-- `git -c http.proxy= -c https.proxy= push`
-- 或改 remote 为 SSH
+如果部署环境需要访问 GitHub（拉取更新等），确保网络能连通 github.com。
 
 ---
 
@@ -567,22 +565,20 @@ BasedHardware/OpenGlass
 
 | 文件/目录 | 说明 | 是否在 Git 仓库里 |
 |----------|------|-------------------|
-| 整个 `ai-frontier-insight/` 仓库 | 完整代码 + 数据 + wiki | ✅ GitHub private repo |
+| 整个 `ai-frontier-insight/` 仓库 | 完整代码 + 数据 + wiki | ✅ 本仓库 (public) |
 | `.env` | API keys（DEEPSEEK / ANTHROPIC / WEBHOOK） | ❌ 需单独传 |
 | `x-monitor/data/list_members.json` | X 账号完整列表（207 个） | ✅ 在仓库里 |
 | `wiki/` | LLM-Wiki 知识库（60+ 页） | ✅ 在仓库里 |
 | `memory/trends.json` | 趋势追踪数据 | ✅ 在仓库里 |
 | `data/weekly/` | 8 期周报 | ✅ 在仓库里 |
 | 本文档 | 交接说明 | ✅ `docs/handoff-guide.md` |
-| v2 设计文档 | Agent 架构设计 | ❌ 在 `~/.clawd/work/wiki/projects/afi-v2-lab-agent.md` |
+| v2 设计文档 | Agent 架构设计 | ❌ 需找原维护者索取 |
 
 ### Git 仓库获取
 
 ```bash
-git clone <本仓库地址>
+git clone https://github.com/Amb2rZhou/ai-frontier-insight-handoff.git
 ```
-
-需要先将新同事的 GitHub 账号添加为 collaborator。
 
 ---
 
