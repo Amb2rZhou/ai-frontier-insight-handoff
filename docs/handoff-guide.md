@@ -333,6 +333,7 @@ LLM 每天做两件事：
 
 ### Phase 1：云端迁移（最小可用）
 
+- [ ] `git clone https://github.com/Amb2rZhou/ai-frontier-insight-handoff.git` 拉取代码
 - [ ] 内部服务器部署 Python 环境 + 依赖（`pip install -r requirements.txt`）
 - [ ] 申请 X API 账号，重写 `src/collectors/twitter.py`（改为 API 直采，详见附录 D）
 - [ ] `ai_client.py` 改用内部模型 API（或让 Seal 等 agent 承接 LLM 调用）
