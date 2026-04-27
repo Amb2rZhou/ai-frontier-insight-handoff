@@ -246,7 +246,7 @@ LLM 每天做两件事：
 |------|-----------|-----------|
 | 运行环境 | 本地 Mac + launchd | 云端服务器 + cron/systemd |
 | Twitter 数据 | x-monitor 浏览器抓取（不稳定） | X API 直接采购 |
-| LLM 模型 | DeepSeek V3（外部 API） | 内部部署 Opus 4.7 |
+| LLM 模型 | DeepSeek V3（外部 API） | 内部模型 API 或 agent 调用 |
 | 交互能力 | 无，单向推送 | @bot 可交互（提问/追问/待办） |
 | 知识管理 | trends.json + wiki 时间线 | 完整 LLM-Wiki + 向量索引辅助 |
 | 覆盖领域 | AI 通用 | + AI 交互/产品/硬件（由新同事定义） |
@@ -270,9 +270,9 @@ LLM 每天做两件事：
 
 - [ ] 内部服务器部署 Python 环境 + 依赖（`pip install -r requirements.txt`）
 - [ ] 申请 X API 账号，重写 `src/collectors/twitter.py`（改为 API 直采）
-- [ ] `ai_client.py` 改用内部 Opus 4.7 endpoint
+- [ ] `ai_client.py` 改用内部模型 API（或让 Seal 等 agent 承接 LLM 调用）
 - [ ] launchd → cron 或 systemd
-- [ ] 配置新的 RedCity webhook（换到 lab 的群/频道）
+- [ ] 配置分发：Seal 读取本地日报文件 → 写入 Redoc → webhook 发链接到 Hi 群
 - [ ] 验证 pipeline 端到端运行
 
 ### Phase 2：数据源扩展
@@ -300,7 +300,7 @@ LLM 每天做两件事：
 | `x-monitor/` 子系统 | 依赖本地浏览器 | X API |
 | `~/Library/LaunchAgents/com.ai-frontier-insight.*` | macOS 本地定时 | cron/systemd |
 | `src/collectors/twitter.py` | 读本地 JSON 文件 | 新写 X API collector |
-| `scripts/run_daily.sh` 中的 git push | 云端部署后不需要绕 GitHub | 云端直推 webhook |
+| `scripts/run_daily.sh` 中的 git push | 云端部署后 Seal 可直接读本地文件 | 不需要 |
 
 ### 可直接复用的核心代码
 
