@@ -36,6 +36,25 @@ AI Frontier Insight Bot 是一个 **AI 前沿情报系统**，每天自动采集
 └──────────────┘
 ```
 
+### Twitter 数据采集现状（重要）
+
+Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自动化爬取：
+
+1. `x-monitor/` 是一个独立子系统，用 Playwright 无头浏览器登录 X 网页版
+2. 定时打开预设的 X List 页面，滚动加载推文，解析 DOM 提取内容
+3. 产出 JSON 文件存到 `data/x-monitor/{date}.json`
+4. 主 pipeline 的 `src/collectors/twitter.py` **只是读取这些 JSON 文件**，本身不做网络请求
+
+**为什么这么做**：之前 X API 需要 Pro 层级（$5,000/月），成本不合理。
+
+**已知问题**：
+- 依赖本地浏览器环境，无法在无 GUI 的服务器上运行
+- X 网页改版会导致 DOM 选择器失效
+- 登录态过期需要手动重新登录
+- 偶尔漏抓数据（页面加载不完整）
+
+**v2 方案**：X API 已改为按量付费（~$66/月），应直接改用 API 采集，彻底替换 Playwright 方案。详见附录 D。
+
 ### 详细步骤
 
 | Step | 代码位置 | 做什么 |
