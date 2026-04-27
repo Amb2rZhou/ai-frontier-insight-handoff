@@ -88,20 +88,20 @@ Twitter 数据**不是通过 API 采集的**，而是用 Playwright 浏览器自
 
 ### 周报 Pipeline
 
-周报每周日生成，目前**手动触发**（未自动化）：
+周报由 **Claude Code skill**（`weekly-insight`）生成，每周一早上自动触发（cron `0 8 * * 1`），在当天日报跑完后执行。
 
-```bash
-python -m src.main weekly
-```
+**核心原则**：每期周报只讲**一个最重要的趋势**，写成带论点的深度分析文章（essay），不是新闻汇总。
 
 流程：
-1. 读取 `memory/weekly_signals.json` 中本周累积的所有日报信号
-2. 结合 `memory/trends.json` 趋势数据和 wiki 上下文
-3. LLM 生成深度分析周报（含主题轮换：research → tech_trend → company_strategy → meta_reflection）
-4. 输出到 `data/weekly/W{n}.md` + `W{n}.json`
-5. 手动发送到 Hi 群
+1. 确定覆盖范围：上周二 → 本周一（含，共 7 天）
+2. 读取这 7 天的 `data/daily/{date}/brief.json`（主数据源）
+3. 读取 `memory/trends.json`（长期趋势追踪）和 `memory/history_insights.json`（历史预测）
+4. 读取上一期周报（跨周连续性）
+5. 按需读取 `data/x-monitor/{date}.json` 和 `data/daily/{date}/sources.json`（补充细节）
+6. 从全部信号中提炼一个 thesis（论点），用 web search 核查事实性声明
+7. 输出到 `data/weekly/{year}-W{week}.md` + `.json` + `.docx`
 
-主题轮换配置在 `config/settings.yaml` 的 `weekly_theme_rotation` 字段，四周一轮。累计已产出 8 期周报（W10-W17）。
+累计已产出 8 期周报（W10-W17）。Skill 定义文件：`weekly-insight.skill`（Claude Code skill 格式，ZIP 包含 `SKILL.md`）。
 
 ### 分发流程
 
@@ -171,7 +171,7 @@ ai-frontier-insight/
 │
 ├── data/
 │   ├── daily/{date}/          # 每日产出：brief.json + sources.json + markdown
-│   ├── weekly/                # 周报：W{n}.md + W{n}.json
+│   ├── weekly/                # 周报：{year}-W{week}.md + .json + .docx
 │   └── x-monitor/            # Twitter 原始数据（x-monitor 子系统产出）
 │
 ├── memory/
@@ -255,7 +255,7 @@ python -m src.main cleanup
 1. **RSS 源失效**：`The Information` (403)、`ARC Prize` (404) 已不可用。定期检查 RSS 是否正常返回。
 2. **去重不完美**：标题 word overlap ≥ 60% 才判重。同一事件换角度报道（如「X 发布 Y」vs「Z 集成 Y」）可能漏判。
 3. **ENTITY_MAP 是静态的**：新公司/产品出现后需要手动在 `src/wiki/updater.py` 的 `ENTITY_MAP` 加关键词映射。
-4. **周报是手动触发的**：目前用 Claude Code 的 skill 生成，未自动化。
+4. **周报依赖 Claude Code**：由 Claude Code skill 自动触发（周一 08:00），需要 Claude Code 环境可用。迁移到云端后需要替代方案（如调用内部 LLM API 重写周报生成逻辑）。
 5. **x-monitor 不稳定**：依赖 Playwright 浏览器自动化，偶尔抓不到数据。
 
 ---
