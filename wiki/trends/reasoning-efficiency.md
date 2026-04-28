@@ -58,6 +58,7 @@ Google TurboQuant cut KV cache memory by 6x (Mar 26). KIV enabled 1M token conte
 - **W15 (The Math Doesn't Work)**: Google's TurboQuant cut KV cache memory 6x and inference speed 8x, while Agent Skills specification reduced baseline context by 90% — these efficiency breakthroughs directly address the agent economics crisis, potentially reducing per-session costs by an order of magnitude if widely adopted.
 
 ## Related
-- [[gpt]]
-- [[gemini]]
-- [[google-deepmind]]
+
+**Companies:** [[alibaba]], [[apple]], [[bytedance]], [[google-deepmind]], [[meta]], [[microsoft]], [[nvidia]], [[openai]], [[salesforce]]
+**Products:** [[gemini]], [[gemma]], [[gpt]]
+**Technologies:** [[rag]]

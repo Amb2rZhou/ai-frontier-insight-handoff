@@ -19,3 +19,7 @@ updated: 2026-04-23
 - **2026-03-17**: [[xai|xAI]] Releases Grok Text-to-Speech API with Natural and Expressive Controls · [@xai (Twitter)](https://x.com/xai/status/2033617157884678507)
 - **2026-02-28**: Kling V3 Pro Tops Video Arena Leaderboards in Text-to-Video and Image-to-Video · [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2027453094322442420) · [@arena](https://x.com/arena/status/2027200232115822977)
 - **2026-02-25**: Grok 4.20 Beta Tops Search Arena, Challenges Frontier Models · [Twitter @arena](https://x.com/arena/status/2026566773496230383)
+
+## Related
+
+**Companies:** [[openai]], [[xai]]

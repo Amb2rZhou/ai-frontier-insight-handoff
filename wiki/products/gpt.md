@@ -48,3 +48,9 @@ updated: 2026-04-27
 - **2026-03-02**: [[perplexity|Perplexity]] Computer Integrates GPT-5.3-[[codex|Codex]] as Subagent, Showcases Finance App Demo · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028190055165256164) · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028255792101765326)
 - **2026-02-28**: [[openai|OpenAI]] Raises $110B from Amazon, [[nvidia|Nvidia]], SoftBank; ChatGPT Hits 900M Weekly Users · [VentureBeat](https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful) · [TechCrunch](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/) · [@sama](https://x.com/sama/status/2027386252555919386)
 - **2026-02-25**: [[openai|OpenAI]]'s GPT-5.3-[[codex|Codex]] GA and [[claude|Claude Code]] Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)
+
+## Related
+
+**Companies:** [[cursor-ai]], [[hugging-face]], [[nvidia]], [[openai]], [[perplexity]], [[scale-ai]]
+**Products:** [[claude]], [[codex]], [[copilot]], [[muse-spark]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[mcp-protocol]]

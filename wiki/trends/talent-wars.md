@@ -63,6 +63,6 @@ Competition for AI talent, major acquisitions, legal battles, and corporate rest
 - **W10 (Controllability Replaces Capability)**: Pentagon recruited AI talent from [[anthropic|Anthropic]] and Uber, while 300+ Google employees and 60+ [[openai|OpenAI]] employees signed public letters supporting Anthropic's stance — revealing that AI talent has political preferences that can be activated, making corporate governance positions a talent retention factor.
 
 ## Related
-- [[openai]]
-- [[anthropic]]
-- [[cursor-ai]]
+
+**Companies:** [[anthropic]], [[cursor-ai]], [[google-deepmind]], [[meta]], [[openai]], [[xai]]
+**Products:** [[codex]], [[openclaw]], [[sora]]

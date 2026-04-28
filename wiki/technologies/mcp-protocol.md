@@ -17,3 +17,8 @@ An open protocol for connecting AI models to external tools and data sources. Or
 - **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for [[agent-frameworks|AI Agent]] Connectivity · [VentureBeat](https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and)
 - **2026-02-27**: Open-Source Agent OS 'Openfang' Gains Rapid Traction · [GitHub Trending](https://github.com/RightNow-AI/openfang)
 - **2026-02-26**: Mobile-MCP: LLMs Autonomously Discover Android App Capabilities · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1rf1u76/d_mobilemcp_letting_llms_autonomously_discover/)
+
+## Related
+
+**Companies:** [[google-deepmind]]
+**Technologies:** [[agent-frameworks]]

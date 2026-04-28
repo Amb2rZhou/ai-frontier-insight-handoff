@@ -19,3 +19,8 @@ Chinese technology conglomerate active in AI through Hunyuan models, [[embodied-
 - **2026-04-11**: Tencent Proposes MegaStyle for Scalable Style Dataset Creation · [arXiv (via HuggingFace)](https://huggingface.co/papers/2604.08364)
 - **2026-04-02**: Tencent Hunyuan's Unify-Agent: World-Grounded Image Synthesis · [arXiv (Tencent Hunyuan)](https://huggingface.co/papers/2603.29620)
 - **2026-03-28**: Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent · [Tencent (via HuggingFace Papers)](https://huggingface.co/papers/2603.24533)
+
+## Related
+
+**Products:** [[openclaw]]
+**Trends:** [[creative-ai]], [[embodied-ai]]

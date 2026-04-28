@@ -17,4 +17,7 @@ Trajectory: accelerating | Signal count: 5
 - **2026-02-25**: Nimble launches agentic search platform claiming 99% accuracy; [[grok|Grok]] 4.20 Beta tops search arena
 
 ## Related
-- [[agent-frameworks]]
+
+**Companies:** [[perplexity]]
+**Products:** [[grok]]
+**Technologies:** [[agent-frameworks]]

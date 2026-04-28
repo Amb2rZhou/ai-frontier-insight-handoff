@@ -109,3 +109,10 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 - **2026-02-27**: [[anthropic|Anthropic]] Refuses Pentagon Demands on Lethal AI and Surveillance · [The Verge](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) · [TechCrunch](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/) · [Anthropic Blog](https://www.anthropic.com/news/statement-department-of-war)
 - **2026-02-26**: [[anthropic|Anthropic]] Retires [[claude|Claude]] Opus 3, Grants It a Substack Blog · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026765820098130111)
 - **2026-02-25**: [[anthropic|Anthropic]] Drops Key Safety Pledge Amid AGI Acceleration Concerns · [Reddit AI](https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/) · [Twitter @robertwiblin](https://x.com/robertwiblin/status/2026247670067507223) · [Twitter @tegmark](https://x.com/tegmark/status/2026408922194522324)
+
+## Related
+
+**Companies:** [[anthropic]], [[google-deepmind]], [[hugging-face]], [[meta]], [[microsoft]], [[nvidia]], [[openai]], [[perplexity]], [[salesforce]], [[scale-ai]]
+**Products:** [[claude]], [[codex]], [[copilot]], [[gpt]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[multi-agent-systems]]
+**Trends:** [[ai-security]]

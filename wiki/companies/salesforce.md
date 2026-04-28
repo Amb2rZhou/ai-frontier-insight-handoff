@@ -17,3 +17,8 @@ Enterprise CRM giant that has fully embraced AI agents, transforming its 27-year
 - **2026-04-06**: Salesforce Proposes GPA for GUI Process Automation from Demonstrations · [Arxiv (Salesforce)](https://huggingface.co/papers/2604.01676)
 - **2026-04-04**: [[nvidia|Nvidia]] Launches Enterprise [[agent-frameworks|AI Agent]] Platform with Major Partners · [VentureBeat](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)
 - **2026-04-01**: Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features · [TechCrunch](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) · [VentureBeat](https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the)
+
+## Related
+
+**Companies:** [[nvidia]], [[openai]]
+**Technologies:** [[agent-frameworks]]

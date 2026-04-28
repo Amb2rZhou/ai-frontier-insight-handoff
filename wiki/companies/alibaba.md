@@ -27,3 +27,10 @@ Chinese tech giant and creator of the [[qwen|Qwen]] model family, a leading [[op
 - **2026-03-03**: Alibaba Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices · [VentureBeat](https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run) · [Twitter @UnslothAI](https://x.com/UnslothAI/status/2028463220063871426) · [GitHub Release (ollama/ollama)](https://github.com/ollama/ollama/releases/tag/v0.17.5)
 - **2026-02-28**: Alibaba Expands Qwen3.5 Family with New 27B Model, Matching Larger Open Weights Models · [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2027489442697777245) · [HuggingFace Trending](https://huggingface.co/Qwen/Qwen3.5-27B)
 - **2026-02-25**: Alibaba [[qwen|Qwen]] Releases New 3.5 Medium Model Series with MoE Architecture · [Twitter @Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2026339351530188939) · [HuggingFace](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)
+
+## Related
+
+**Companies:** [[hugging-face]]
+**Products:** [[openclaw]], [[qwen]]
+**Technologies:** [[agent-frameworks]]
+**Trends:** [[open-source-models]]

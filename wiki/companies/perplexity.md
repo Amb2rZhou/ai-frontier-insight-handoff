@@ -28,3 +28,9 @@ AI-powered search company that has expanded into a full [[agent-frameworks|agent
 - **2026-03-05**: Perplexity Computer Adds Voice Mode for Hands-Free [[agent-frameworks|Agentic]] Interaction · [Twitter @perplexity_ai](https://x.com/perplexity_ai/status/2029302896026853379)
 - **2026-03-02**: Perplexity Computer Integrates [[gpt|GPT-5]].3-[[codex|Codex]] as Subagent, Showcases Finance App Demo · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028190055165256164) · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028255792101765326)
 - **2026-02-28**: Perplexity Launches 'Computer' Unified [[agent-frameworks|AI Agent]] System and First Developer Conference · [@perplexity_ai](https://x.com/perplexity_ai/status/2027444475510038694) · [@AravSrinivas](https://x.com/AravSrinivas/status/2027295873848504723) · [@ParikPatelCFA](https://x.com/ParikPatelCFA/status/2027418486281297980)
+
+## Related
+
+**Companies:** [[openai]]
+**Products:** [[claude]], [[codex]], [[copilot]], [[gpt]]
+**Technologies:** [[agent-frameworks]], [[computer-use]]

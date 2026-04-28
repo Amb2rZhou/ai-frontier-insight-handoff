@@ -19,3 +19,10 @@ Popular tool for running [[open-source-models|open-source]] LLMs locally. Key en
 - **2026-03-18**: Ollama Integrates Web Search/Fetch into [[openclaw|OpenClaw]] Ecosystem · [@ollama on X](https://x.com/ollama/status/2033993519459889505) · [GitHub Release](https://github.com/ollama/ollama/releases/tag/v0.18.1)
 - **2026-03-14**: [[nvidia|NVIDIA]] and Ollama to Host Developer Session on Local AI Agents at GTC · [@ollama (Official)](https://x.com/ollama/status/2032582008933855627)
 - **2026-03-03**: GitHub Trending: Timber - Ollama for Classical ML Models with 336x Speedup · [GitHub Trending](https://github.com/kossisoroyce/timber)
+
+## Related
+
+**Companies:** [[apple]], [[google-deepmind]], [[nvidia]]
+**Products:** [[gemma]], [[openclaw]]
+**Technologies:** [[agent-frameworks]]
+**Trends:** [[open-source-models]]

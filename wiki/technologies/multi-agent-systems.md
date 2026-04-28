@@ -24,3 +24,9 @@ Architectures where multiple AI agents collaborate, specialize, or compete to ac
 - **2026-03-02**: High-Engagement Demo: [[agent-frameworks|AI Agent]] Swarm Recreates Military Operation 4D Replay from Public Data · [Twitter @minchoi](https://x.com/minchoi/status/2028224838444155186)
 - **2026-03-02**: [[perplexity|Perplexity]] Computer Integrates [[gpt|GPT-5]].3-[[codex|Codex]] as Subagent, Showcases Finance App Demo · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028190055165256164) · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028255792101765326)
 - **2026-02-27**: Research: Solaris Multiplayer Video World Model in Minecraft · [Arxiv](http://arxiv.org/abs/2602.22208v1)
+
+## Related
+
+**Companies:** [[anthropic]], [[perplexity]]
+**Products:** [[claude]], [[codex]], [[gpt]]
+**Technologies:** [[agent-frameworks]]

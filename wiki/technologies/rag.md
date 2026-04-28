@@ -29,3 +29,8 @@ Retrieval-Augmented Generation and related techniques for grounding AI model out
 - **2026-03-06**: Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents · [Arxiv](http://arxiv.org/abs/2603.04384v1)
 - **2026-03-06**: Databricks Builds Universal RAG Agent for All Enterprise Search Types · [VentureBeat](https://venturebeat.com/data/databricks-built-a-rag-agent-it-says-can-handle-every-kind-of-enterprise)
 - **2026-02-25**: Nimble Launches [[agent-frameworks|Agentic]] Search Platform Claiming 99% Accuracy · [VentureBeat](https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform)
+
+## Related
+
+**Companies:** [[anthropic]], [[google-deepmind]], [[hugging-face]], [[meta]], [[nvidia]]
+**Technologies:** [[agent-frameworks]]

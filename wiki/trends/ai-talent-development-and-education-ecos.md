@@ -20,4 +20,7 @@ Trajectory: stable | Signal count: 6
 - **2026-02-25**: Gauntlet AI trains engineers for 'full-stack LLM mode'
 
 ## Related
-- [[agent-frameworks]]
+
+**Companies:** [[anthropic]], [[openai]]
+**Products:** [[codex]]
+**Technologies:** [[agent-frameworks]]

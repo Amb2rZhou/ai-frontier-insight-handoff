@@ -51,3 +51,10 @@ Dominant [[ai-hardware|AI hardware]] company, increasingly expanding into AI sof
 - **2026-02-26**: NVIDIA EgoScale: Dexterous Manipulation from Egocentric Human Video · [Twitter @DrJimFan](https://x.com/DrJimFan/status/2026709304984875202) · [Arxiv Paper](http://arxiv.org/abs/2602.16710)
 - **2026-02-25**: [[embodied-ai|Embodied AI]] Startup Wayve Raises $1.2B from Nvidia, Automakers · [TechCrunch](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/)
 - **2026-02-25**: Nvidia Challenger MatX Raises $500M Led by Former [[google-deepmind|Google]] TPU Engineers · [TechCrunch](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)
+
+## Related
+
+**Companies:** [[anthropic]], [[apple]], [[google-deepmind]], [[hugging-face]], [[meta]], [[microsoft]], [[openai]]
+**Products:** [[gemma]], [[gpt]], [[ollama]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[rag]]
+**Trends:** [[ai-hardware]], [[embodied-ai]]

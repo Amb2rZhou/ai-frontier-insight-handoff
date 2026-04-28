@@ -19,3 +19,9 @@ updated: 2026-04-25
 - **2026-03-10**: [[microsoft|Microsoft]] Announces Copilot Cowork with [[anthropic|Anthropic]] for Cross-App AI Agents · [VentureBeat](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) · [@minchoi](https://x.com/minchoi/status/2031044696944844990)
 - **2026-03-02**: Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects · [Twitter @omarsar0](https://x.com/omarsar0/status/2028103978190590118)
 - **2026-02-27**: [[microsoft|Microsoft]] Copilot Tasks: Cloud-Based Autonomous [[agent-frameworks|AI Agent]] System · [The Verge](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai)
+
+## Related
+
+**Companies:** [[anthropic]], [[microsoft]], [[openai]], [[perplexity]]
+**Products:** [[claude]], [[gpt]]
+**Technologies:** [[agent-frameworks]]

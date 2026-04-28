@@ -46,6 +46,6 @@ Inflection AI partnered with Crusoe on 900MW Texas data center (Mar 28). [[xai|x
 [[ollama|Ollama]] MLX integration for [[apple|Apple]] Silicon (Apr 1). [[hugging-face|Hugging Face]] Kernels on the Hub (Apr 15). Community-built local coding agents (Apr 6).
 
 ## Related
-- [[nvidia]]
-- [[ollama]]
-- [[hugging-face]]
+
+**Companies:** [[anthropic]], [[apple]], [[hugging-face]], [[meta]], [[microsoft]], [[nvidia]], [[xai]]
+**Products:** [[gemma]], [[ollama]]

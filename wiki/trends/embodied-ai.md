@@ -31,3 +31,8 @@ The surge of investment and development in robotics, autonomous vehicles, and ph
 - **2026-02-26**: [[google-deepmind|Google]] Folds Robotics Moonshot Intrinsic into Core Business · [The Verge](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
 - **2026-02-25**: Embodied AI Startup Wayve Raises $1.2B from [[nvidia|Nvidia]], Automakers · [TechCrunch](https://techcrunch.com/2026/02/24/self-driving-tech-startup-wayve-raises-1-2b-from-nvidia-uber-and-three-automakers/)
 - **2026-02-25**: Physical Intelligence Tests Embodied AI Models in Real-World Deployments · [Twitter @svlevine](https://x.com/svlevine/status/2026451067437986033)
+
+## Related
+
+**Companies:** [[google-deepmind]], [[nvidia]], [[openai]], [[tencent]], [[xai]]
+**Products:** [[gemini]], [[openclaw]]

@@ -35,6 +35,6 @@ AI companies raised more in Q1 2026 than all of 2025 (a16z, Apr 11). Kleiner Per
 - **W16 (No One Is Verifying)**: Q1 2026 AI funding exceeded all of 2025 (a16z data), and 29% of Fortune 500 became paying AI startup customers — capital pressure drove deployment speed that far outpaced verification capability, creating a structural mismatch between investment pace and reliability measurement.
 
 ## Related
-- [[openai]]
-- [[anthropic]]
-- [[cursor-ai]]
+
+**Companies:** [[anthropic]], [[cursor-ai]], [[openai]]
+**Products:** [[claude]]

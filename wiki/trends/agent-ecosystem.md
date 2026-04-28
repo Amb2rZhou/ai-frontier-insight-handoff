@@ -65,7 +65,7 @@ GitHub cofounder discussed rethinking Git for AI agents era (Apr 21). Google Dee
 - **W17 (Context War)**: [[ollama|Ollama]] introduced Hermes self-learning agent, and [[codex|Codex]] gained persistent memory — agents are no longer stateless tools but context-accumulating companions. Model companies are building their own user-context moats through continuous interaction, independent of incumbent data.
 
 ## Related
-- [[openclaw]]
-- [[agent-frameworks]]
-- [[multi-agent-systems]]
-- [[computer-use]]
+
+**Companies:** [[alibaba]], [[anthropic]], [[cursor-ai]], [[hugging-face]], [[meta]], [[microsoft]], [[nvidia]], [[openai]], [[perplexity]], [[salesforce]], [[tencent]]
+**Products:** [[claude]], [[codex]], [[ollama]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[multi-agent-systems]], [[rag]]

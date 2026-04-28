@@ -16,4 +16,5 @@ Trajectory: accelerating | Signal count: 3
 - **2026-02-25**: Mexico's CJNG cartel embraces AI, drones, and social media
 
 ## Related
-- [[agent-frameworks]]
+
+**Technologies:** [[agent-frameworks]]

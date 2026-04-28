@@ -17,3 +17,8 @@ Consumer technology giant with growing on-device AI capabilities and research co
 - **2026-04-01**: [[ollama|Ollama]] Major Update: MLX Integration for Apple Silicon and NVFP4 Support · [Twitter @ollama](https://x.com/ollama/status/2038835449012351197)
 - **2026-03-31**: Apple Researchers Introduce LGTM for High-Fidelity 4K Novel View Synthesis · [arXiv Paper (Apple)](https://huggingface.co/papers/2603.25745)
 - **2026-02-27**: Apple Releases Python SDK for On-Device LLM on Mac · [Twitter](https://x.com/rxwei/status/2026838142557499756)
+
+## Related
+
+**Companies:** [[anthropic]], [[microsoft]]
+**Products:** [[ollama]]

@@ -39,7 +39,6 @@ Peking University DataFlex for dynamic LLM training (Apr 6). Alibaba AgentSwing 
 [[qwen|Qwen]] models widely fine-tuned globally. [[cursor-ai|Cursor]] based Composer 2 on Moonshot's Kimi K2.5. Chinese open-source models increasingly competitive with Western closed models.
 
 ## Related
-- [[alibaba]]
-- [[tencent]]
-- [[bytedance]]
-- [[qwen]]
+
+**Companies:** [[alibaba]], [[bytedance]], [[cursor-ai]], [[hugging-face]], [[tencent]]
+**Products:** [[openclaw]], [[qwen]]

@@ -22,4 +22,7 @@ Trajectory: stable | Signal count: 9
 - **2026-02-25**: Spanish startup Multiverse Computing releases free compressed AI model; [[qwen|Qwen]] 3.5 Medium Model Series
 
 ## Related
-- [[agent-frameworks]]
+
+**Companies:** [[microsoft]]
+**Products:** [[ollama]], [[qwen]]
+**Technologies:** [[agent-frameworks]]

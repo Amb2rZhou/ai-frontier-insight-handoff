@@ -45,3 +45,10 @@ Parent company of Facebook, Instagram, and WhatsApp. Major AI investor through F
 - **2026-03-05**: Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power · [The Verge](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) · [Wired](https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/)
 - **2026-03-05**: Community Debate: The End of Frontier Open-Weights Models? · [Twitter @natolambert](https://x.com/natolambert/status/2029049751472357631) · [Twitter @emollick](https://x.com/emollick/status/2029016175674265873)
 - **2026-02-26**: [[anthropic|Anthropic]] Acquires [[computer-use|Computer-Use]] AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
+
+## Related
+
+**Companies:** [[anthropic]], [[google-deepmind]], [[nvidia]], [[perplexity]]
+**Products:** [[claude]], [[gemma]], [[muse-spark]]
+**Technologies:** [[agent-frameworks]], [[computer-use]]
+**Trends:** [[open-source-models]]

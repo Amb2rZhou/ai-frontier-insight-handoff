@@ -18,3 +18,7 @@ Chinese tech giant (parent of TikTok), active in AI through Seedance video gener
 - **2026-03-29**: ByteDance's LVFace Face Recognition Model Gains Community Traction · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1s6a90d/lvface_performance_vs_arcfaceresnet/)
 - **2026-03-26**: ByteDance Seed Team Publishes SIMART for 3D Asset Generation · [arXiv (ByteDance Seed)](https://huggingface.co/papers/2603.23386)
 - **2026-03-16**: ByteDance Pauses Global Launch of Seedance 2.0 Video Generator · [TechCrunch](https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/)
+
+## Related
+
+**Products:** [[openclaw]]

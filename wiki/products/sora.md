@@ -17,3 +17,9 @@ updated: 2026-04-26
 - **2026-03-25**: [[hugging-face|HuggingFace]] CEO Proposes Open-Sourcing Sora as [[openai|OpenAI]] Shuts Down App · [@ClementDelangue](https://x.com/ClementDelangue/status/2036548842099781694)
 - **2026-03-13**: [[openai|OpenAI]] Sora 2 Video API Launches with New Capabilities · [OpenAI Devs (@OpenAIDevs)](https://x.com/OpenAIDevs/status/2032142448970121468)
 - **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share · [@a16z](https://x.com/a16z/status/2031105607303049541) · [@a16z](https://x.com/a16z/status/2031172864568848546) · [@a16z](https://x.com/a16z/status/2031095477936566306)
+
+## Related
+
+**Companies:** [[hugging-face]], [[openai]]
+**Products:** [[gpt]]
+**Trends:** [[creative-ai]]

@@ -23,3 +23,9 @@ AI-powered code editor that became one of the fastest-growing developer tools. K
 - **2026-03-21**: [[hugging-face|HuggingFace]] CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact · [@ClementDelangue (HuggingFace CEO)](https://x.com/ClementDelangue/status/2035042945884463538)
 - **2026-03-20**: Cursor Releases Composer 2, In-House Coding Model Surpassing [[claude|Claude]] Opus 4.6 · [VentureBeat](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but) · [Cursor 研究员 Aman Sanger](https://x.com/amanrsanger/status/2034704792925479356)
 - **2026-03-05**: Cursor [[agent-frameworks|AI Agent]] Client Protocol Expands to JetBrains IDEs · [Twitter @cursor_ai](https://x.com/cursor_ai/status/2029222015736197205)
+
+## Related
+
+**Companies:** [[anthropic]], [[hugging-face]], [[openai]], [[perplexity]]
+**Products:** [[claude]], [[copilot]], [[gpt]]
+**Technologies:** [[agent-frameworks]]

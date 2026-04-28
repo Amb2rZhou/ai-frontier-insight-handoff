@@ -33,3 +33,8 @@ AI-powered tools for image, video, audio, and 3D content generation.
 - **2026-03-16**: [[hugging-face|HuggingFace]] Trending: Lightricks LTX-2.3 Video Generation Model · [HuggingFace Model: Lightricks/LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)
 - **2026-03-09**: Lightricks Open-Sources LTX-Desktop App and LTX-2.3 Video Generation Model · [GitHub (Lightricks/LTX-Desktop)](https://github.com/Lightricks/LTX-Desktop) · [HuggingFace (Lightricks/LTX-2.3)](https://huggingface.co/Lightricks/LTX-2.3)
 - **2026-03-08**: Arxiv: RealWonder - Real-Time Physical Action-Conditioned Video Generation · [Arxiv](http://arxiv.org/abs/2603.05449v1) · [@_akhaliq (Twitter)](https://x.com/_akhaliq/status/2030364820055191620)
+
+## Related
+
+**Companies:** [[alibaba]], [[bytedance]], [[google-deepmind]], [[hugging-face]], [[meta]], [[microsoft]], [[openai]], [[tencent]]
+**Products:** [[gemma]], [[gpt]], [[muse-spark]]

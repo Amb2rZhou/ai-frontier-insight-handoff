@@ -32,3 +32,10 @@ updated: 2026-04-27
 - **2026-03-01**: Chinese Open-Weight Models Dominate [[hugging-face|HuggingFace]] Trends and Code Arena · [HuggingFace Trending Models](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) · [HuggingFace Trending Models](https://huggingface.co/zai-org/GLM-5) · [Twitter @arena](https://x.com/arena/status/2027540296276607105)
 - **2026-02-28**: [[alibaba|Alibaba]] Expands Qwen3.5 Family with New 27B Model, Matching Larger Open Weights Models · [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2027489442697777245) · [HuggingFace Trending](https://huggingface.co/Qwen/Qwen3.5-27B)
 - **2026-02-25**: [[alibaba|Alibaba]] Qwen Releases New 3.5 Medium Model Series with MoE Architecture · [Twitter @Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2026339351530188939) · [HuggingFace](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)
+
+## Related
+
+**Companies:** [[alibaba]], [[hugging-face]]
+**Products:** [[claude]], [[openclaw]]
+**Technologies:** [[agent-frameworks]]
+**Trends:** [[chinese-ai]], [[open-source-models]]

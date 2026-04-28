@@ -268,3 +268,10 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 - **2026-02-26**: [[anthropic|Anthropic]] Acquires [[computer-use|Computer-Use]] AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
 - **2026-02-26**: Mobile-[[mcp-protocol|MCP]]: LLMs Autonomously Discover Android App Capabilities · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1rf1u76/d_mobilemcp_letting_llms_autonomously_discover/)
 - **2026-02-25**: Nimble Launches Agentic Search Platform Claiming 99% Accuracy · [VentureBeat](https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform)
+
+## Related
+
+**Companies:** [[alibaba]], [[anthropic]], [[cursor-ai]], [[google-deepmind]], [[hugging-face]], [[meta]], [[microsoft]], [[nvidia]], [[openai]], [[perplexity]], [[salesforce]], [[scale-ai]], [[tencent]]
+**Products:** [[claude]], [[codex]], [[copilot]], [[gemini]], [[gemma]], [[gpt]], [[muse-spark]], [[ollama]], [[openclaw]], [[qwen]]
+**Technologies:** [[computer-use]], [[mcp-protocol]], [[multi-agent-systems]], [[rag]]
+**Trends:** [[ai-security]], [[embodied-ai]]

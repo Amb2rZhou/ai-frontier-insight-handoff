@@ -81,3 +81,10 @@ Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Ge
 - **2026-02-27**: Google Nano Banana 2 Aims to Reduce AI Image Generation Costs · [VentureBeat](https://venturebeat.com/technology/googles-nano-banana-2-takes-aim-at-the-production-cost-problem-thats-kept-ai) · [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
 - **2026-02-26**: Google Folds Robotics Moonshot Intrinsic into Core Business · [The Verge](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
 - **2026-02-25**: [[nvidia|Nvidia]] Challenger MatX Raises $500M Led by Former Google TPU Engineers · [TechCrunch](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)
+
+## Related
+
+**Companies:** [[anthropic]], [[microsoft]], [[nvidia]], [[openai]], [[perplexity]], [[scale-ai]]
+**Products:** [[claude]], [[gemini]], [[gemma]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[rag]]
+**Trends:** [[embodied-ai]]

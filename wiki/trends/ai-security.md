@@ -23,3 +23,9 @@ Security vulnerabilities, adversarial attacks, and emerging threats in AI models
 - **2026-03-01**: AI-Powered Disinformation and Cyber Attacks Amplify Amid Real-World Conflict · [Wired](https://www.wired.com/story/x-is-drowning-in-disinformation-following-us-and-israels-attack-on-iran/) · [Wired](https://www.wired.com/story/hacked-prayer-app-sends-surrender-messages-to-iranians-amid-israeli-strikes/)
 - **2026-02-27**: Invisible Unicode Character Attack Tricks AI Agents · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/)
 - **2026-02-25**: Systematic Prefill Attack Vulnerability Found in 50 Open-Weight LLMs · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/)
+
+## Related
+
+**Companies:** [[openai]]
+**Products:** [[codex]]
+**Technologies:** [[agent-frameworks]]

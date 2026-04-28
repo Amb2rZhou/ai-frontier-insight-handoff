@@ -37,3 +37,9 @@ updated: 2026-04-27
 - **2026-03-05**: [[openai|OpenAI]] Codex for Windows Officially Released · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2029272237409484819) · [Twitter @embirico](https://x.com/embirico/status/2029278904096309526)
 - **2026-03-02**: [[perplexity|Perplexity]] Computer Integrates [[gpt|GPT-5]].3-Codex as Subagent, Showcases Finance App Demo · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028190055165256164) · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028255792101765326)
 - **2026-02-25**: [[openai|OpenAI]]'s [[gpt|GPT-5]].3-Codex GA and [[claude|Claude Code]] Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)
+
+## Related
+
+**Companies:** [[anthropic]], [[nvidia]], [[openai]], [[perplexity]]
+**Products:** [[claude]], [[gpt]]
+**Technologies:** [[agent-frameworks]], [[computer-use]]

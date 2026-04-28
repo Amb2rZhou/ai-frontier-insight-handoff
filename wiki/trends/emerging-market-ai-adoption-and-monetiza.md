@@ -17,4 +17,5 @@ Trajectory: stable | Signal count: 4
 - **2026-02-25**: India's AI user boom faces monetization challenge
 
 ## Related
-- [[agent-frameworks]]
+
+**Technologies:** [[agent-frameworks]]

@@ -20,3 +20,10 @@ updated: 2026-04-26
 - **2026-04-06**: [[google-deepmind|Google]] AI Edge App Ranks High on iOS Store Post-Gemma 4 · [Twitter @OfficialLoganK](https://x.com/OfficialLoganK/status/2040874501777317982)
 - **2026-04-05**: vLLM v0.19.0 Released with Full Gemma 4 Architecture Support · [GitHub Release (vllm-project/vllm)](https://github.com/vllm-project/vllm/releases/tag/v0.19.0)
 - **2026-04-03**: [[google-deepmind|Google DeepMind]] Releases Gemma 4 Under Apache 2.0, Focus on Edge Deployment · [Google AI Blog (via Jeff Dean)](https://x.com/JeffDean/status/2039748604232122707) · [VentureBeat](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter) · [HuggingFace Transformers Release](https://github.com/huggingface/transformers/releases/tag/v5.5.0)
+
+## Related
+
+**Companies:** [[google-deepmind]]
+**Products:** [[ollama]]
+**Technologies:** [[agent-frameworks]]
+**Trends:** [[open-source-models]]

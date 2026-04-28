@@ -45,5 +45,5 @@ MatX raised $500M as NVIDIA challenger, led by ex-Google TPU engineers (Feb 25).
 NVIDIA CEO pulled back from OpenAI and Anthropic investments (Mar 5). AI Grid strategy with telecoms for distributed inference (Mar 18).
 
 ## Related
-- [[nvidia]]
-- [[xai]]
+
+**Companies:** [[anthropic]], [[nvidia]], [[openai]], [[xai]]

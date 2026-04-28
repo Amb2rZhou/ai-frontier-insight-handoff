@@ -21,3 +21,9 @@ Elon Musk's AI company, maker of [[grok|Grok]] models. Known for aggressive infr
 - **2026-03-17**: xAI Releases [[grok|Grok]] Text-to-Speech API with Natural and Expressive Controls · [@xai (Twitter)](https://x.com/xai/status/2033617157884678507)
 - **2026-03-05**: Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power · [The Verge](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) · [Wired](https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/)
 - **2026-02-25**: [[grok|Grok]] 4.20 Beta Tops Search Arena, Challenges Frontier Models · [Twitter @arena](https://x.com/arena/status/2026566773496230383)
+
+## Related
+
+**Companies:** [[cursor-ai]], [[scale-ai]]
+**Products:** [[grok]], [[openclaw]]
+**Technologies:** [[agent-frameworks]]

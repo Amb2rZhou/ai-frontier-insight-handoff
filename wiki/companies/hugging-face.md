@@ -5,6 +5,7 @@ created: 2026-02-25
 updated: 2026-04-28
 ---
 
+
 # Hugging Face
 
 The central platform for [[open-source-models|open-source]] AI model hosting, datasets, and community. Increasingly becoming infrastructure for the AI [[agent-frameworks|agent]] ecosystem.
@@ -62,3 +63,10 @@ The central platform for [[open-source-models|open-source]] AI model hosting, da
 - **2026-03-01**: Chinese Open-Weight Models Dominate HuggingFace Trends and Code Arena · [HuggingFace Trending Models](https://huggingface.co/Qwen/Qwen3.5-397B-A17B) · [HuggingFace Trending Models](https://huggingface.co/zai-org/GLM-5) · [Twitter @arena](https://x.com/arena/status/2027540296276607105)
 - **2026-02-28**: [[alibaba|Alibaba]] Expands Qwen3.5 Family with New 27B Model, Matching Larger Open Weights Models · [@ArtificialAnlys](https://x.com/ArtificialAnlys/status/2027489442697777245) · [HuggingFace Trending](https://huggingface.co/Qwen/Qwen3.5-27B)
 - **2026-02-25**: Spanish Startup Multiverse Computing Releases Free Compressed AI Model · [TechCrunch](https://techcrunch.com/2026/02/24/spanish-soonicorn-multiverse-computing-releases-free-compressed-ai-model/)
+
+## Related
+
+**Companies:** [[alibaba]], [[anthropic]], [[bytedance]], [[cursor-ai]], [[google-deepmind]], [[nvidia]], [[openai]], [[perplexity]], [[tencent]]
+**Products:** [[claude]], [[gemma]], [[gpt]], [[qwen]], [[sora]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[rag]]
+**Trends:** [[open-source-models]]

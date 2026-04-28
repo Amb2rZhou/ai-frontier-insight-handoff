@@ -30,3 +30,10 @@ updated: 2026-04-19
 - **2026-03-04**: [[google-deepmind|Google]] Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost [[agent-frameworks|Agentic]] Workflows · [VentureBeat](https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro) · [@googledevs on X](https://x.com/googledevs/status/2028874212362850427)
 - **2026-02-28**: [[google-deepmind|Google]] Releases Nano Banana 2: State-of-the-Art Image Generation Model with Real-World Knowledge · [@GoogleAI](https://x.com/GoogleAI/status/2027463725498720306) · [@GeminiApp](https://x.com/GeminiApp/status/2027429555250860129) · [@arena](https://x.com/arena/status/2027436205118525774)
 - **2026-02-25**: [[grok|Grok]] 4.20 Beta Tops Search Arena, Challenges Frontier Models · [Twitter @arena](https://x.com/arena/status/2026566773496230383)
+
+## Related
+
+**Companies:** [[google-deepmind]], [[openai]], [[scale-ai]]
+**Products:** [[grok]], [[muse-spark]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[rag]]
+**Trends:** [[embodied-ai]]

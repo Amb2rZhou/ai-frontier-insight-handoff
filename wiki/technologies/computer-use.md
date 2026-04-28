@@ -18,3 +18,8 @@ AI agents that can directly control desktop and mobile interfaces — clicking, 
 - **2026-03-25**: [[anthropic|Anthropic]] Launches [[claude|Claude]] Computer Use for Mac Control · [VentureBeat](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)
 - **2026-03-06**: [[openai|OpenAI]] Launches [[gpt|GPT-5]].4 with Native Computer Use and 1M Context · [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4) · [VentureBeat](https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for) · [@sama](https://x.com/sama/status/2029622732594499630)
 - **2026-02-26**: [[anthropic|Anthropic]] Acquires Computer-Use AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
+
+## Related
+
+**Companies:** [[anthropic]], [[hugging-face]], [[openai]]
+**Products:** [[claude]], [[gpt]]

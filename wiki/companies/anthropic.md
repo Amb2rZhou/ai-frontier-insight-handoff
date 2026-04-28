@@ -71,3 +71,10 @@ updated: 2026-04-26
 - **2026-02-25**: [[openai|OpenAI]]'s [[gpt|GPT-5]].3-[[codex|Codex]] GA and [[claude|Claude Code]] Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)
 - **2026-02-25**: Anthropic's COBOL Modernization Tools Trigger IBM Stock Drop · [VentureBeat](https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt)
 - **2026-02-25**: Pentagon Recruits AI Talent from Anthropic, Uber, and Private Equity · [The Verge](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)
+
+## Related
+
+**Companies:** [[google-deepmind]], [[microsoft]], [[nvidia]], [[openai]], [[scale-ai]]
+**Products:** [[claude]], [[codex]], [[copilot]], [[gpt]], [[openclaw]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[multi-agent-systems]]
+**Trends:** [[ai-safety]], [[enterprise-agents]]

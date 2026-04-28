@@ -132,3 +132,10 @@ The rapid proliferation of open-source and open-weight foundation models challen
 - **2026-03-09**: Community Releases 100 Production-Ready [[openclaw|OpenClaw]] [[agent-frameworks|AI Agent]] Configs · [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)
 - **2026-02-25**: Systematic Prefill Attack Vulnerability Found in 50 Open-Weight LLMs · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/)
 - **2026-02-25**: [[alibaba|Alibaba]] [[qwen|Qwen]] Releases New 3.5 Medium Model Series with MoE Architecture · [Twitter @Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2026339351530188939) · [HuggingFace](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)
+
+## Related
+
+**Companies:** [[alibaba]], [[anthropic]], [[apple]], [[bytedance]], [[cursor-ai]], [[google-deepmind]], [[hugging-face]], [[meta]], [[microsoft]], [[nvidia]], [[openai]], [[tencent]]
+**Products:** [[claude]], [[codex]], [[gemma]], [[gpt]], [[ollama]], [[openclaw]], [[qwen]], [[sora]]
+**Technologies:** [[agent-frameworks]], [[computer-use]], [[mcp-protocol]], [[multi-agent-systems]]
+**Trends:** [[ai-security]], [[embodied-ai]]

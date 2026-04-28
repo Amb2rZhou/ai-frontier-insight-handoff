@@ -30,3 +30,10 @@ Technology giant with major AI investments through Azure, [[copilot|Copilot]], a
 - **2026-03-09**: Microsoft Warns of 'Double Agent' AI Risks, Launches Agent 365 for Enterprise Governance · [VentureBeat](https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its)
 - **2026-03-05**: Microsoft Releases Phi-4-Reasoning-Vision-15B with Adaptive Computation · [VentureBeat](https://venturebeat.com/technology/microsoft-built-phi-4-reasoning-vision-15b-to-know-when-to-think-and-when)
 - **2026-02-27**: Microsoft [[copilot|Copilot]] Tasks: Cloud-Based Autonomous [[agent-frameworks|AI Agent]] System · [The Verge](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai)
+
+## Related
+
+**Companies:** [[anthropic]], [[apple]], [[nvidia]], [[openai]], [[perplexity]]
+**Products:** [[claude]], [[copilot]], [[gpt]], [[openclaw]]
+**Technologies:** [[agent-frameworks]]
+**Trends:** [[enterprise-agents]]
