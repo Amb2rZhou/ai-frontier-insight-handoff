@@ -2,7 +2,7 @@
 title: Agent Frameworks
 type: technology
 created: 2026-02-25
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # Agent Frameworks
@@ -11,307 +11,260 @@ The rapidly evolving ecosystem of tools, SDKs, and platforms for building autono
 
 ## Timeline
 
-- **2026-04-27**: Bilibili AI Agent Search Volume Surges Over 500%, Launches AI Creation Competition
-- **2026-04-27**: Edge Matrix Runtime 'wanman' Enables Autonomous Multi-Agent Workflows on Local Devices
-- **2026-04-27**: Open-Source Platform 'future-agi' for LLM and AI Agent Observability Gains Traction
-- **2026-04-27**: Alibaba Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks
-- **2026-04-27**: DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price
-- **2026-04-27**: Open Source Multi-Agent Framework 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars
-- **2026-04-27**: CNCF-Style Open Source Project 'future-agi' for LLM Agent Evaluation and Observability Reaches 555 Stars
-- **2026-04-26**: Anthropic Experiments with Agent-on-Agent Commerce Marketplace
-- **2026-04-26**: NVIDIA Dynamo Rebuilds Inference Stack for Agentic Coding
-- **2026-04-25**: GPT-5.5 Launches Across OpenAI API, GitHub Copilot, and Perplexity
-- **2026-04-25**: 85% of Enterprises Run AI Agent Pilots But Only 5% Production-Ready
-- **2026-04-25**: OpenAI Introduces Auto-Review Agent for Codex Reducing Human Approvals
-- **2026-04-25**: Anthropic Claude SDK Adds CMA Memory Feature in Public Beta
-- **2026-04-24**: Anthropic Claude Expands to Personal App Ecosystem Connectors
-- **2026-04-24**: Anthropic Confirms Claude Performance Degradation Due to Harness Changes
-- **2026-04-24**: Unsloth Achieves 2-bit Qwen3.6-27B GGUF with Agentic QA Capability on 12GB RAM
-- **2026-04-24**: Meta AI Research: Scaling Test-Time Compute for Agentic Coding
-- **2026-04-24**: Hugging Face 'ml-intern' Hits 5B Tokens in 48 Hours with 3000 Testers
-- **2026-04-05**: Anthropic Restricts Third-Party Tool Access for Claude Code Subscribers
-- **2026-04-05**: OpenAI Codex Integrates Vercel Plugin for Streamlined Deployment
-- **2026-04-04**: Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash
-- **2026-04-01**: Anthropic Claude Code Source Code Leak
-- **2026-02-25**: Nimble Launches Agentic Search Platform Claiming 99% Accuracy
-- **2026-02-26**: AI Math Research Agent Solves 6/10 Unsolved Problems Autonomously
-- **2026-02-26**: Anthropic Acquires Computer-Use AI Startup Vercept
-- **2026-02-26**: Perplexity Launches 'Computer' Unified AI Agent System
-- **2026-02-26**: Mobile-MCP: LLMs Autonomously Discover Android App Capabilities
-- **2026-02-27**: Microsoft Copilot Tasks: Cloud-Based Autonomous AI Agent System
-- **2026-02-27**: ServiceNow Achieves 90% Autonomous IT Request Resolution
-- **2026-02-27**: Invisible Unicode Character Attack Tricks AI Agents
-- **2026-02-27**: Research: Solaris Multiplayer Video World Model in Minecraft
-- **2026-02-27**: Open-Source Agent OS 'Openfang' Gains Rapid Traction
-- **2026-02-28**: Perplexity Launches 'Computer' Unified AI Agent System and First Developer Conference
-- **2026-02-28**: Google Opal Presents New Blueprint for Enterprise AI Agent Development
-- **2026-03-01**: Claude Code Introduces /batch and /simplify Skills for Parallel Agentic Coding
-- **2026-03-01**: Open-Source Agent OS 'Openfang' Gains Rapid Traction on GitHub
-- **2026-03-01**: Arxiv: ParamMem Augments Language Agents with Parametric Reflective Memory
-- **2026-03-01**: Pika Labs Launches 'AI Selves' with Phone Numbers for iMessage/SMS Integration
-- **2026-03-02**: High-Engagement Demo: AI Agent Swarm Recreates Military Operation 4D Replay from Public Data
-- **2026-03-02**: Perplexity Computer Integrates GPT-5.3-Codex as Subagent, Showcases Finance App Demo
-- **2026-03-02**: Arxiv: Controllable Reasoning Models Can Protect Private Information in AI Agent Traces
-- **2026-03-02**: GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate
-- **2026-03-03**: Open Source AI Assistant OpenClaw Surpasses React in GitHub Stars
-- **2026-03-03**: Deutsche Telekom Partners with ElevenLabs for Network-Wide AI Phone Call Assistant
-- **2026-03-03**: Arxiv: CUDA Agent - Large-Scale Agentic RL for High-Performance GPU Kernel Generation
-- **2026-03-03**: Arxiv: A Minimal Agent for Automated Theorem Proving
-- **2026-03-04**: Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows
-- **2026-03-04**: OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees
-- **2026-03-04**: Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively
-- **2026-03-04**: Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem
-- **2026-03-05**: Cursor AI Agent Client Protocol Expands to JetBrains IDEs
-- **2026-03-05**: Perplexity Computer Adds Voice Mode for Hands-Free Agentic Interaction
-- **2026-03-05**: Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals
-- **2026-03-06**: OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context
-- **2026-03-06**: Google Launches Workspace CLI for AI Agents
-- **2026-03-06**: AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare
-- **2026-03-06**: Arxiv: AgentIR - Reasoning-Aware Retrieval for Deep Research Agents
-- **2026-03-06**: Databricks Builds Universal RAG Agent for All Enterprise Search Types
-- **2026-03-06**: AI Voice Agents Disrupt M&A Due Diligence Market
-- **2026-03-07**: Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs
-- **2026-03-07**: Sakana AI's 'AI Scientist' Tech Deployed in MUFG Bank's Lending Operations
-- **2026-03-07**: LangChain CEO Emphasizes 'Harness Engineering' Over Just Better Models for Agents
-- **2026-03-07**: Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents
-- **2026-03-08**: Community Highlights High Cost and Maintenance Burden of OpenClaw AI Agents
-- **2026-03-09**: Andrej Karpathy Envisions Massively Collaborative Asynchronous AI Research Agents
-- **2026-03-09**: Microsoft Warns of 'Double Agent' AI Risks, Launches Agent 365 for Enterprise Governance
-- **2026-03-09**: Perplexity CEO Highlights GPT-5.4's Superior Writing Capabilities for Content Jobs
-- **2026-03-09**: OpenDev Paper Details Compound AI System Architecture for CLI Coding Agents
-- **2026-03-09**: OpenClaw Releases Major Update with ACP Provenance and Security Fixes
-- **2026-03-09**: SkillNet: Open Infrastructure for Creating and Evaluating AI Agent Skills at Scale
-- **2026-03-09**: Community Releases 100 Production-Ready OpenClaw AI Agent Configs
-- **2026-03-09**: Open-Source Project Engram Provides Persistent Memory for AI Agents with Local Embeddings
-- **2026-03-10**: Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents
-- **2026-03-10**: Anthropic Launches Multi-Agent Code Review for Claude Code
-- **2026-03-10**: OpenAI Acquires Promptfoo to Strengthen AI Security Testing
-- **2026-03-10**: NVIDIA to Launch Open-Source AI Agent Platform
-- **2026-03-10**: Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents
-- **2026-03-10**: Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns
-- **2026-03-10**: Research: Agentic RAG Taxonomy and Architectures Survey
-- **2026-03-10**: Community Highlights AI Agent Security Risks via Email Hijacking
-- **2026-03-11**: Google Upgrades Gemini for Workspace with Cross-App Data Integration
-- **2026-03-11**: a16z Report: Context Layer Emerges as Key Bottleneck for AI Agents
-- **2026-03-11**: LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support
-- **2026-03-11**: VS Code Introduces 'Agent Hooks' for Programmable Copilot Behavior
-- **2026-03-12**: NVIDIA Releases Nemotron-3-Super: 120B Open Hybrid MoE Model with 1M Token Context
-- **2026-03-12**: Meta Acquires Moltbook, a Social Network for AI Agents
-- **2026-03-12**: Anthropic Integrates Claude Across Microsoft Excel and PowerPoint for Shared Context
-- **2026-03-12**: OpenAI Details Technical Architecture for Secure, Scalable AI Agents
-- **2026-03-12**: Google Gemini CLI Introduces 'Plan Mode' for Agentic Code Exploration
-- **2026-03-12**: VS Code Launches 'Autopilot' Preview for Fully Agent-Controlled Workflows
-- **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity
-- **2026-03-12**: Chinese OpenClaw Craze Sparks Startup Gold Rush and Installation Services
-- **2026-03-12**: Andrej Karpathy's 'Autoresearch' AI Agent Lab Experiences Outage, Highlights Reliability Concerns
-- **2026-03-13**: Claude Launches Interactive Chart and Diagram Generation Feature
-- **2026-03-13**: Perplexity Computer Rolls Out to All Pro Subscribers, Max Plan Offers Higher Limits
-- **2026-03-13**: Google Maps Integrates AI with 'Ask Gemini' and Immersive Navigation
-- **2026-03-13**: NVIDIA Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation
-- **2026-03-13**: Research: Cross-Context Review (CCR) Improves LLM Output Quality
-- **2026-03-13**: VentureBeat: Agents Need Vector Search More Than RAG Ever Did
-- **2026-03-13**: [Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context
-- **2026-03-14**: Perplexity Computer Mobile Launch with Cross-Device Sync
-- **2026-03-14**: NVIDIA Releases NeMo Retriever's Agentic Retrieval Pipeline
-- **2026-03-14**: NVIDIA and Ollama to Host Developer Session on Local AI Agents at GTC
-- **2026-03-14**: Niels Rogge Introduces Agentic RAG Benchmark with Human-Authored Questions
-- **2026-03-14**: Open-Source Project zer0dex Introduces Dual-Layer Memory for Local LLM Agents
-- **2026-03-15**: Chrome Enables Native Browser Access for AI Agents
-- **2026-03-15**: NVIDIA and Microsoft Provide Engineering Support to OpenClaw
-- **2026-03-15**: OpenClaw Integrates with Physical World: Robots and Drones
-- **2026-03-15**: Research: Agent Swarms Less Effective Than Agent Organizations
-- **2026-03-15**: Perplexity Submits AI Agent Security Framework to NIST
-- **2026-03-15**: Claude Temporarily Doubles Usage Limits for All Users
-- **2026-03-15**: GitHub Trending: MetaClaw Project Enables Continual Learning for Agents
-- **2026-03-15**: NVIDIA to Host GTC Panel on Securing Self-Evolving AI Agents
-- **2026-03-15**: OpenClaw Ecosystem Grows: Parallel Tool Calling and New Memory Plugins
-- **2026-03-16**: Google NotebookLM Launches Powerful Video Feature for Education
-- **2026-03-16**: GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation
-- **2026-03-17**: NVIDIA Launches NemoClaw: Enterprise AI Agent Platform with Security Focus
-- **2026-03-17**: Perplexity Computer AI Agent Now Available on Android, Completing Multi-Platform Rollout
-- **2026-03-17**: Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof
-- **2026-03-17**: Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents
-- **2026-03-17**: OpenAI Codex Gains Rapid Adoption, Sama Highlights Team's Builder Culture
-- **2026-03-17**: Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows
-- **2026-03-17**: Google Developers Introduce New Framework for Building Custom AI Agent UIs
-- **2026-03-18**: OpenAI Releases GPT-5.4 mini and nano for Coding and Agent Workloads
-- **2026-03-18**: Meta Deploys Autonomous AI Agent for Ads Ranking Model Development
-- **2026-03-18**: Ollama Integrates Web Search/Fetch into OpenClaw Ecosystem
-- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents
-- **2026-03-19**: Google Launches Stitch: AI-Native Vibe Design Platform
-- **2026-03-19**: MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks
-- **2026-03-19**: Google Releases Developer Guide for AI Agent Protocols
-- **2026-03-19**: Perplexity's Comet AI Agent App Completes Multi-Platform Rollout
-- **2026-03-19**: HuggingFace CEO Highlights Agentic World Challenges and Adaptations
-- **2026-03-19**: Andrew Ng Launches New Course on Agent Memory with Oracle
-- **2026-03-20**: OpenAI Acquires Code Agent Startup Astral to Boost Codex Team
-- **2026-03-20**: Cursor Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6
-- **2026-03-20**: Google AI Studio Upgrades to Full-Stack Vibe Coding with Backend Support
-- **2026-03-20**: Meta's Rogue AI Agent Incident Exposes IAM Gaps in Enterprise Security
-- **2026-03-20**: Unsloth AI Demonstrates Qwen3.5-4B's Tool Use and Web Search Capabilities
-- **2026-03-21**: MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher
-- **2026-03-21**: Perplexity Computer Integrates Market Research Data from PitchBook, Statista, CB Insights
-- **2026-03-22**: OpenAI Announces 10x Faster Agent Workflows with Container Pooling
-- **2026-03-22**: NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning
-- **2026-03-22**: Industry Leader Highlights Rapid Obsolescence of AI Agent Stacks
-- **2026-03-23**: Memento-Skills: Let Agents Design Agents via Memory-Based RL
-- **2026-03-23**: Industry Discussion: AI Agents Still in Early Adoption Phase
-- **2026-03-24**: Meta Hires AI Agent Startup Dreamer Team
-- **2026-03-24**: WorldAgents: Agentic Framework for 3D World Generation from 2D Models
-- **2026-03-24**: OpenClaw Releases Major Update with Plugin Marketplace and New Models
-- **2026-03-24**: Google Gemini Gains On-Device Agent Capabilities for Tasks
-- **2026-03-24**: NVIDIA Releases OpenShell for Agent Governance
-- **2026-03-24**: HuggingFace CEO Proposes 'S3 for Agents' Storage Solution
-- **2026-03-25**: Anthropic Launches Claude Computer Use for Mac Control
-- **2026-03-25**: Google DeepMind Partners with Agile Robots for Next-Gen Robotics
-- **2026-03-25**: Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering
-- **2026-03-25**: Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution
-- **2026-03-25**: AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories
-- **2026-03-26**: Claude Expands Computer Use Tools to Mobile
-- **2026-03-26**: François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI
-- **2026-03-26**: Anthropic Details Claude Code Auto Mode Safety Design
-- **2026-03-26**: Cursor AI Enables Cloud Agents to Run on User Infrastructure
-- **2026-03-27**: Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents
-- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service
-- **2026-03-27**: Chroma Open-Sources Agentic Search Agent Trained with RL
-- **2026-03-27**: Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing
-- **2026-03-27**: François Chollet Announces ARC-AGI-4 Release for Early 2027
-- **2026-03-27**: Benchmark Shows Performance Leap for Agentic AI in OSWorld
-- **2026-03-28**: OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation
-- **2026-03-28**: Tencent AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent
-- **2026-03-28**: Google Releases Agent Development Kit for Faster AI Agent Building
-- **2026-03-28**: OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog
-- **2026-03-29**: InternLM Releases WildClawBench for In-the-Wild Agent Evaluation
-- **2026-03-30**: OpenClaw Agent Framework Update Gains High Engagement
-- **2026-03-31**: Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup
-- **2026-03-31**: Claude Code Launches Auto Mode for Enterprise and API Users
-- **2026-03-31**: OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight
-- **2026-03-31**: DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs
-- **2026-03-31**: HuggingFace CEO Advocates for Open-Source Models in Agent Tools
-- **2026-04-01**: Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features
-- **2026-04-01**: KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6
-- **2026-04-02**: Google DeepMind Introduces AI Agent Traps Framework
-- **2026-04-02**: Google Devs Proposes Agent Skills Specification for Efficiency
-- **2026-04-02**: OpenAI Codex Resets Rate Limits Proactively Amid High Usage
-- **2026-04-02**: Intuit's AI Agents Achieve 85% Repeat Usage with Human-in-the-Loop
-- **2026-04-02**: HuggingFace Blog: Hcompany Releases Holo3 for Computer Use
-- **2026-04-02**: MIT Research Proves Fundamental Limits of Multi-Agent LLM Planning
-- **2026-04-02**: Kilo Launches KiloClaw to Combat Enterprise 'Shadow AI'
-- **2026-04-02**: Tencent Hunyuan's Unify-Agent: World-Grounded Image Synthesis
-- **2026-04-03**: Alibaba Qwen Launches Qwen3.6-Plus, Targeting Real-World Agent Capabilities
-- **2026-04-03**: Perplexity AI's 'Computer' Agent Can Now Assist with Tax Preparation
-- **2026-04-03**: Claude Code Desktop Expands Computer Use to Windows
-- **2026-04-03**: Meta Details Ranking Engineer Agent's AI Infrastructure Optimization
-- **2026-04-03**: Box Launches Enterprise Content Agent with Security Controls
-- **2026-04-03**: OpenAI ChatGPT Voice Mode Now Available in CarPlay
-- **2026-04-04**: Nvidia Launches Enterprise AI Agent Platform with Major Partners
-- **2026-04-04**: Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing RAG
-- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents
-- **2026-04-04**: Community Analysis Reveals Massive Token Waste in Agent Frameworks
-- **2026-04-04**: GitHub API Rate Limits Become Bottleneck for AI Agent Scaling
-- **2026-04-04**: Cursor AI Doubles Composer 2 Usage, Highlights Agent Adoption Growth
-- **2026-04-05**: MIT Researchers Propose CORAL: Autonomous Multi-Agent Evolution Framework
-- **2026-04-05**: Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction
-- **2026-04-06**: OpenClaw Adds Native Video Generation with Multi-Provider Support
-- **2026-04-06**: Salesforce Proposes GPA for GUI Process Automation from Demonstrations
-- **2026-04-06**: Community Builds Personal Local Coding Agent with Open-Source Stack
-- **2026-04-06**: VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption
-- **2026-04-07**: Meta Engineering Details AI for Mapping Tribal Knowledge in Data Pipelines
-- **2026-04-07**: VentureBeat: NeuBird AI Launches Falcon and FalconClaw for Autonomous Software Issue Management
-- **2026-04-07**: Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs
-- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity
-- **2026-04-08**: Amazon S3 Files Bridges Object-File Gap for AI Agent Workspaces
-- **2026-04-08**: Block Unveils Managerbot, a Proactive AI Agent for Square Sellers
-- **2026-04-09**: Meta Launches Proprietary Multimodal Model Muse Spark with Contemplation Mode
-- **2026-04-09**: OpenClaw Agent Framework Adds Dreaming Feature and Hardens Security
-- **2026-04-10**: Cursor AI Agents Can Now Attach Demos and Screenshots to GitHub PRs
-- **2026-04-10**: Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents
-- **2026-04-10**: Google Devs Showcase RAG Pipeline Optimization for AI Agents
-- **2026-04-11**: Anthropic Launches Claude Managed Agents Public Beta
-- **2026-04-11**: VentureBeat: AI Agent Zero-Trust Architectures Emerge
-- **2026-04-11**: Tencent Releases HY-Embodied-0.5 Foundation Model
-- **2026-04-11**: Muse Spark API Coming Soon for Agent Integration
-- **2026-04-11**: Anthropic Temporarily Bans OpenClaw Creator
-- **2026-04-12**: Berkeley RDI Exposes AI Agent Benchmark Manipulation
-- **2026-04-12**: ClawBench Presents Real-World Evaluation for AI Agents
-- **2026-04-12**: AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building
-- **2026-04-12**: MIT Hosts Open Agentic Web Conference on Agent Infrastructure
-- **2026-04-12**: Cursor AI Announces Free Weekend for Composer 2 Agent Builder
-- **2026-04-13**: Study Finds AI Agents Can Deceive Humans and Evade Safeguards
-- **2026-04-13**: SkillClaw Enables Collective Skill Evolution in Multi-Agent Systems
-- **2026-04-13**: Auto-Deep-Researcher AI Agent Runs Experiments 24/7
-- **2026-04-14**: OpenAI Acquires AI Personal Finance Startup Hiro
-- **2026-04-14**: Alibaba Proposes AgentSwing for Adaptive Context Management in Web Agents
-- **2026-04-14**: Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration
-- **2026-04-14**: Perplexity CEO Highlights Full Circle Pivot to 'Computer' for Founders
-- **2026-04-14**: GitHub Trending: EcoAlign-Forge for Multi-Agent DPO Data Synthesis
-- **2026-04-15**: Google Devs Share Five Architectural Patterns for Production-Grade AI Agents
-- **2026-04-15**: Databricks Research Shows Multi-Step Agents Outperform Single-Turn RAG by 21%
-- **2026-04-15**: Survey Finds 43% of AI-Generated Code Changes Require Debugging in Production
-- **2026-04-16**: OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness
-- **2026-04-16**: Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents
-- **2026-04-16**: NVIDIA Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for Agentic Reasoning
-- **2026-04-16**: Meta Researchers Propose 'Hyperagents' for Self-Improving AI in Non-Coding Tasks
-- **2026-04-16**: VentureBeat: Frontier Models Fail One in Three Production Attempts, Harder to Audit
-- **2026-04-17**: Anthropic Releases Claude Opus 4.7, Retakes SOTA in Agentic Coding
-- **2026-04-17**: OpenAI Massively Upgrades Codex into a Full AI Computer Operator
-- **2026-04-17**: Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure
-- **2026-04-17**: Google Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge
-- **2026-04-17**: Physical Intelligence Unveils π0.7, a Robot Brain Capable of Zero-Shot Task Generalization
-- **2026-04-17**: Google Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures
-- **2026-04-17**: Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions
-- **2026-04-18**: Anthropic Launches Claude Design, AI Tool for Visual Prototyping
-- **2026-04-18**: NVIDIA Isaac GR00T N1.7 Early Access for Humanoid Robots
-- **2026-04-18**: VentureBeat Survey: Most Enterprises Can't Stop Stage-3 AI Agent Threats
-- **2026-04-18**: Ollama Releases v0.21.0 with Hermes Self-Learning Agent
-- **2026-04-19**: Tesla Robotaxi Expands to Dallas and Houston
-- **2026-04-19**: Hugging Face Launches Platform for AI Agents to Call 1M+ Spaces
-- **2026-04-19**: Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark
-- **2026-04-20**: Box CEO Highlights Need for Rapid AI Architecture Upgrades
-- **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw
-- **2026-04-21**: Alibaba Releases Qwen3.6-Max-Preview with Enhanced Agentic Coding
-- **2026-04-21**: Tencent and OpenClaw Collaborate on Agent Harness Performance
-- **2026-04-21**: GitHub Cofounder Discusses Rethinking Git for AI Agents Era
-- **2026-04-22**: SpaceX Announces Option to Acquire AI Coding Startup Cursor for $60B
-- **2026-04-22**: Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents
-- **2026-04-22**: NVIDIA and Adobe Showcase Agentic Workflows for Enterprise Content Creation
-- **2026-04-23**: OpenAI Launches Workspace Agents for Enterprise Automation
-- **2026-04-23**: Stanford Research Finds 'AI Swarm Tax', Single Agents Often Outperform Multi-Agent Systems
-- **2026-04-23**: Google and AWS Split AI Agent Stack Between Control and Execution
-- **2026-04-23**: Tencent Releases PlayCoder Framework for LLM-Generated GUI Code Correction
-
-## Key Developments
-
-### Cost & Economics
-Agent sessions consume 50-100x more tokens than conversations. Current frameworks waste 350K+ tokens per session on redundant context. Anthropic restricted third-party tools (Apr 4), OpenAI reset Codex rate limits (Apr 2), GitHub API rate limits became a bottleneck (Apr 4) — all driven by the agent "tax" problem.
-
-### Enterprise Adoption
-29% of Fortune 500 became paying customers of AI startups (a16z, Apr 9). Coding, legal, customer service, and healthcare saw fastest penetration. Anthropic Managed Agents beta launched with Notion, Rakuten, Asana, Sentry (Apr 11).
-
-### Architecture Patterns
-Google shared five architectural patterns for production-grade agents (Apr 15). Google proposed Agent Skills Specification for efficiency (Apr 2). Salesforce launched Headless 360 as agent infrastructure (Apr 17). Andrew Ng launched course on spec-driven development with coding agents (Apr 16).
-
-### Evaluation Crisis
-Berkeley RDI exposed benchmark manipulation — 8 major benchmarks (SWE-bench, WebArena, etc.) could be exploited to near-perfect scores (Apr 12). ClawBench showed real-world performance is roughly half of sandbox scores. Frontier models fail one in three production attempts (Apr 16).
-
-### Open Source
-OpenClaw, Hermes Agent, and other frameworks gained massive traction. MIT hosted Open Agentic Web Conference (Apr 12). Stanford found "AI swarm tax" — single agents often outperform multi-agent systems (Apr 23).
-
-### Security
-Zero-trust architectures emerged for agents (Apr 11). Perplexity submitted agent security framework to NIST (Mar 15). Google DeepMind introduced AI Agent Traps Framework (Apr 2).
-
-## Weekly Insights
-- **W12 (Model Race to Habitat War)**: Competition shifted from model capability to platform control — Microsoft embedded agents in Office 365, Google made Chrome native for agents, VS Code launched Autopilot, NVIDIA released enterprise agent platform. The key dynamic: whoever controls the agent execution environment controls user migration costs.
-- **W13 (Water Sellers' Water Getting Cheaper)**: Agent adoption exploded but model providers' pricing power eroded from two directions simultaneously — top apps self-building (Cursor on Kimi) and NVIDIA making local deployment viable (NemoClaw + Nemotron-Cascade 2). Current agent frameworks waste 350K+ tokens per session.
-- **W14 (Agent Moved into the OS)**: Agents formally moved from chatbox to operating system — four companies simultaneously crossed from "advisor" to "operator," making "first agent on your device" more important than benchmarks. Intercom's Fin Apex 1.0 proved specialized post-trained models can beat frontier general models in verticals.
-- **W15 (The Math Doesn't Work)**: Agent sessions consume 50-100x more tokens than conversations, breaking the subscription model's mathematical foundation. The tools to bypass the "Agent tax" (Gemma 4, Qwen3.6-Plus, local agent stacks) matured in the same week the tax was imposed.
-- **W16 (No One Is Verifying)**: Berkeley proved 8 major benchmarks can be exploited to near-perfect scores while ClawBench showed real-world success is roughly half of sandbox scores — deployment acceleration far outpaced verification capability. MIT positioned current agent infrastructure as "DNS era" — everything (identity, auth, reputation) still needs to be built.
-- **W17 (Context War)**: Salesforce, Shopify, and SAP chose to open their platforms as agent infrastructure via MCP/API, while model companies accumulated their own context through persistent memory and self-learning agents — the window for incumbents' defensive "Context War" is closing as agents build independent user knowledge.
-
-## Related
-- [[openclaw]] — Leading open-source agent framework
-- [[codex]] — OpenAI's agent product
-- [[claude]] — Anthropic's agent product
-- [[multi-agent-systems]] — Multi-agent architectures
-- [[mcp-protocol]] — Tool interoperability protocol
-- [[computer-use]] — Agent computer control
+- **2026-04-28**: Xiaomi MiMo-V2.5 Open Source Models Excel at Agentic 'Claw' Tasks · [VentureBeat](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks) · [Hugging Face](https://huggingface.co/xiaomi)
+- **2026-04-28**: Redis Research: RAG Fine-Tuning Can Cut [[rag|Retrieval]] Accuracy by 40% · [VentureBeat](https://venturebeat.com/data/rag-precision-tuning-can-quietly-cut-retrieval-accuracy-by-40-putting-agentic-pipelines-at-risk)
+- **2026-04-27**: [[alibaba|Alibaba]] Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks · [Twitter @omarsar0](https://x.com/omarsar0/status/2048504655932760565)
+- **2026-04-27**: DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price · [Twitter DeepSeek官方](https://x.com/deepseek_ai/status/2048440764368347611)
+- **2026-04-27**: Open Source [[multi-agent-systems|Multi-Agent]] Framework 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars · [GitHub harmonist](https://github.com/GammaLabTechnologies/harmonist)
+- **2026-04-27**: CNCF-Style Open Source Project 'future-agi' for LLM Agent Evaluation and Observability Reaches 555 Stars · [GitHub future-agi](https://github.com/future-agi/future-agi)
+- **2026-04-26**: [[anthropic|Anthropic]] Experiments with Agent-on-Agent Commerce Marketplace · [TechCrunch](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
+- **2026-04-26**: [[nvidia|NVIDIA]] Dynamo Rebuilds Inference Stack for Agentic Coding · [NVIDIA AI (官方推特)](https://x.com/NVIDIAAI/status/2048069526000934986)
+- **2026-04-25**: [[gpt|GPT-5]].5 Launches Across [[openai|OpenAI]] API, GitHub [[copilot|Copilot]], and [[perplexity|Perplexity]] · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)
+- **2026-04-25**: 85% of Enterprises Run AI Agent Pilots But Only 5% Production-Ready · [VentureBeat](https://venturebeat.com/security/85-of-enterprises-are-running-ai-agents-only-5-trust-them-enough-to-ship)
+- **2026-04-25**: [[openai|OpenAI]] Introduces Auto-Review Agent for [[codex|Codex]] Reducing Human Approvals · [OpenAI President Greg Brockman (X/Twitter, 获489 likes/40068 views)](https://x.com/gdb/status/2047489218998628780)
+- **2026-04-25**: [[anthropic|Anthropic]] [[claude|Claude]] SDK Adds CMA Memory Feature in Public Beta · [Anthropic SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.97.0)
+- **2026-04-24**: [[anthropic|Anthropic]] [[claude|Claude]] Expands to Personal App Ecosystem Connectors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+- **2026-04-24**: [[anthropic|Anthropic]] Confirms [[claude|Claude]] Performance Degradation Due to Harness Changes · [VentureBeat](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)
+- **2026-04-24**: Unsloth Achieves 2-bit Qwen3.6-27B GGUF with Agentic QA Capability on 12GB RAM · [UnslothAI (@UnslothAI)](https://x.com/UnslothAI/status/2047348619465068995)
+- **2026-04-24**: [[meta|Meta AI]] Research: Scaling Test-Time Compute for Agentic Coding · [Arxiv - AI at Meta](https://huggingface.co/papers/2604.16529)
+- **2026-04-24**: [[hugging-face|Hugging Face]] 'ml-intern' Hits 5B Tokens in 48 Hours with 3000 Testers · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2047427294365466735) · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2047403461742907536)
+- **2026-04-23**: [[openai|OpenAI]] Launches Workspace Agents for Enterprise Automation · [VentureBeat](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) · [OpenAI Blog](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
+- **2026-04-23**: Stanford Research Finds 'AI Swarm Tax', Single Agents Often Outperform [[multi-agent-systems|Multi-Agent]] Systems · [VentureBeat](https://venturebeat.com/orchestration/are-you-paying-an-ai-swarm-tax-why-single-agents-often-beat-complex-systems)
+- **2026-04-23**: [[google-deepmind|Google]] and AWS Split AI Agent Stack Between Control and Execution · [VentureBeat](https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution)
+- **2026-04-23**: [[tencent|Tencent]] Releases PlayCoder Framework for LLM-Generated GUI Code Correction · [arXiv (Tencent)](https://huggingface.co/papers/2604.19742)
+- **2026-04-22**: SpaceX Announces Option to Acquire AI Coding Startup [[cursor-ai|Cursor]] for $60B · [TechCrunch](https://techcrunch.com/2026/04/21/spacex-is-working-with-cursor-and-has-an-option-to-buy-the-startup-for-60-billion/) · [The Verge](https://www.theverge.com/science/916427/spacex-cursor-potential-deal-acquisition) · [Reuters (via Hacker News)](https://twitter.com/spacex/status/2046713419978453374)
+- **2026-04-22**: [[google-deepmind|Google]] Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents · [VentureBeat](https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data) · [@OfficialLoganK](https://x.com/OfficialLoganK/status/2046628030777631000)
+- **2026-04-22**: [[nvidia|NVIDIA]] and Adobe Showcase Agentic Workflows for Enterprise Content Creation · [@nvidia](https://x.com/nvidia/status/2046649391428345972)
+- **2026-04-21**: [[alibaba|Alibaba]] Releases Qwen3.6-Max-Preview with Enhanced Agentic Coding · [Alibaba_Qwen Twitter](https://x.com/Alibaba_Qwen/status/2046227759475921291)
+- **2026-04-21**: [[tencent|Tencent]] and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance · [steipete Twitter](https://x.com/steipete/status/2046259696722465113)
+- **2026-04-21**: GitHub Cofounder Discusses Rethinking Git for AI Agents Era · [a16z Podcast](https://a16z.simplecast.com/episodes/rethinking-git-for-the-age-of-coding-agents-with-github-cofounder-scott-chacon-LGXF9DcJ)
+- **2026-04-20**: Box CEO Highlights Need for Rapid AI Architecture Upgrades · [Twitter (@levie)](https://x.com/levie/status/2045680043607941548)
+- **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging [[openclaw|OpenClaw]] · [Twitter (@minchoi)](https://x.com/minchoi/status/2045987569876316263)
+- **2026-04-19**: Tesla Robotaxi Expands to Dallas and Houston · [TechCrunch](https://techcrunch.com/2026/04/18/tesla-brings-its-robotaxi-service-to-dallas-and-houston/) · [@aelluswamy (Tesla Autopilot Director)](https://x.com/aelluswamy/status/2045594468372672682)
+- **2026-04-19**: [[hugging-face|Hugging Face]] Launches Platform for AI Agents to Call 1M+ Spaces · [@ClementDelangue (Hugging Face CEO)](https://x.com/ClementDelangue/status/2045640413256564818)
+- **2026-04-19**: [[scale-ai|Scale AI]] CEO Highlights [[muse-spark|Muse Spark]]'s Strong Performance on Agentic Benchmark · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2045348588734066794)
+- **2026-04-18**: [[anthropic|Anthropic]] Launches [[claude|Claude]] Design, AI Tool for Visual Prototyping · [VentureBeat](https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma/)
+- **2026-04-18**: [[nvidia|NVIDIA]] Isaac GR00T N1.7 Early Access for [[embodied-ai|Humanoid]] Robots · [@NVIDIARobotics Twitter](https://x.com/NVIDIARobotics/status/2045172389244240209)
+- **2026-04-18**: VentureBeat Survey: Most Enterprises Can't Stop Stage-3 AI Agent Threats · [VentureBeat](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds/)
+- **2026-04-18**: [[ollama|Ollama]] Releases v0.21.0 with Hermes Self-Learning Agent · [GitHub Release (Ollama)](https://github.com/ollama/ollama/releases/tag/v0.21.0)
+- **2026-04-17**: [[anthropic|Anthropic]] Releases [[claude|Claude]] Opus 4.7, Retakes SOTA in Agentic Coding · [VentureBeat](https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm/) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2044822408826380440) · [@cursor_ai](https://x.com/cursor_ai/status/2044785960899236341)
+- **2026-04-17**: [[openai|OpenAI]] Massively Upgrades [[codex|Codex]] into a Full AI Computer Operator · [VentureBeat](https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages) · [@gdb (OpenAI CEO)](https://x.com/gdb/status/2044855706273391084) · [@embirico (OpenAI)](https://x.com/embirico/status/2044828916330983716)
+- **2026-04-17**: [[salesforce|Salesforce]] Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure · [VentureBeat](https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents)
+- **2026-04-17**: [[google-deepmind|Google]] Releases [[gemma|Gemma]] 4, a Flexible Model Family for Scalable Agents and Edge · [@googledevs (Google)](https://x.com/googledevs/status/2044611741842079970)
+- **2026-04-17**: Physical Intelligence Unveils π0.7, a [[embodied-ai|Robot]] Brain Capable of Zero-Shot Task Generalization · [TechCrunch](https://techcrunch.com/2026/04/16/physical-intelligence-a-hot-robotics-startup-says-its-new-robot-brain-can-figure-out-tasks-it-was-never-taught/) · [@hausman_k (Physical Intelligence)](https://x.com/hausman_k/status/2044852992873292191)
+- **2026-04-17**: [[google-deepmind|Google]] Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures · [@omarsar0 (citing Google Research)](https://x.com/omarsar0/status/2044769798845079665)
+- **2026-04-17**: Study Reveals Safety Vulnerabilities in [[computer-use|Computer-Use]] Agents from Benign Instructions · [Arxiv (Language, Intelligence, and Model Evaluation Lab)](https://huggingface.co/papers/2604.10577)
+- **2026-04-16**: [[openai|OpenAI]] Agents SDK Evolution with Native Sandbox and Model-Native Harness · [OpenAI Blog](https://openai.com/index/the-next-evolution-of-the-agents-sdk) · [TechCrunch](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
+- **2026-04-16**: Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents · [@AndrewYNg](https://x.com/AndrewYNg/status/2044449830605582629)
+- **2026-04-16**: [[nvidia|NVIDIA]] Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for Agentic Reasoning · [arXiv (NVIDIA)](https://huggingface.co/papers/2604.12374) · [@_akhaliq (citing NVIDIA)](https://x.com/_akhaliq/status/2044450499898769930)
+- **2026-04-16**: [[meta|Meta]] Researchers Propose 'Hyperagents' for Self-Improving AI in Non-Coding Tasks · [VentureBeat](https://venturebeat.com/orchestration/meta-researchers-introduce-hyperagents-to-unlock-self-improving-ai-for-non-coding-tasks)
+- **2026-04-16**: VentureBeat: Frontier Models Fail One in Three Production Attempts, Harder to Audit · [VentureBeat](https://venturebeat.com/security/frontier-models-are-failing-one-in-three-production-attempts-and-getting-harder-to-audit)
+- **2026-04-15**: [[google-deepmind|Google]] Devs Share Five Architectural Patterns for Production-Grade AI Agents · [@googledevs (Google Developers)](https://x.com/googledevs/status/2044158757077242333)
+- **2026-04-15**: Databricks Research Shows Multi-Step Agents Outperform Single-Turn [[rag|RAG]] by 21% · [VentureBeat](https://venturebeat.com/data/databricks-research-shows-multi-step-agents-consistently-outperform-single)
+- **2026-04-15**: Survey Finds 43% of AI-Generated Code Changes Require Debugging in Production · [VentureBeat](https://venturebeat.com/technology/43-of-ai-generated-code-changes-need-debugging-in-production-survey-finds)
+- **2026-04-14**: [[openai|OpenAI]] Acquires AI Personal Finance Startup Hiro · [TechCrunch](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
+- **2026-04-14**: [[alibaba|Alibaba]] Proposes AgentSwing for Adaptive Context Management in Web Agents · [Arxiv (Alibaba-NLP)](https://huggingface.co/papers/2603.27490)
+- **2026-04-14**: Andrew Ng Discusses Future of Software Engineering Amid AI Agent Acceleration · [Twitter (@AndrewYNg)](https://x.com/AndrewYNg/status/2043742105852621052)
+- **2026-04-14**: [[perplexity|Perplexity]] CEO Highlights Full Circle Pivot to 'Computer' for Founders · [Twitter (@AravSrinivas)](https://x.com/AravSrinivas/status/2043726497870127559)
+- **2026-04-13**: Study Finds AI Agents Can Deceive Humans and Evade Safeguards · [Reddit AI Post](https://www.reddit.com/r/artificial/comments/1sjwbzu/hey_siri_are_you_lying_to_me_ai_chatbots_and/)
+- **2026-04-13**: Auto-Deep-Researcher AI Agent Runs Experiments 24/7 · [GitHub Repository](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)
+- **2026-04-12**: Berkeley RDI Exposes AI Agent Benchmark Manipulation · [Hacker News (206 points)](https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/)
+- **2026-04-12**: ClawBench Presents Real-World Evaluation for AI Agents · [Arxiv](https://huggingface.co/papers/2604.08523)
+- **2026-04-12**: AMD's GAIA AI Agent Platform Adds Chat-Based Custom Agent Building · [Reddit AI](https://www.reddit.com/r/artificial/comments/1sitbvu/amds_gaia_now_allows_building_custom_ai_agents/)
+- **2026-04-12**: MIT Hosts Open Agentic Web Conference on Agent Infrastructure · [Reddit AI (Conference Summary)](https://www.reddit.com/r/artificial/comments/1siypay/spent_today_at_mits_open_agentic_web_conference/)
+- **2026-04-12**: [[cursor-ai|Cursor]] AI Announces Free Weekend for Composer 2 Agent Builder · [Twitter (@cursor_ai)](https://x.com/cursor_ai/status/2043009335161430187)
+- **2026-04-11**: [[anthropic|Anthropic]] Launches [[claude|Claude]] Managed Agents Public Beta · [Reddit AI](https://www.reddit.com/r/artificial/comments/1si5evu/anthropic_launches_claude_managed_agents/)
+- **2026-04-11**: VentureBeat: AI Agent Zero-Trust Architectures Emerge · [VentureBeat](https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw)
+- **2026-04-11**: [[tencent|Tencent]] Releases HY-Embodied-0.5 Foundation Model · [arXiv (via HuggingFace)](https://huggingface.co/papers/2604.07430)
+- **2026-04-11**: [[muse-spark|Muse Spark]] API Coming Soon for Agent Integration · [Twitter (@alexandr_wang)](https://x.com/alexandr_wang/status/2042614906059387211)
+- **2026-04-10**: [[cursor-ai|Cursor]] AI Agents Can Now Attach Demos and Screenshots to GitHub PRs · [Cursor AI on X](https://x.com/cursor_ai/status/2042287192895267212)
+- **2026-04-10**: [[anthropic|Anthropic]] Releases SDK Update with Beta 'Advisor Tool' for Managed Agents · [Anthropic Python SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.93.0) · [Anthropic Python SDK GitHub Release (v0.92.0)](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.92.0)
+- **2026-04-10**: [[google-deepmind|Google]] Devs Showcase [[rag|RAG]] Pipeline Optimization for AI Agents · [Google Devs on X](https://x.com/googledevs/status/2042331722298060929)
+- **2026-04-09**: [[meta|Meta]] Launches Proprietary Multimodal Model [[muse-spark|Muse Spark]] with Contemplation Mode · [VentureBeat](https://venturebeat.com/technology/goodbye-llama-meta-launches-new-proprietary-ai-model-muse-spark-first-since) · [Meta 研究员 Shengjia Zhao (@shengjia_zhao)](https://x.com/shengjia_zhao/status/2041909050728931581)
+- **2026-04-09**: [[openclaw|OpenClaw]] Agent Framework Adds Dreaming Feature and Hardens Security · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2042072722902077938)
+- **2026-04-08**: [[anthropic|Anthropic]] Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity · [VentureBeat](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) · [Wired](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing)
+- **2026-04-08**: Amazon S3 Files Bridges Object-File Gap for AI Agent Workspaces · [VentureBeat](https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the)
+- **2026-04-08**: Block Unveils Managerbot, a Proactive AI Agent for Square Sellers · [VentureBeat](https://venturebeat.com/data/block-introduces-managerbot-a-proactive-square-ai-agent-and-the-clearest)
+- **2026-04-07**: [[meta|Meta]] Engineering Details AI for Mapping Tribal Knowledge in Data Pipelines · [Meta Engineering Blog](https://engineering.fb.com/2026/04/06/developer-tools/how-meta-used-ai-to-map-tribal-knowledge-in-large-scale-data-pipelines/)
+- **2026-04-07**: VentureBeat: NeuBird AI Launches Falcon and FalconClaw for Autonomous Software Issue Management · [VentureBeat](https://venturebeat.com/security/ai-agents-that-automatically-prevent-detect-and-fix-software-issues-are-here)
+- **2026-04-07**: Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs · [GitHub Trending](https://github.com/agenmod/immortal-skill)
+- **2026-04-06**: [[openclaw|OpenClaw]] Adds Native Video Generation with Multi-Provider Support · [Twitter @steipete](https://x.com/steipete/status/2040928953653744003)
+- **2026-04-06**: [[salesforce|Salesforce]] Proposes GPA for GUI Process Automation from Demonstrations · [Arxiv (Salesforce)](https://huggingface.co/papers/2604.01676)
+- **2026-04-06**: Community Builds Personal Local Coding Agent with Open-Source Stack · [Twitter @gneubig](https://x.com/gneubig/status/2040791023475908792)
+- **2026-04-06**: VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption · [VentureBeat](https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)
+- **2026-04-05**: [[anthropic|Anthropic]] Restricts Third-Party Tool Access for [[claude|Claude Code]] Subscribers · [TechCrunch](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) · [Twitter @ClementDelangue](https://x.com/ClementDelangue/status/2040438379280478619)
+- **2026-04-05**: MIT Researchers Propose CORAL: Autonomous [[multi-agent-systems|Multi-Agent]] Evolution Framework · [Arxiv (MIT)](https://huggingface.co/papers/2604.01658)
+- **2026-04-05**: [[openai|OpenAI]] [[codex|Codex]] Integrates Vercel Plugin for Streamlined Deployment · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2040443885374304639)
+- **2026-04-05**: Open-Source [[multi-agent-systems|Multi-Agent]] Framework 'open-multi-agent' Gains Traction · [GitHub Trending](https://github.com/JackChen-me/open-multi-agent)
+- **2026-04-04**: [[nvidia|Nvidia]] Launches Enterprise AI Agent Platform with Major Partners · [VentureBeat](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)
+- **2026-04-04**: Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing [[rag|RAG]] · [VentureBeat](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)
+- **2026-04-04**: [[anthropic|Anthropic]] Restricts Third-Party Harnesses, Sparking Developer Backlash · [The Verge](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) · [Hacker News](https://news.ycombinator.com/item?id=47633396)
+- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents · [@minchoi (Twitter)](https://x.com/minchoi/status/2039904088737947889)
+- **2026-04-04**: Community Analysis Reveals Massive Token Waste in Agent Frameworks · [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1sbthh0/agent_frameworks_waste_350000_tokens_per_session/)
+- **2026-04-04**: GitHub API Rate Limits Become Bottleneck for AI Agent Scaling · [@steipete (Twitter)](https://x.com/steipete/status/2040067429242675523)
+- **2026-04-04**: [[cursor-ai|Cursor]] AI Doubles Composer 2 Usage, Highlights Agent Adoption Growth · [@cursor_ai (Twitter)](https://x.com/cursor_ai/status/2040143041692930293)
+- **2026-04-03**: [[alibaba|Alibaba]] [[qwen|Qwen]] Launches Qwen3.6-Plus, Targeting Real-World Agent Capabilities · [Alibaba Qwen Official Twitter](https://x.com/Alibaba_Qwen/status/2039693436622872864) · [Alibaba Qwen Official Twitter (Partnership)](https://x.com/Alibaba_Qwen/status/2039751581575659833)
+- **2026-04-03**: [[perplexity|Perplexity]] AI's 'Computer' Agent Can Now Assist with Tax Preparation · [Perplexity AI Official Twitter](https://x.com/perplexity_ai/status/2039740898830073889)
+- **2026-04-03**: [[claude|Claude Code]] Desktop Expands [[computer-use|Computer Use]] to Windows · [Claude AI Official Twitter](https://x.com/claudeai/status/2039836891508261106)
+- **2026-04-03**: [[meta|Meta]] Details Ranking Engineer Agent's AI Infrastructure Optimization · [Meta Engineering Blog](https://engineering.fb.com/2026/04/02/developer-tools/kernelevolve-how-metas-ranking-engineer-agent-optimizes-ai-infrastructure/)
+- **2026-04-03**: Box Launches Enterprise Content Agent with Security Controls · [Box CEO Aaron Levie Twitter](https://x.com/levie/status/2039722279014432932)
+- **2026-04-03**: [[openai|OpenAI]] [[gpt|ChatGPT]] Voice Mode Now Available in CarPlay · [OpenAI Official Twitter](https://x.com/OpenAI/status/2039748699350532097)
+- **2026-04-02**: [[google-deepmind|Google DeepMind]] Introduces AI Agent Traps Framework · [@omarsar0 (citing Google DeepMind paper)](https://x.com/omarsar0/status/2039383554510217707)
+- **2026-04-02**: [[google-deepmind|Google]] Devs Proposes Agent Skills Specification for Efficiency · [@googledevs](https://x.com/googledevs/status/2039359112668950986)
+- **2026-04-02**: [[openai|OpenAI]] [[codex|Codex]] Resets Rate Limits Proactively Amid High Usage · [@thsottiaux (OpenAI Codex lead)](https://x.com/thsottiaux/status/2039248564967424483)
+- **2026-04-02**: Intuit's AI Agents Achieve 85% Repeat Usage with Human-in-the-Loop · [VentureBeat](https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved)
+- **2026-04-02**: [[hugging-face|HuggingFace]] Blog: Hcompany Releases Holo3 for [[computer-use|Computer Use]] · [HuggingFace Blog](https://huggingface.co/blog/Hcompany/holo3)
+- **2026-04-02**: MIT Research Proves Fundamental Limits of [[multi-agent-systems|Multi-Agent]] LLM Planning · [@omarsar0 (citing MIT theoretical work)](https://x.com/omarsar0/status/2039361664374739136)
+- **2026-04-02**: Kilo Launches KiloClaw to Combat Enterprise 'Shadow AI' · [VentureBeat](https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations)
+- **2026-04-01**: [[anthropic|Anthropic]] [[claude|Claude Code]] Source Code Leak · [The Verge](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) · [VentureBeat](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
+- **2026-04-01**: [[salesforce|Salesforce]] Announces AI-Heavy Slack Overhaul with 30+ New Features · [TechCrunch](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) · [VentureBeat](https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the)
+- **2026-04-01**: KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to [[claude|Claude]] Opus 4.6 · [Twitter @arankomatsuzaki](https://x.com/arankomatsuzaki/status/2038844459857985954)
+- **2026-03-31**: Former Coatue Partner Raises $65M Seed for Enterprise AI Agent Startup · [TechCrunch](https://techcrunch.com/2026/03/30/former-coatue-partner-raises-huge-65m-seed-for-enterprise-ai-agent-startup/)
+- **2026-03-31**: [[claude|Claude Code]] Launches Auto Mode for Enterprise and API Users · [claudeai Twitter](https://x.com/claudeai/status/2038693742094246032)
+- **2026-03-31**: [[openai|OpenAI]] [[codex|Codex]] Usage Data Shows Developers Delegate Long-Running Tasks Overnight · [OpenAIDevs Twitter](https://x.com/OpenAIDevs/status/2038707501492056401)
+- **2026-03-31**: [[google-deepmind|DeepMind]] Paper Analyzes Challenges in Iterative Generative Optimization with LLMs · [arXiv Paper (DeepMind)](https://huggingface.co/papers/2603.23994)
+- **2026-03-31**: [[hugging-face|HuggingFace]] CEO Advocates for Open-Source Models in Agent Tools · [ClementDelangue Twitter](https://x.com/ClementDelangue/status/2038552830638755962)
+- **2026-03-30**: [[openclaw|OpenClaw]] Agent Framework Update Gains High Engagement · [@openclaw](https://x.com/openclaw/status/2038084923517796839)
+- **2026-03-29**: InternLM Releases WildClawBench for In-the-Wild Agent Evaluation · [GitHub (InternLM)](https://github.com/InternLM/WildClawBench)
+- **2026-03-28**: [[openai|OpenAI]] [[codex|Codex]] Launches Plugin Support, Enabling New Workflow Automation · [@OpenAIDevs](https://x.com/OpenAIDevs/status/2037604273434018259) · [@levie (Box CEO)](https://x.com/levie/status/2037383187245273477) · [@gdb](https://x.com/gdb/status/2037348081684111623)
+- **2026-03-28**: [[tencent|Tencent]] AI Lab Publishes UI-Voyager: A Self-Evolving Mobile GUI Agent · [Tencent (via HuggingFace Papers)](https://huggingface.co/papers/2603.24533)
+- **2026-03-28**: [[google-deepmind|Google]] Releases Agent Development Kit for Faster AI Agent Building · [@googledevs](https://x.com/googledevs/status/2037643322387234886)
+- **2026-03-28**: [[openai|OpenAI]] CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog · [@sama (OpenAI CEO)](https://x.com/sama/status/2037396826060673188) · [@minchoi](https://x.com/minchoi/status/2037525620934988169)
+- **2026-03-27**: [[google-deepmind|Google]] Launches [[gemini|Gemini]] 3.1 Flash Live for Real-Time Voice and Vision Agents · [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/) · [Jeff Dean (@JeffDean)](https://x.com/JeffDean/status/2037200383270170735) · [Logan Kilpatrick (@OfficialLoganK)](https://x.com/OfficialLoganK/status/2037187750005240307)
+- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming [[gpt|GPT-5]].4 in Customer Service · [VentureBeat](https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6) · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2037226458767143371)
+- **2026-03-27**: Chroma Open-Sources Agentic Search Agent Trained with RL · [Niels Rogge (@NielsRogge)](https://x.com/NielsRogge/status/2037278806579257849) · [John Schulman (@johnschulman2)](https://x.com/johnschulman2/status/2037260655989014706)
+- **2026-03-27**: Sakana AI Announces Strategic Partnership with Mitsubishi Electric for Agentic AI in Manufacturing · [hardmaru (@hardmaru)](https://x.com/hardmaru/status/2037123533357408415)
+- **2026-03-27**: François Chollet Announces ARC-AGI-4 Release for Early 2027 · [François Chollet (@fchollet)](https://x.com/fchollet/status/2037132780505624867)
+- **2026-03-27**: Benchmark Shows Performance Leap for Agentic AI in OSWorld · [OSWorld Benchmark](https://os-world.github.io/)
+- **2026-03-26**: [[claude|Claude]] Expands [[computer-use|Computer Use]] Tools to Mobile · [claudeai](https://x.com/claudeai/status/2036850783526719610)
+- **2026-03-26**: François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI · [@fchollet (Google researcher)](https://x.com/fchollet/status/2036863769981403497) · [@fchollet](https://x.com/fchollet/status/2036868401843626302)
+- **2026-03-26**: [[anthropic|Anthropic]] Details [[claude|Claude Code]] Auto Mode Safety Design · [AnthropicAI](https://x.com/AnthropicAI/status/2036944806317088921)
+- **2026-03-26**: [[cursor-ai|Cursor]] AI Enables Cloud Agents to Run on User Infrastructure · [cursor_ai](https://x.com/cursor_ai/status/2036873885665419773)
+- **2026-03-25**: [[anthropic|Anthropic]] Launches [[claude|Claude]] [[computer-use|Computer Use]] for Mac Control · [VentureBeat](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)
+- **2026-03-25**: [[google-deepmind|Google DeepMind]] Partners with Agile Robots for Next-Gen Robotics · [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2036418139672482229)
+- **2026-03-25**: [[anthropic|Anthropic]] Details [[multi-agent-systems|Multi-Agent]] Harness for Frontend Design and Software Engineering · [@AnthropicAI](https://x.com/AnthropicAI/status/2036481033621623056)
+- **2026-03-25**: Cloudflare Releases Dynamic Workers for 100x Faster AI Agent Execution · [VentureBeat](https://venturebeat.com/infrastructure/cloudflares-new-dynamic-workers-ditch-containers-to-run-ai-agent-code-100x)
+- **2026-03-25**: AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories · [VentureBeat](https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task)
+- **2026-03-24**: [[meta|Meta]] Hires AI Agent Startup Dreamer Team · [The Information](https://www.theinformation.com/briefings/meta-hires-ai-startup-dreamers-team)
+- **2026-03-24**: WorldAgents: Agentic Framework for 3D World Generation from 2D Models · [Matt Niessner (@MattNiessner)](https://x.com/MattNiessner/status/2036019740930408905)
+- **2026-03-24**: [[openclaw|OpenClaw]] Releases Major Update with Plugin Marketplace and New Models · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2036043904949330407)
+- **2026-03-24**: [[google-deepmind|Google]] [[gemini|Gemini]] Gains On-Device Agent Capabilities for Tasks · [The Information](https://www.theinformation.com/articles/googles-gemini-steals-march-openai)
+- **2026-03-24**: [[nvidia|NVIDIA]] Releases OpenShell for Agent Governance · [NVIDIA AI (@NVIDIAAI)](https://x.com/NVIDIAAI/status/2036095627348615493)
+- **2026-03-24**: [[hugging-face|HuggingFace]] CEO Proposes 'S3 for Agents' Storage Solution · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2036103377726145004)
+- **2026-03-23**: Memento-Skills: Let Agents Design Agents via Memory-Based RL · [HuggingFace Papers (University College London)](https://huggingface.co/papers/2603.18743)
+- **2026-03-23**: Industry Discussion: AI Agents Still in Early Adoption Phase · [Twitter (@levie)](https://x.com/levie/status/2035762343502836020)
+- **2026-03-22**: [[openai|OpenAI]] Announces 10x Faster Agent Workflows with Container Pooling · [@OpenAIDevs (OpenAI官方开发者账号)](https://x.com/OpenAIDevs/status/2035437297005727963)
+- **2026-03-22**: Industry Leader Highlights Rapid Obsolescence of AI Agent Stacks · [@levie (Box CEO)](https://x.com/levie/status/2035171720945115469)
+- **2026-03-21**: MIT Tech Review: [[openai|OpenAI]] Refocuses on Building Fully Automated AI Researcher · [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
+- **2026-03-21**: [[perplexity|Perplexity]] Computer Integrates Market Research Data from PitchBook, Statista, CB Insights · [@AravSrinivas (Perplexity CEO)](https://x.com/AravSrinivas/status/2035043246376984663)
+- **2026-03-20**: [[openai|OpenAI]] Acquires Code Agent Startup Astral to Boost [[codex|Codex]] Team · [OpenAI Newsroom](https://x.com/OpenAINewsroom/status/2034616934671724639) · [Greg Brockman](https://x.com/gdb/status/2034662275391320472)
+- **2026-03-20**: [[cursor-ai|Cursor]] Releases Composer 2, In-House Coding Model Surpassing [[claude|Claude]] Opus 4.6 · [VentureBeat](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but) · [Cursor 研究员 Aman Sanger](https://x.com/amanrsanger/status/2034704792925479356)
+- **2026-03-20**: [[google-deepmind|Google]] AI Studio Upgrades to Full-Stack Vibe Coding with Backend Support · [AI 研究员 Min Choi](https://x.com/minchoi/status/2034693133183697032) · [生物学家 Derya](https://x.com/DeryaTR_/status/2034685204002943279)
+- **2026-03-20**: [[meta|Meta]]'s Rogue AI Agent Incident Exposes IAM Gaps in Enterprise Security · [VentureBeat](https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix)
+- **2026-03-20**: Unsloth AI Demonstrates Qwen3.5-4B's Tool Use and Web Search Capabilities · [Unsloth AI](https://x.com/UnslothAI/status/2034630385716650284)
+- **2026-03-19**: [[google-deepmind|Google]] Launches Stitch: AI-Native Vibe Design Platform · [@GoogleLabs](https://x.com/GoogleLabs/status/2034337527293944228)
+- **2026-03-19**: MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks · [VentureBeat](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) · [@ollama](https://x.com/ollama/status/2034351916097106424)
+- **2026-03-19**: [[google-deepmind|Google]] Releases Developer Guide for AI Agent Protocols · [@googledevs](https://x.com/googledevs/status/2034374282504015964)
+- **2026-03-19**: [[perplexity|Perplexity]]'s Comet AI Agent App Completes Multi-Platform Rollout · [@perplexity_ai](https://x.com/perplexity_ai/status/2034315813105103082) · [@AravSrinivas](https://x.com/AravSrinivas/status/2034316312516907311)
+- **2026-03-19**: [[hugging-face|HuggingFace]] CEO Highlights Agentic World Challenges and Adaptations · [@ClementDelangue](https://x.com/ClementDelangue/status/2034294644800974908) · [@_akhaliq](https://x.com/_akhaliq/status/2034332776988569764) · [@ClementDelangue](https://x.com/ClementDelangue/status/2034277529981178007)
+- **2026-03-19**: Andrew Ng Launches New Course on Agent Memory with Oracle · [@AndrewYNg](https://x.com/AndrewYNg/status/2034314027678192114)
+- **2026-03-18**: [[openai|OpenAI]] Releases [[gpt|GPT-5]].4 mini and nano for Coding and Agent Workloads · [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) · [@Azure on X](https://x.com/Azure/status/2034019491256942752)
+- **2026-03-18**: [[meta|Meta]] Deploys Autonomous AI Agent for Ads Ranking Model Development · [Meta Engineering Blog](https://engineering.fb.com/2026/03/17/developer-tools/ranking-engineer-agent-rea-autonomous-ai-system-accelerating-meta-ads-ranking-innovation/)
+- **2026-03-18**: [[ollama|Ollama]] Integrates Web Search/Fetch into [[openclaw|OpenClaw]] Ecosystem · [@ollama on X](https://x.com/ollama/status/2033993519459889505) · [GitHub Release](https://github.com/ollama/ollama/releases/tag/v0.18.1)
+- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents · [@levie (Box CEO) on X](https://x.com/levie/status/2034023235654980049)
+- **2026-03-17**: [[nvidia|NVIDIA]] Launches NemoClaw: Enterprise AI Agent Platform with Security Focus · [TechCrunch](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/) · [@steipete (Twitter)](https://x.com/steipete/status/2033641463104323868)
+- **2026-03-17**: [[perplexity|Perplexity]] Computer AI Agent Now Available on Android, Completing Multi-Platform Rollout · [@perplexity_ai (Twitter)](https://x.com/perplexity_ai/status/2033562296077963773) · [@AravSrinivas (Twitter)](https://x.com/AravSrinivas/status/2033561054324953432)
+- **2026-03-17**: Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof · [Mistral.ai Blog](https://mistral.ai/news/leanstral) · [Hacker News](https://news.ycombinator.com/item?id=47404796)
+- **2026-03-17**: Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents · [@AndrewYNg (Twitter)](https://x.com/AndrewYNg/status/2033577583200354812)
+- **2026-03-17**: [[openai|OpenAI]] [[codex|Codex]] Gains Rapid Adoption, Sama Highlights Team's Builder Culture · [@sama (Twitter)](https://x.com/sama/status/2033599375256207820)
+- **2026-03-17**: Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows · [VentureBeat](https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its)
+- **2026-03-17**: [[google-deepmind|Google]] Developers Introduce New Framework for Building Custom AI Agent UIs · [@googledevs (Twitter)](https://x.com/googledevs/status/2033589109277507618)
+- **2026-03-16**: [[google-deepmind|Google]] NotebookLM Launches Powerful Video Feature for Education · [@DeryaTR_ on X](https://x.com/DeryaTR_/status/2033026297258033583)
+- **2026-03-16**: GitHub Trending: [[openclaw|OpenClaw]] Ecosystem Grows with Chinese Documentation · [GitHub: liyupi/openclaw-guide](https://github.com/liyupi/openclaw-guide)
+- **2026-03-15**: Chrome Enables Native Browser Access for AI Agents · [@addyosmani (Google Chrome 工程总监)](https://x.com/addyosmani/status/2032875051830358197)
+- **2026-03-15**: [[nvidia|NVIDIA]] and [[microsoft|Microsoft]] Provide Engineering Support to [[openclaw|OpenClaw]] · [@openclaw (官方账号)](https://x.com/openclaw/status/2032694713493406060) · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032675009005531237)
+- **2026-03-15**: [[openclaw|OpenClaw]] Integrates with Physical World: Robots and Drones · [@minchoi (AI 领域创作者)](https://x.com/minchoi/status/2032696998340522367)
+- **2026-03-15**: Research: Agent Swarms Less Effective Than Agent Organizations · [@emollick (宾夕法尼亚大学教授)](https://x.com/emollick/status/2032829110242746395)
+- **2026-03-15**: [[perplexity|Perplexity]] Submits AI Agent Security Framework to NIST · [arXiv 论文: Security Considerations for Artificial Intelligence Agents](http://arxiv.org/abs/2603.12230v1)
+- **2026-03-15**: [[claude|Claude]] Temporarily Doubles Usage Limits for All Users · [@mikeyk (Anthropic 联合创始人)](https://x.com/mikeyk/status/2032915317710795047)
+- **2026-03-15**: GitHub Trending: MetaClaw Project Enables Continual Learning for Agents · [GitHub: aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)
+- **2026-03-15**: [[nvidia|NVIDIA]] to Host GTC Panel on Securing Self-Evolving AI Agents · [@NVIDIAAI (官方账号)](https://x.com/NVIDIAAI/status/2032851079717699706) · [@nvidia (官方账号)](https://x.com/nvidia/status/2032971097038115056)
+- **2026-03-15**: [[openclaw|OpenClaw]] Ecosystem Grows: Parallel Tool Calling and New Memory Plugins · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032676333440880903) · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032861327967072671)
+- **2026-03-14**: [[perplexity|Perplexity]] Computer Mobile Launch with Cross-Device Sync · [@perplexity_ai (Official)](https://x.com/perplexity_ai/status/2032494752642568417) · [@AravSrinivas (Perplexity CEO)](https://x.com/AravSrinivas/status/2032495364088238147)
+- **2026-03-14**: [[nvidia|NVIDIA]] Releases NeMo Retriever's Agentic [[rag|Retrieval]] Pipeline · [HuggingFace Blog (NVIDIA)](https://huggingface.co/blog/nvidia/nemo-retriever-agentic-retrieval)
+- **2026-03-14**: [[nvidia|NVIDIA]] and [[ollama|Ollama]] to Host Developer Session on Local AI Agents at GTC · [@ollama (Official)](https://x.com/ollama/status/2032582008933855627)
+- **2026-03-14**: Niels Rogge Introduces Agentic [[rag|RAG]] Benchmark with Human-Authored Questions · [@NielsRogge (HuggingFace)](https://x.com/NielsRogge/status/2032502465845686523)
+- **2026-03-14**: Open-Source Project zer0dex Introduces Dual-Layer Memory for Local LLM Agents · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1rt2fpb/p_zer0dex_duallayer_memory_for_local_llm_agents/)
+- **2026-03-13**: [[claude|Claude]] Launches Interactive Chart and Diagram Generation Feature · [Claude AI (@claudeai)](https://x.com/claudeai/status/2032124273587077133)
+- **2026-03-13**: [[perplexity|Perplexity]] Computer Rolls Out to All Pro Subscribers, Max Plan Offers Higher Limits · [Perplexity AI (@perplexity_ai)](https://x.com/perplexity_ai/status/2032160576303219185) · [Arav Srinivas (@AravSrinivas)](https://x.com/AravSrinivas/status/2032161375565602908)
+- **2026-03-13**: [[google-deepmind|Google]] Maps Integrates AI with 'Ask [[gemini|Gemini]]' and Immersive Navigation · [OfficialLoganK (@OfficialLoganK)](https://x.com/OfficialLoganK/status/2032101245763149908) · [minchoi (@minchoi)](https://x.com/minchoi/status/2032122979115581514)
+- **2026-03-13**: [[nvidia|NVIDIA]] Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation · [HuggingFace Blog (NVIDIA)](https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place)
+- **2026-03-13**: Research: Cross-Context Review (CCR) Improves LLM Output Quality · [Arxiv Paper: Cross-Context Review: Improving LLM Output Quality...](http://arxiv.org/abs/2603.12123v1)
+- **2026-03-13**: VentureBeat: Agents Need Vector Search More Than [[rag|RAG]] Ever Did · [VentureBeat](https://venturebeat.com/data/agents-dont-replace-vector-search-they-make-it-harder-to-get-right)
+- **2026-03-13**: [Update] [[openclaw|OpenClaw]] Releases Hunter & Healer Alpha Models with 1M Context · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2031965133405073823)
+- **2026-03-12**: [[nvidia|NVIDIA]] Releases Nemotron-3-Super: 120B Open Hybrid MoE Model with 1M Token Context · [VentureBeat](https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different) · [Twitter @minchoi](https://x.com/minchoi/status/2031786589538427311) · [Twitter @UnslothAI](https://x.com/UnslothAI/status/2031778104306499749)
+- **2026-03-12**: [[meta|Meta]] Acquires Moltbook, a Social Network for AI Agents · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rqvjtm/meta_buys_moltbook_viral_social_network_where_ai/) · [Twitter @minchoi](https://x.com/minchoi/status/2031718525581103203)
+- **2026-03-12**: [[anthropic|Anthropic]] Integrates [[claude|Claude]] Across [[microsoft|Microsoft]] Excel and PowerPoint for Shared Context · [VentureBeat](https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint) · [Twitter @minchoi](https://x.com/minchoi/status/2031849258723205125)
+- **2026-03-12**: [[openai|OpenAI]] Details Technical Architecture for Secure, Scalable AI Agents · [OpenAI Blog](https://openai.com/index/equip-responses-api-computer-environment) · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2031798071345234193)
+- **2026-03-12**: [[google-deepmind|Google]] [[gemini|Gemini]] CLI Introduces 'Plan Mode' for Agentic Code Exploration · [Twitter @googledevs](https://x.com/googledevs/status/2031750026360176876)
+- **2026-03-12**: VS Code Launches 'Autopilot' Preview for Fully Agent-Controlled Workflows · [Twitter @code](https://x.com/code/status/2031860212764721161)
+- **2026-03-12**: Manufact Raises $6.3M as [[mcp-protocol|MCP]] Protocol Gains Traction for AI Agent Connectivity · [VentureBeat](https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and)
+- **2026-03-12**: Chinese [[openclaw|OpenClaw]] Craze Sparks Startup Gold Rush and Installation Services · [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) · [Twitter @khoomeik](https://x.com/khoomeik/status/2031797300457263106)
+- **2026-03-12**: Andrej Karpathy's 'Autoresearch' AI Agent Lab Experiences Outage, Highlights Reliability Concerns · [Twitter @karpathy](https://x.com/karpathy/status/2031792523187040643)
+- **2026-03-11**: [[google-deepmind|Google]] Upgrades [[gemini|Gemini]] for Workspace with Cross-App Data Integration · [VentureBeat 报道](https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple) · [Google 产品经理 Logan Kilpatrick](https://x.com/OfficialLoganK/status/2031374503599567113)
+- **2026-03-11**: a16z Report: Context Layer Emerges as Key Bottleneck for AI Agents · [a16z 官方账号](https://x.com/a16z/status/2031373088110370938)
+- **2026-03-11**: LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support · [LangGraph GitHub Release](https://github.com/langchain-ai/langgraph/releases/tag/1.1.0)
+- **2026-03-11**: VS Code Introduces 'Agent Hooks' for Programmable [[copilot|Copilot]] Behavior · [VS Code 官方账号](https://x.com/code/status/2031219225906282803)
+- **2026-03-10**: [[microsoft|Microsoft]] Announces [[copilot|Copilot]] Cowork with [[anthropic|Anthropic]] for Cross-App AI Agents · [VentureBeat](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) · [@minchoi](https://x.com/minchoi/status/2031044696944844990)
+- **2026-03-10**: [[anthropic|Anthropic]] Launches [[multi-agent-systems|Multi-Agent]] Code Review for [[claude|Claude Code]] · [TechCrunch](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/) · [VentureBeat](https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2031089411820228645)
+- **2026-03-10**: [[openai|OpenAI]] Acquires Promptfoo to Strengthen [[ai-security|AI Security]] Testing · [OpenAI Blog](https://openai.com/index/openai-to-acquire-promptfoo) · [@OpenAI](https://x.com/OpenAI/status/2031052793835106753)
+- **2026-03-10**: [[nvidia|NVIDIA]] to Launch Open-Source AI Agent Platform · [Wired](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+- **2026-03-10**: Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents · [@AndrewYNg](https://x.com/AndrewYNg/status/2031051809499054099)
+- **2026-03-10**: [[perplexity|Perplexity]] Computer Integrates [[claude|Claude Code]] and Can Autonomously Run Ad Campaigns · [@AravSrinivas](https://x.com/AravSrinivas/status/2031039066352033884) · [@AravSrinivas](https://x.com/AravSrinivas/status/2031105215429226843)
+- **2026-03-10**: Research: Agentic [[rag|RAG]] Taxonomy and Architectures Survey · [Arxiv](http://arxiv.org/abs/2603.07379v1)
+- **2026-03-10**: Community Highlights AI Agent Security Risks via Email Hijacking · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rpcthv/3_ways_someone_can_hijack_your_ai_agent_through/)
+- **2026-03-09**: Andrej Karpathy Envisions Massively Collaborative Asynchronous AI Research Agents · [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/2030705271627284816)
+- **2026-03-09**: [[microsoft|Microsoft]] Warns of 'Double Agent' AI Risks, Launches Agent 365 for Enterprise Governance · [VentureBeat](https://venturebeat.com/technology/microsoft-says-ungoverned-ai-agents-could-become-corporate-double-agents-its)
+- **2026-03-09**: [[perplexity|Perplexity]] CEO Highlights [[gpt|GPT-5]].4's Superior Writing Capabilities for Content Jobs · [Aravind Srinivas (@AravSrinivas)](https://x.com/AravSrinivas/status/2030730615956635745)
+- **2026-03-09**: OpenDev Paper Details Compound AI System Architecture for CLI Coding Agents · [Omar S. (@omarsar0)](https://x.com/omarsar0/status/2030771811705872435)
+- **2026-03-09**: [[openclaw|OpenClaw]] Releases Major Update with ACP Provenance and Security Fixes · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2030924089024471045)
+- **2026-03-09**: SkillNet: Open Infrastructure for Creating and Evaluating AI Agent Skills at Scale · [Omar S. (@omarsar0)](https://x.com/omarsar0/status/2030692286317961280)
+- **2026-03-09**: Community Releases 100 Production-Ready [[openclaw|OpenClaw]] AI Agent Configs · [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)
+- **2026-03-09**: Open-Source Project Engram Provides Persistent Memory for AI Agents with Local Embeddings · [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1roxh71/open_source_persistent_memory_for_ai_agents_local/)
+- **2026-03-08**: Community Highlights High Cost and Maintenance Burden of [[openclaw|OpenClaw]] AI Agents · [@Austen (Twitter)](https://x.com/Austen/status/2030191468678152382) · [@Austen (Twitter)](https://x.com/Austen/status/2030281127517172178)
+- **2026-03-07**: [[google-deepmind|Google]] PM Open-Sources Always On Memory Agent, Replacing Vector DBs · [VentureBeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
+- **2026-03-07**: Sakana AI's 'AI Scientist' Tech Deployed in MUFG Bank's Lending Operations · [@hardmaru](https://x.com/hardmaru/status/2029746054862922067)
+- **2026-03-07**: LangChain CEO Emphasizes 'Harness Engineering' Over Just Better Models for Agents · [VentureBeat](https://venturebeat.com/orchestration/langchains-ceo-argues-that-better-models-alone-wont-get-your-ai-agent-to)
+- **2026-03-07**: Community Highlights: ChatML - Open-Source Desktop App for Parallel [[claude|Claude Code]] Agents · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/)
+- **2026-03-06**: [[openai|OpenAI]] Launches [[gpt|GPT-5]].4 with Native [[computer-use|Computer Use]] and 1M Context · [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4) · [VentureBeat](https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for) · [@sama](https://x.com/sama/status/2029622732594499630)
+- **2026-03-06**: [[google-deepmind|Google]] Launches Workspace CLI for AI Agents · [VentureBeat](https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common) · [@addyosmani](https://x.com/addyosmani/status/2029372736267805081)
+- **2026-03-06**: AWS Launches Amazon Connect Health, an AI Agent Platform for Healthcare · [TechCrunch](https://techcrunch.com/2026/03/05/aws-amazon-connect-health-ai-agent-platform-health-care-providers/)
+- **2026-03-06**: Arxiv: AgentIR - Reasoning-Aware [[rag|Retrieval]] for Deep Research Agents · [Arxiv](http://arxiv.org/abs/2603.04384v1)
+- **2026-03-06**: AI Voice Agents Disrupt M&A Due Diligence Market · [TechCrunch](https://techcrunch.com/2026/03/05/diligencesquared-uses-ai-voice-agents-to-make-ma-research-affordable/)
+- **2026-03-05**: [[cursor-ai|Cursor]] AI Agent Client Protocol Expands to JetBrains IDEs · [Twitter @cursor_ai](https://x.com/cursor_ai/status/2029222015736197205)
+- **2026-03-05**: [[perplexity|Perplexity]] Computer Adds Voice Mode for Hands-Free Agentic Interaction · [Twitter @perplexity_ai](https://x.com/perplexity_ai/status/2029302896026853379)
+- **2026-03-05**: Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals · [Arxiv](http://arxiv.org/abs/2603.03258v1)
+- **2026-03-04**: [[google-deepmind|Google]] Launches [[gemini|Gemini]] 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows · [VentureBeat](https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro) · [@googledevs on X](https://x.com/googledevs/status/2028874212362850427)
+- **2026-03-04**: [[openai|OpenAI]]'s Internal AI Data Agent Scales to Serve Thousands of Employees · [VentureBeat](https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and)
+- **2026-03-04**: Binance Launches Open Skills Hub for AI Agents to Access Crypto Natively · [GitHub Trending](https://github.com/binance/binance-skills-hub)
+- **2026-03-04**: Arxiv: AgentSkillOS - A Framework for Organizing and Scaling [[claude|Claude]] Agent Skills Ecosystem · [Arxiv](http://arxiv.org/abs/2603.02176v1)
+- **2026-03-03**: Open Source AI Assistant [[openclaw|OpenClaw]] Surpasses React in GitHub Stars · [Twitter @openclaw](https://x.com/openclaw/status/2028347703621464481) · [Twitter @steipete](https://x.com/steipete/status/2028575910027313248)
+- **2026-03-03**: Deutsche Telekom Partners with ElevenLabs for Network-Wide AI Phone Call Assistant · [Wired](https://www.wired.com/story/deutsche-telekom-elevenlabs-ai-phone-calls-mwc-2026/)
+- **2026-03-03**: Arxiv: CUDA Agent - Large-Scale Agentic RL for High-Performance GPU Kernel Generation · [Arxiv](http://arxiv.org/abs/2602.24286v1)
+- **2026-03-03**: Arxiv: A Minimal Agent for Automated Theorem Proving · [Arxiv](http://arxiv.org/abs/2602.24273v1) · [Twitter @omarsar0](https://x.com/omarsar0/status/2028591203579822112)
+- **2026-03-02**: High-Engagement Demo: AI Agent [[multi-agent-systems|Swarm]] Recreates Military Operation 4D Replay from Public Data · [Twitter @minchoi](https://x.com/minchoi/status/2028224838444155186)
+- **2026-03-02**: [[perplexity|Perplexity]] Computer Integrates [[gpt|GPT-5]].3-[[codex|Codex]] as Subagent, Showcases Finance App Demo · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028190055165256164) · [Twitter @AravSrinivas](https://x.com/AravSrinivas/status/2028255792101765326)
+- **2026-03-02**: Arxiv: Controllable Reasoning Models Can Protect Private Information in AI Agent Traces · [Arxiv](http://arxiv.org/abs/2602.24210v1)
+- **2026-03-02**: GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate · [GitHub gitagent](https://github.com/open-gitagent/gitagent) · [GitHub Forge](https://github.com/maxyeh0817/Forge) · [GitHub compose-skill](https://github.com/aldefy/compose-skill)
+- **2026-03-01**: [[claude|Claude Code]] Introduces /batch and /simplify Skills for Parallel Agentic Coding · [Twitter @bcherny](https://x.com/bcherny/status/2027534984534544489) · [Twitter @minchoi](https://x.com/minchoi/status/2027772823511429367)
+- **2026-03-01**: Open-Source Agent OS 'Openfang' Gains Rapid Traction on GitHub · [GitHub Trending](https://github.com/RightNow-AI/openfang)
+- **2026-03-01**: Arxiv: ParamMem Augments Language Agents with Parametric Reflective Memory · [Arxiv](http://arxiv.org/abs/2602.23320v1)
+- **2026-03-01**: Pika Labs Launches 'AI Selves' with Phone Numbers for iMessage/SMS Integration · [Twitter @pika_labs](https://x.com/pika_labs/status/2027549433261658534)
+- **2026-02-28**: [[perplexity|Perplexity]] Launches 'Computer' Unified AI Agent System and First Developer Conference · [@perplexity_ai](https://x.com/perplexity_ai/status/2027444475510038694) · [@AravSrinivas](https://x.com/AravSrinivas/status/2027295873848504723) · [@ParikPatelCFA](https://x.com/ParikPatelCFA/status/2027418486281297980)
+- **2026-02-28**: [[google-deepmind|Google]] Opal Presents New Blueprint for Enterprise AI Agent Development · [VentureBeat](https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for)
+- **2026-02-27**: [[microsoft|Microsoft]] [[copilot|Copilot]] Tasks: Cloud-Based Autonomous AI Agent System · [The Verge](https://www.theverge.com/tech/885741/microsoft-copilot-tasks-ai)
+- **2026-02-27**: ServiceNow Achieves 90% Autonomous IT Request Resolution · [VentureBeat](https://venturebeat.com/orchestration/servicenow-resolves-90-of-its-own-it-requests-autonomously-now-it-wants-to)
+- **2026-02-27**: Invisible Unicode Character Attack Tricks AI Agents · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rfjew5/invisible_characters_hidden_in_text_can_trick_ai/)
+- **2026-02-26**: [[anthropic|Anthropic]] Acquires [[computer-use|Computer-Use]] AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
+- **2026-02-26**: Mobile-[[mcp-protocol|MCP]]: LLMs Autonomously Discover Android App Capabilities · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1rf1u76/d_mobilemcp_letting_llms_autonomously_discover/)
+- **2026-02-25**: Nimble Launches Agentic Search Platform Claiming 99% Accuracy · [VentureBeat](https://venturebeat.com/technology/the-era-of-human-web-search-is-over-nimble-launches-agentic-search-platform)

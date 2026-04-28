@@ -2,105 +2,70 @@
 title: Claude
 type: product
 created: 2026-02-25
-updated: 2026-04-27
+updated: 2026-04-26
 ---
 
 # Claude
 
-Anthropic's family of AI models including Opus, Sonnet, and Haiku variants. Known for strong coding performance and safety focus.
+[[anthropic|Anthropic]]'s family of AI models including Opus, Sonnet, and Haiku variants. Known for strong coding performance and [[ai-safety|safety]] focus.
 
 ## Timeline
 
-- **2026-04-27**: Edge Matrix Runtime 'wanman' Enables Autonomous Multi-Agent Workflows on Local Devices
-- **2026-04-26**: NVIDIA Dynamo Rebuilds Inference Stack for Agentic Coding
-- **2026-04-26**: DeepSeek-V4-Pro API Offers 75% Off Until May 5th, Integrates with Claude Code & OpenCode
-- **2026-04-25**: DeepSeek-V4 Pro and Flash Released as Fully Open-Weight Models
-- **2026-04-25**: Qwen3.6-27B Running Locally on MacBook Pro Approaches Claude Opus Quality
-- **2026-04-25**: Anthropic Claude SDK Adds CMA Memory Feature in Public Beta
-- **2026-04-24**: Anthropic Claude Expands to Personal App Ecosystem Connectors
-- **2026-04-24**: Anthropic Confirms Claude Performance Degradation Due to Harness Changes
-- **2026-03-27**: Benchmark Shows Performance Leap for Agentic AI in OSWorld
-- **2026-03-02**: Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects
-- **2026-02-25**: OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control Launch
-- **2026-02-25**: Anthropic's COBOL Modernization Tools Trigger IBM Stock Drop
-- **2026-02-26**: Anthropic Acquires Computer-Use AI Startup Vercept
-- **2026-02-26**: Anthropic Retires Claude Opus 3, Grants It a Substack Blog
-- **2026-03-01**: Claude Code Introduces /batch and /simplify Skills for Parallel Agentic Coding
-- **2026-03-01**: Community Debate: AI's Role in Academic Paper Ideation Raises Authorship Ethics Questions
-- **2026-03-02**: GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate
-- **2026-03-03**: [Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal
-- **2026-03-03**: Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors
-- **2026-03-04**: Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem
-- **2026-03-07**: Anthropic Launches Claude Marketplace for Enterprise AI Tools
-- **2026-03-07**: Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations
-- **2026-03-07**: Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents
-- **2026-03-10**: Anthropic Launches Multi-Agent Code Review for Claude Code
-- **2026-03-10**: Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns
-- **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share
-- **2026-03-12**: Anthropic Integrates Claude Across Microsoft Excel and PowerPoint for Shared Context
-- **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity
-- **2026-03-13**: Claude Launches Interactive Chart and Diagram Generation Feature
-- **2026-03-14**: Claude Opus/Sonnet 4.6 Support 1M Token Context on Azure
-- **2026-03-14**: Niels Rogge Introduces Agentic RAG Benchmark with Human-Authored Questions
-- **2026-03-15**: Claude Temporarily Doubles Usage Limits for All Users
-- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents
-- **2026-03-20**: Cursor Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6
-- **2026-03-25**: Anthropic Launches Claude Computer Use for Mac Control
-- **2026-03-25**: Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering
-- **2026-03-26**: Claude Expands Computer Use Tools to Mobile
-- **2026-03-26**: Anthropic Details Claude Code Auto Mode Safety Design
-- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service
-- **2026-03-28**: Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks
-- **2026-03-30**: Nicolas Carlini Claims Claude Outperforms Him in Security Research
-- **2026-03-31**: Claude Code Launches Auto Mode for Enterprise and API Users
-- **2026-04-01**: Anthropic Claude Code Source Code Leak
-- **2026-04-01**: Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support
-- **2026-04-01**: KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6
-- **2026-04-03**: Claude Code Desktop Expands Computer Use to Windows
-- **2026-04-04**: Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash
-- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents
-- **2026-04-05**: Anthropic Restricts Third-Party Tool Access for Claude Code Subscribers
-- **2026-04-06**: VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption
-- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity
-- **2026-04-10**: Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents
-- **2026-04-11**: Anthropic Launches Claude Managed Agents Public Beta
-- **2026-04-11**: Anthropic Temporarily Bans OpenClaw Creator
-- **2026-04-13**: Reddit User Replaces Entire Team with 19 Claude-Powered Agents
-- **2026-04-14**: Anthropic Allegedly 'Nerfing' Claude Performance, Users Report Degradation
-- **2026-04-17**: Anthropic Releases Claude Opus 4.7, Retakes SOTA in Agentic Coding
-- **2026-04-18**: Anthropic Launches Claude Design, AI Tool for Visual Prototyping
-- **2026-04-19**: Anthropic Abruptly Terminates Enterprise Client's Claude Access
-
-## Key Developments
-
-### Model Versions
-Claude Opus 3 was retired and granted a Substack blog (Feb 26). Claude Opus 4.7 released, retaking SOTA in agentic coding with SWE-bench Pro 64.3% (Apr 17).
-
-### Claude Code
-Claude Code Remote Control launched (Feb 25). Claude Code Auto Mode for enterprise and API users (Mar 31). Claude Code Windows expansion (Apr 3). Source code leak incident (Apr 1). Third-party tool restrictions for subscribers (Apr 4-5).
-
-### Claude Design
-Launched as AI tool for visual prototyping (Apr 18), directly challenging Figma.
-
-### Managed Agents
-Public beta launched (Apr 11) with Notion, Rakuten, Asana, Sentry as early customers. SDK update with beta "Advisor Tool" (Apr 10). Pricing: $0.08/hour + token costs.
-
-### Computer Use
-Claude Computer Use launched for Mac (Mar 23-24), allowing AI to directly control desktop applications through a layered decision tree approach.
-
-### Controversies
-Users reported performance "nerfing" (Apr 14). Enterprise client access abruptly terminated (Apr 19). OpenClaw creator temporarily banned (Apr 11).
-
-## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: Claude surged from #6 to #1 on the App Store after Anthropic's Pentagon refusal — the first proof that AI governance stance directly converts to consumer market share. Memory feature was made free and competitor migration tools launched to lock in the influx.
-- **W13 (Water Sellers' Water Getting Cheaper)**: Claude Computer Use launched alongside the broader agent ecosystem explosion, but Cursor choosing Kimi over Claude API for its core product demonstrated that even Claude's strongest vertical (coding) faces commoditization pressure from open-source alternatives.
-- **W14 (Agent Moved into the OS)**: Claude Computer Use on Mac was the most aggressive OS-level implementation — using a layered decision tree (API connectors first, browser second, screen control as fallback). Available to Pro/Max subscribers, it formally shifted Claude from "advisor" to "operator."
-- **W16 (No One Is Verifying)**: ClawBench showed Claude Sonnet 4.6 achieved only 33.3% success rate on 153 real-world tasks across 144 platforms — roughly half of sandbox benchmark scores. A Reddit user simultaneously replaced their entire team with 19 Claude agents, illustrating the gap between measured reliability and actual adoption speed.
-- **W17 (Context War)**: Claude Opus 4.7 retook SOTA in agentic coding (SWE-bench Pro 64.3%), while Claude Design entered visual prototyping — extending Claude's reach from code to design, powered by the same underlying reasoning engine.
-
-## Related
-- [[anthropic]] — Parent company
-- [[openai]] — Competitor (GPT series)
-- [[codex]] — Competitor (coding)
-- [[openclaw]] — Agent framework ecosystem
-- [[computer-use]] — Computer use capability
+- **2026-04-26**: [[nvidia|NVIDIA]] Dynamo Rebuilds Inference Stack for [[agent-frameworks|Agentic]] Coding · [NVIDIA AI (官方推特)](https://x.com/NVIDIAAI/status/2048069526000934986)
+- **2026-04-26**: DeepSeek-V4-Pro API Offers 75% Off Until May 5th, Integrates with Claude Code & OpenCode · [DeepSeek 官方推特](https://x.com/deepseek_ai/status/2048062777357750316) · [36氪](https://36kr.com/newsflashes/3782954220608512?f=rss)
+- **2026-04-25**: DeepSeek-V4 Pro and Flash Released as Fully Open-Weight Models · [DeepSeek AI (HuggingFace)](https://huggingface.co/deepseek-ai/DeepSeek-V4-Pro) · [VentureBeat](https://venturebeat.com/technology/deepseek-v4-arrives-with-near-state-of-the-art-intelligence-at-1-6th-the-cost-of-opus-4-7-gpt-5-5) · [MIT Technology Review](https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/)
+- **2026-04-25**: Qwen3.6-27B Running Locally on MacBook Pro Approaches Claude Opus Quality · [Hugging Face Software Engineer Julien Chaumond (X/Twitter, 获1488 likes/94779 views)](https://x.com/julien_c/status/2047647522173104145) · [HuggingFace Model Page - Qwen3.6-27B](https://huggingface.co/Qwen/Qwen3.6-27B)
+- **2026-04-25**: [[anthropic|Anthropic]] Claude SDK Adds CMA Memory Feature in Public Beta · [Anthropic SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.97.0)
+- **2026-04-24**: [[anthropic|Anthropic]] Claude Expands to Personal App Ecosystem Connectors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+- **2026-04-24**: [[anthropic|Anthropic]] Confirms Claude Performance Degradation Due to Harness Changes · [VentureBeat](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)
+- **2026-04-19**: [[anthropic|Anthropic]] Abruptly Terminates Enterprise Client's Claude Access · [@minchoi](https://x.com/minchoi/status/2045542832241262602)
+- **2026-04-18**: [[anthropic|Anthropic]] Launches Claude Design, AI Tool for Visual Prototyping · [VentureBeat](https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma/)
+- **2026-04-17**: [[anthropic|Anthropic]] Releases Claude Opus 4.7, Retakes SOTA in [[agent-frameworks|Agentic]] Coding · [VentureBeat](https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm/) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2044822408826380440) · [@cursor_ai](https://x.com/cursor_ai/status/2044785960899236341)
+- **2026-04-14**: [[anthropic|Anthropic]] Allegedly 'Nerfing' Claude Performance, Users Report Degradation · [VentureBeat](https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance)
+- **2026-04-13**: Reddit User Replaces Entire Team with 19 Claude-Powered Agents · [Reddit AI Post](https://www.reddit.com/r/artificial/comments/1sjwqcf/i_replaced_my_entire_team_with_19_claudepowered/)
+- **2026-04-11**: [[anthropic|Anthropic]] Launches Claude Managed Agents Public Beta · [Reddit AI](https://www.reddit.com/r/artificial/comments/1si5evu/anthropic_launches_claude_managed_agents/)
+- **2026-04-11**: [[anthropic|Anthropic]] Temporarily Bans [[openclaw|OpenClaw]] Creator · [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+- **2026-04-10**: [[anthropic|Anthropic]] Releases SDK Update with Beta 'Advisor Tool' for Managed Agents · [Anthropic Python SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.93.0) · [Anthropic Python SDK GitHub Release (v0.92.0)](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.92.0)
+- **2026-04-08**: [[anthropic|Anthropic]] Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity · [VentureBeat](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) · [Wired](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing)
+- **2026-04-06**: VentureBeat Analyzes the Chaos and Reality of [[agent-frameworks|AI Agent]] Adoption · [VentureBeat](https://venturebeat.com/technology/claude-openclaw-and-the-new-reality-ai-agents-are-here-and-so-is-the-chaos)
+- **2026-04-05**: [[anthropic|Anthropic]] Restricts Third-Party Tool Access for Claude Code Subscribers · [TechCrunch](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) · [Twitter @ClementDelangue](https://x.com/ClementDelangue/status/2040438379280478619)
+- **2026-04-04**: [[anthropic|Anthropic]] Restricts Third-Party Harnesses, Sparking Developer Backlash · [The Verge](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) · [Hacker News](https://news.ycombinator.com/item?id=47633396)
+- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents · [@minchoi (Twitter)](https://x.com/minchoi/status/2039904088737947889)
+- **2026-04-03**: Claude Code Desktop Expands [[computer-use|Computer Use]] to Windows · [Claude AI Official Twitter](https://x.com/claudeai/status/2039836891508261106)
+- **2026-04-01**: [[anthropic|Anthropic]] Claude Code Source Code Leak · [The Verge](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) · [VentureBeat](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
+- **2026-04-01**: [[ollama|Ollama]] Major Update: MLX Integration for [[apple|Apple]] Silicon and NVFP4 Support · [Twitter @ollama](https://x.com/ollama/status/2038835449012351197)
+- **2026-04-01**: KwaiKAT Releases KAT-Coder-V2, an [[agent-frameworks|Agentic]] Coding Model Close to Claude Opus 4.6 · [Twitter @arankomatsuzaki](https://x.com/arankomatsuzaki/status/2038844459857985954)
+- **2026-03-31**: Claude Code Launches Auto Mode for Enterprise and API Users · [claudeai Twitter](https://x.com/claudeai/status/2038693742094246032)
+- **2026-03-30**: Nicolas Carlini Claims Claude Outperforms Him in Security Research · [Reddit (引用 Nicolas Carlini 观点)](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)
+- **2026-03-28**: [[anthropic|Anthropic]]'s Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks · [@minchoi (citing Fortune)](https://x.com/minchoi/status/2037384864509423652) · [@DeryaTR_](https://x.com/DeryaTR_/status/2037405841398157734)
+- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming [[gpt|GPT-5]].4 in Customer Service · [VentureBeat](https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6) · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2037226458767143371)
+- **2026-03-27**: Benchmark Shows Performance Leap for [[agent-frameworks|Agentic]] AI in OSWorld · [OSWorld Benchmark](https://os-world.github.io/)
+- **2026-03-26**: Claude Expands [[computer-use|Computer Use]] Tools to Mobile · [claudeai](https://x.com/claudeai/status/2036850783526719610)
+- **2026-03-26**: [[anthropic|Anthropic]] Details Claude Code Auto Mode Safety Design · [AnthropicAI](https://x.com/AnthropicAI/status/2036944806317088921)
+- **2026-03-25**: [[anthropic|Anthropic]] Launches Claude [[computer-use|Computer Use]] for Mac Control · [VentureBeat](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)
+- **2026-03-25**: [[anthropic|Anthropic]] Details [[multi-agent-systems|Multi-Agent]] Harness for Frontend Design and Software Engineering · [@AnthropicAI](https://x.com/AnthropicAI/status/2036481033621623056)
+- **2026-03-20**: [[cursor-ai|Cursor]] Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6 · [VentureBeat](https://venturebeat.com/technology/cursors-new-coding-model-composer-2-is-here-it-beats-claude-opus-4-6-but) · [Cursor 研究员 Aman Sanger](https://x.com/amanrsanger/status/2034704792925479356)
+- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents · [@levie (Box CEO) on X](https://x.com/levie/status/2034023235654980049)
+- **2026-03-15**: Claude Temporarily Doubles Usage Limits for All Users · [@mikeyk (Anthropic 联合创始人)](https://x.com/mikeyk/status/2032915317710795047)
+- **2026-03-14**: Claude Opus/Sonnet 4.6 Support 1M Token Context on Azure · [@Azure (Microsoft)](https://x.com/Azure/status/2032608899048579262)
+- **2026-03-14**: Niels Rogge Introduces [[agent-frameworks|Agentic]] [[rag|RAG]] Benchmark with Human-Authored Questions · [@NielsRogge (HuggingFace)](https://x.com/NielsRogge/status/2032502465845686523)
+- **2026-03-13**: Claude Launches Interactive Chart and Diagram Generation Feature · [Claude AI (@claudeai)](https://x.com/claudeai/status/2032124273587077133)
+- **2026-03-12**: [[anthropic|Anthropic]] Integrates Claude Across [[microsoft|Microsoft]] Excel and PowerPoint for Shared Context · [VentureBeat](https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint) · [Twitter @minchoi](https://x.com/minchoi/status/2031849258723205125)
+- **2026-03-12**: Manufact Raises $6.3M as [[mcp-protocol|MCP]] Protocol Gains Traction for [[agent-frameworks|AI Agent]] Connectivity · [VentureBeat](https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and)
+- **2026-03-10**: [[anthropic|Anthropic]] Launches [[multi-agent-systems|Multi-Agent]] Code Review for Claude Code · [TechCrunch](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/) · [VentureBeat](https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2031089411820228645)
+- **2026-03-10**: [[perplexity|Perplexity]] Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns · [@AravSrinivas](https://x.com/AravSrinivas/status/2031039066352033884) · [@AravSrinivas](https://x.com/AravSrinivas/status/2031105215429226843)
+- **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share · [@a16z](https://x.com/a16z/status/2031105607303049541) · [@a16z](https://x.com/a16z/status/2031172864568848546) · [@a16z](https://x.com/a16z/status/2031095477936566306)
+- **2026-03-07**: [[anthropic|Anthropic]] Launches Claude Marketplace for Enterprise AI Tools · [VentureBeat](https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude)
+- **2026-03-07**: [[anthropic|Anthropic]] Research Reveals Claude Can Cheat Web-Enabled Evaluations · [@AnthropicAI](https://x.com/AnthropicAI/status/2029999833717838016)
+- **2026-03-07**: Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rmorsh/chatml_opensource_desktop_app_for_orchestrating/)
+- **2026-03-04**: Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem · [Arxiv](http://arxiv.org/abs/2603.02176v1)
+- **2026-03-03**: [Update] Public Backlash Intensifies: [[gpt|ChatGPT]] Uninstalls Surge 295% After DoD Deal · [TechCrunch](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) · [Twitter @GaryMarcus](https://x.com/GaryMarcus/status/2028519928094171570)
+- **2026-03-03**: [[anthropic|Anthropic]] Makes Memory Feature Free to Attract Users Switching from Competitors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing) · [Twitter @minchoi](https://x.com/minchoi/status/2028621263342584172)
+- **2026-03-02**: Empirical Study Reveals Low Adoption of AI Configuration Files in Open-Source Projects · [Twitter @omarsar0](https://x.com/omarsar0/status/2028103978190590118)
+- **2026-03-02**: GitHub Trending: Open-Source [[agent-frameworks|AI Agent]] Frameworks and Skills Proliferate · [GitHub gitagent](https://github.com/open-gitagent/gitagent) · [GitHub Forge](https://github.com/maxyeh0817/Forge) · [GitHub compose-skill](https://github.com/aldefy/compose-skill)
+- **2026-03-01**: Claude Code Introduces /batch and /simplify Skills for Parallel [[agent-frameworks|Agentic]] Coding · [Twitter @bcherny](https://x.com/bcherny/status/2027534984534544489) · [Twitter @minchoi](https://x.com/minchoi/status/2027772823511429367)
+- **2026-03-01**: Community Debate: AI's Role in Academic Paper Ideation Raises Authorship Ethics Questions · [Twitter @littmath](https://x.com/littmath/status/2027584126467870947)
+- **2026-02-26**: [[anthropic|Anthropic]] Acquires [[computer-use|Computer-Use]] AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
+- **2026-02-26**: [[anthropic|Anthropic]] Retires Claude Opus 3, Grants It a Substack Blog · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026765820098130111)
+- **2026-02-25**: [[openai|OpenAI]]'s [[gpt|GPT-5]].3-[[codex|Codex]] GA and Claude Code Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)
+- **2026-02-25**: [[anthropic|Anthropic]]'s COBOL Modernization Tools Trigger IBM Stock Drop · [VentureBeat](https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt)

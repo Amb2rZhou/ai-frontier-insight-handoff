@@ -2,150 +2,102 @@
 title: OpenAI
 type: company
 created: 2026-02-25
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
 # OpenAI
 
-The leading commercial AI lab, maker of GPT models, ChatGPT, Codex, and Sora. Dominant in consumer AI and increasingly in enterprise agent platforms.
+The leading commercial AI lab, maker of [[gpt|GPT]] models, ChatGPT, [[codex|Codex]], and [[sora|Sora]]. Dominant in consumer AI and increasingly in [[enterprise-agents|enterprise agent]] platforms.
 
 ## Timeline
 
-- **2026-04-27**: OpenAI Releases Privacy Filter Model for Token Classification
-- **2026-04-27**: Codex Traffic Surge Prompts OpenAI to Scale Compute, CEO Signals Strong Demand
-- **2026-04-27**: OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety
-- **2026-04-27**: OpenAI Publishes 'Our Principles' Blog: Democratization, Empowerment, Universal Prosperity
-- **2026-04-27**: OpenAI Benchmarks ChatGPT for Clinical Use: New Dataset on HuggingFace
-- **2026-04-26**: OpenAI Codex Achieves 82.0% on Terminal-Bench 2.0, Becomes New #1
-- **2026-04-26**: GPT-5.5 Image 2.0 Demonstrates Breakthrough in Complex Image Generation and Infographics
-- **2026-04-25**: GPT-5.5 Launches Across OpenAI API, GitHub Copilot, and Perplexity
-- **2026-04-25**: OpenAI's GPT-5.5 Pro Proves New Ramsey Number Result in Combinatorics
-- **2026-04-25**: OpenAI Introduces Auto-Review Agent for Codex Reducing Human Approvals
-- **2026-04-24**: Anthropic Confirms Claude Performance Degradation Due to Harness Changes
-- **2026-02-25**: OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control Launch
-- **2026-02-27**: OpenAI Expands London Research Hub to Compete with DeepMind
-- **2026-02-28**: OpenAI Raises $110B from Amazon, Nvidia, SoftBank; ChatGPT Hits 900M Weekly Users
-- **2026-03-01**: OpenAI Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection
-- **2026-03-02**: [Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability
-- **2026-03-02**: Perplexity Computer Integrates GPT-5.3-Codex as Subagent, Showcases Finance App Demo
-- **2026-03-03**: Alibaba Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices
-- **2026-03-03**: [Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal
-- **2026-03-03**: Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors
-- **2026-03-04**: OpenAI Confirms GPT-5.4 Development, Hints at 2M Context and Persistent State
-- **2026-03-04**: OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees
-- **2026-03-05**: Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments
-- **2026-03-05**: [Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal
-- **2026-03-05**: Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power
-- **2026-03-05**: OpenAI Codex for Windows Officially Released
-- **2026-03-06**: OpenAI Launches GPT-5.4 with Native Computer Use and 1M Context
-- **2026-03-06**: OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard
-- **2026-03-07**: OpenAI Releases Codex Security in Research Preview
-- **2026-03-08**: GPT-5.4 Gains Widespread Praise for Coding and 'Smart Friend' Personality
-- **2026-03-08**: OpenAI Robotics Head Resigns in Protest Over Pentagon Deal
-- **2026-03-08**: OpenAI Delays ChatGPT 'Adult Mode' Again Amid Content Safety Concerns
-- **2026-03-08**: OpenAI Codex App Gains Traction, Multi-Window Workaround Emerges
-- **2026-03-09**: Andrej Karpathy Envisions Massively Collaborative Asynchronous AI Research Agents
-- **2026-03-09**: Perplexity CEO Highlights GPT-5.4's Superior Writing Capabilities for Content Jobs
-- **2026-03-10**: OpenAI Acquires Promptfoo to Strengthen AI Security Testing
-- **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share
-- **2026-03-11**: OpenAI Introduces Instruction Hierarchy Challenge for Frontier LLMs
-- **2026-03-11**: OpenAI Launches Interactive Visual Explanations for Math & Science in ChatGPT
-- **2026-03-12**: OpenAI Details Technical Architecture for Secure, Scalable AI Agents
-- **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity
-- **2026-03-12**: Andrej Karpathy's 'Autoresearch' AI Agent Lab Experiences Outage, Highlights Reliability Concerns
-- **2026-03-13**: OpenAI Sora 2 Video API Launches with New Capabilities
-- **2026-03-14**: OpenAI Updates GPT-5.4 Image Encoder for Improved Understanding
-- **2026-03-16**: OpenAI Codex Team Culture Emphasizes Radical Improvement
-- **2026-03-17**: NVIDIA Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer
-- **2026-03-17**: OpenAI Codex Gains Rapid Adoption, Sama Highlights Team's Builder Culture
-- **2026-03-18**: OpenAI Releases GPT-5.4 mini and nano for Coding and Agent Workloads
-- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents
-- **2026-03-20**: OpenAI Acquires Code Agent Startup Astral to Boost Codex Team
-- **2026-03-20**: Cursor Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6
-- **2026-03-21**: OpenAI Launches Codex for Students with $100 Credits
-- **2026-03-21**: MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher
-- **2026-03-21**: Scale AI Launches First Real-World Voice AI Benchmark
-- **2026-03-22**: OpenAI Announces 10x Faster Agent Workflows with Container Pooling
-- **2026-03-24**: OpenClaw Releases Major Update with Plugin Marketplace and New Models
-- **2026-03-24**: OpenAI Reportedly Offers High Returns to Raise Capital
-- **2026-03-25**: Arm Announces Entry into AI Chip Manufacturing with Major Customers
-- **2026-03-25**: Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience
-- **2026-03-25**: HuggingFace CEO Proposes Open-Sourcing Sora as OpenAI Shuts Down App
-- **2026-03-26**: OpenAI Launches AI Safety Bug Bounty Program
-- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service
-- **2026-03-27**: Chroma Open-Sources Agentic Search Agent Trained with RL
-- **2026-03-28**: OpenAI Codex Launches Plugin Support, Enabling New Workflow Automation
-- **2026-03-28**: OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog
-- **2026-03-29**: Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments
-- **2026-03-30**: OpenAI Codex Launches Security Feature for Vulnerability Detection
-- **2026-03-30**: TechCrunch: Sora's Shutdown Could Signal Reality Check for AI Video
-- **2026-03-31**: OpenAI Codex Usage Data Shows Developers Delegate Long-Running Tasks Overnight
-- **2026-04-01**: OpenAI Completes $122B Funding Round at $852B Valuation
-- **2026-04-02**: OpenAI Codex Resets Rate Limits Proactively Amid High Usage
-- **2026-04-03**: Microsoft Launches Three In-House AI Models (Transcribe, Voice, Image) in Foundry
-- **2026-04-03**: OpenAI Acquires Tech Podcast TBPN to Shape AI Narrative
-- **2026-04-03**: OpenAI Codex Introduces Flexible Pay-As-You-Go Pricing for Teams
-- **2026-04-03**: OpenAI ChatGPT Voice Mode Now Available in CarPlay
-- **2026-04-04**: Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing RAG
-- **2026-04-04**: OpenAI Executive Shuffle: COO Brad Lightcap to Lead 'Special Projects'
-- **2026-04-05**: OpenAI Codex Integrates Vercel Plugin for Streamlined Deployment
-- **2026-04-06**: OpenClaw Adds Native Video Generation with Multi-Provider Support
-- **2026-04-07**: OpenAI Launches Safety Fellowship Program
-- **2026-04-07**: OpenAI Alums Raise $100M Venture Fund 'Zero Shot'
-- **2026-04-09**: OpenAI Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants
-- **2026-04-10**: OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm
-- **2026-04-11**: OpenAI Faces Lawsuit Over Alleged Stalking Incident
-- **2026-04-12**: OpenAI Discloses Security Incident Related to Third-Party Library
-- **2026-04-14**: OpenAI Acquires AI Personal Finance Startup Hiro
-- **2026-04-14**: Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI
-- **2026-04-15**: OpenAI Launches GPT-5.4-Cyber and Expands Trusted Access Program
-- **2026-04-16**: OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness
-- **2026-04-17**: OpenAI Massively Upgrades Codex into a Full AI Computer Operator
-- **2026-04-17**: OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences
-- **2026-04-18**: OpenAI Sora Team Lead Bill Peebles and Exec Kevin Weil Depart
-- **2026-04-19**: AI Chip Startup Cerebras Files for IPO with Major OpenAI Deal
-- **2026-04-19**: Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark
-- **2026-04-20**: OpenAI Codex Becoming 'Universal App' for Developers
-- **2026-04-20**: OpenAI Academy Reaches 3M Learners, Expands Global Events
-- **2026-04-21**: OpenAI's Ad Partner Selling ChatGPT Ads Based on "Prompt Relevance"
-- **2026-04-22**: OpenAI Releases ChatGPT Images 2.0 with Major Multimodal Capabilities
-- **2026-04-23**: OpenAI Launches Workspace Agents for Enterprise Automation
-- **2026-04-23**: OpenAI Releases Open-Source On-Device Privacy Filter Model
-
-## Key Developments
-
-### Funding & Valuation
-OpenAI raised $110B from Amazon, NVIDIA, and SoftBank (Feb 28), later completing a $122B round at $852B valuation (Apr 1). ChatGPT reached 900M weekly users. The company also launched a $100M+ Alzheimer's research grant program.
-
-### Product Launches
-The GPT-5.3-Codex went GA on Feb 25. GPT-5.4 series followed with mini and nano variants optimized for agent workloads (Mar 18). The frontier GPT-Rosalind for life sciences debuted Apr 17. Sora 2 Video API launched Mar 13, and ChatGPT Images 2.0 released Apr 22.
-
-### Codex Evolution
-Codex evolved from a coding tool into a full "AI operator" — gaining plugin support (Mar 28), security scanning (Mar 30), pay-as-you-go pricing (Apr 3), and ultimately desktop app transformation into a computer operator with 90+ plugins (Apr 17). It became positioned as a "universal app" for developers (Apr 20). Workspace Agents for enterprise automation launched Apr 23.
-
-### Acquisitions & Talent
-OpenAI acquired Promptfoo for security testing (Mar 10), Astral for code agents (Mar 20), podcast TBPN (Apr 3), and personal finance startup Hiro (Apr 14). Alums raised a $100M venture fund "Zero Shot" (Apr 7). Key departures included Sora Team Lead Bill Peebles and exec Kevin Weil (Apr 18).
-
-### Safety & Policy
-Launched a Safety Fellowship Program (Apr 7), proposed a child protection policy blueprint (Apr 9), backed an Illinois bill to limit AI liability (Apr 10), and released an open-source on-device privacy filter (Apr 23). Faced a security incident related to a third-party library (Apr 12).
-
-### Government & Legal
-Secured a Pentagon deal after Anthropic's rejection (Mar 1), faced a $10M lawsuit over AI-generated legal advice hallucination (Mar 9), and the Robotics Head resigned over the Pentagon deal (Mar 8).
-
-## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: Secured the Pentagon contract Anthropic lost by using "technical safeguards" instead of contractual restrictions — same safety limits but legally weaker enforcement, which the government preferred because it kept control in their hands. Altman later admitted the deal "looked opportunistic and sloppy" and revised the terms under public pressure.
-- **W11 (Safety Evaluation Credibility Crisis)**: Published CoT-Control evaluation showing low model controllability scores and wrote them into GPT-5.4 Thinking's safety card — but independent research "Reasoning Theater" simultaneously proved CoT can be "performative," undermining the methodology OpenAI used as product safety backing.
-- **W12 (Model Race to Habitat War)**: Acquired Promptfoo for security testing and released the IH-Challenge — signaling a shift toward internalizing safety evaluation as platform infrastructure rather than treating it as a separate research concern.
-- **W13 (Water Sellers' Water Getting Cheaper)**: Launched GPT-5.4 mini/nano at dramatically lower prices to delay customer migration to open-source alternatives. Acquired Astral (uv, Ruff, ty) to extend from "model provider" into "developer platform" — a classic ecosystem lock-in play acknowledging that pure model differentiation is eroding.
-- **W14 (Agent Moved into the OS)**: Codex gained plugin support for enterprise workflows (Box integration), positioning it alongside Claude Computer Use and Gemini Screen Automation in the race to become the first agent embedded in users' operating systems.
-- **W15 (The Math Doesn't Work)**: Codex rate limits had to be proactively reset due to usage surges, and flexible pay-as-you-go enterprise pricing was introduced — tacit admission that the subscription model cannot absorb agent-scale token consumption. The $122B fundraise at $852B valuation must be evaluated against rapidly escalating infrastructure costs.
-- **W16 (No One Is Verifying)**: Disclosed a third-party library security incident in the same week Berkeley proved all major agent benchmarks could be exploited to near-perfect scores — highlighting the gap between deployment speed and verification capability.
-- **W17 (Context War)**: Upgraded Codex into a full computer operator with 90+ plugins and debuted GPT-Rosalind for life sciences (with Amgen, Moderna) and GPT-5.4-Cyber — demonstrating the "parallel vertical expansion" strategy where one reasoning engine enters multiple professional domains simultaneously via domain partnerships.
-
-## Related
-- [[gpt]] — GPT model series
-- [[codex]] — OpenAI Codex product
-- [[sora]] — Sora video generation
-- [[anthropic]] — Primary competitor
-- [[google-deepmind]] — Primary competitor
-- [[cursor-ai]] — Key Codex competitor
+- **2026-04-28**: [[microsoft|Microsoft]] and OpenAI Gut Exclusive Cloud Deal, Freeing OpenAI for Multi-Cloud Strategy · [VentureBeat](https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud) · [TechCrunch](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/) · [Twitter / Sam Altman](https://x.com/sama/status/2048755148361707946)
+- **2026-04-27**: [[codex|Codex]] Traffic Surge Prompts OpenAI to Scale Compute, CEO Signals Strong Demand · [Twitter @thsottiaux](https://x.com/thsottiaux/status/2048448130870313431) · [Twitter @sama](https://x.com/sama/status/2048426122854228141)
+- **2026-04-27**: OpenAI Releases Privacy Filter Model on [[hugging-face|HuggingFace]] for Content Safety · [HuggingFace OpenAI模型](https://huggingface.co/openai/privacy-filter)
+- **2026-04-27**: OpenAI Publishes 'Our Principles' Blog: Democratization, Empowerment, Universal Prosperity · [OpenAI Blog](https://openai.com/index/our-principles) · [Twitter @sama](https://x.com/sama/status/2048552677433643427)
+- **2026-04-27**: OpenAI Benchmarks [[gpt|ChatGPT]] for Clinical Use: New Dataset on [[hugging-face|HuggingFace]] · [Twitter @NielsRogge](https://x.com/NielsRogge/status/2048317414786375932)
+- **2026-04-26**: OpenAI [[codex|Codex]] Achieves 82.0% on Terminal-Bench 2.0, Becomes New #1 · [Terminal-Bench 2.0 官方排行榜](https://www.tbench.ai/leaderboard/terminal-bench/2.0)
+- **2026-04-26**: [[gpt|GPT-5]].5 Image 2.0 Demonstrates Breakthrough in Complex Image Generation and Infographics · [AI 研究员 @minchoi 等](https://x.com/minchoi/status/2047876028777762958)
+- **2026-04-25**: [[gpt|GPT-5]].5 Launches Across OpenAI API, GitHub [[copilot|Copilot]], and [[perplexity|Perplexity]] · [OpenAI (X/Twitter)](https://x.com/OpenAI/status/2047743592278745425) · [Perplexity CEO Arav Srinivas](https://x.com/AravSrinivas/status/2047753276888854594) · [Microsoft Azure (X/Twitter)](https://x.com/Azure/status/2047752463646597261)
+- **2026-04-25**: OpenAI's [[gpt|GPT-5]].5 Pro Proves New Ramsey Number Result in Combinatorics · [Former OpenAI Researcher Sébastien Bubeck (X/Twitter, 获130 likes/9590 views)](https://x.com/SebastienBubeck/status/2047676884004261905)
+- **2026-04-25**: OpenAI Introduces Auto-Review Agent for [[codex|Codex]] Reducing Human Approvals · [OpenAI President Greg Brockman (X/Twitter, 获489 likes/40068 views)](https://x.com/gdb/status/2047489218998628780)
+- **2026-04-24**: [[anthropic|Anthropic]] Confirms [[claude|Claude]] Performance Degradation Due to Harness Changes · [VentureBeat](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)
+- **2026-04-23**: OpenAI Launches Workspace Agents for Enterprise Automation · [VentureBeat](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) · [OpenAI Blog](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
+- **2026-04-23**: OpenAI Releases Open-Source On-Device Privacy Filter Model · [VentureBeat](https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets) · [GitHub (huggingface/transformers)](https://github.com/huggingface/transformers/releases/tag/v5.6.0)
+- **2026-04-22**: OpenAI Releases [[gpt|ChatGPT]] Images 2.0 with Major Multimodal Capabilities · [VentureBeat](https://venturebeat.com/technology/openais-chatgpt-images-2-0-is-here-and-it-does-multilingual-text-full-infographics-slides-maps-even-manga-seemingly-flawlessly) · [Wired](https://www.wired.com/story/openai-beefs-up-chatgpts-image-generation-model/) · [@OpenAI](https://x.com/OpenAI/status/2046665696898412887)
+- **2026-04-21**: OpenAI's Ad Partner Selling [[gpt|ChatGPT]] Ads Based on "Prompt Relevance" · [Hacker News (linking to Adweek)](https://www.adweek.com/media/exclusive-leaked-deck-reveals-stackadapts-playbook-for-chatgpt-ads/)
+- **2026-04-20**: OpenAI [[codex|Codex]] Becoming 'Universal App' for Developers · [Twitter (@gdb)](https://x.com/gdb/status/2045974850074996882) · [Twitter (@thsottiaux)](https://x.com/thsottiaux/status/2045721740748427677)
+- **2026-04-20**: OpenAI Academy Reaches 3M Learners, Expands Global Events · [Twitter (@OpenAINewsroom)](https://x.com/OpenAINewsroom/status/2045934984083415107)
+- **2026-04-19**: AI Chip Startup Cerebras Files for IPO with Major OpenAI Deal · [TechCrunch](https://techcrunch.com/2026/04/18/ai-chip-startup-cerebras-files-for-ipo/)
+- **2026-04-18**: OpenAI [[sora|Sora]] Team Lead Bill Peebles and Exec Kevin Weil Depart · [The Verge](https://www.theverge.com/ai-artificial-intelligence/914463/openai-sora-bill-peebles-kevin-weil-leaving-departing) · [TechCrunch](https://techcrunch.com/2026/04/17/kevin-weil-and-bill-peebles-exit-openai-as-company-continues-to-shed-side-quests/)
+- **2026-04-17**: OpenAI Massively Upgrades [[codex|Codex]] into a Full AI Computer Operator · [VentureBeat](https://venturebeat.com/technology/openai-drastically-updates-codex-desktop-app-to-use-all-other-apps-on-your-computer-generate-images-preview-webpages) · [@gdb (OpenAI CEO)](https://x.com/gdb/status/2044855706273391084) · [@embirico (OpenAI)](https://x.com/embirico/status/2044828916330983716)
+- **2026-04-17**: OpenAI Debuts GPT-Rosalind, a Frontier Model for Life Sciences · [VentureBeat](https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github) · [@gdb (OpenAI CEO)](https://x.com/gdb/status/2044891908213027032)
+- **2026-04-16**: OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness · [OpenAI Blog](https://openai.com/index/the-next-evolution-of-the-agents-sdk) · [TechCrunch](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
+- **2026-04-15**: OpenAI Launches [[gpt|GPT-5]].4-Cyber and Expands Trusted Access Program · [@thsottiaux (OpenAI)](https://x.com/thsottiaux/status/2044165674881490947) · [Wired](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
+- **2026-04-14**: OpenAI Acquires AI Personal Finance Startup Hiro · [TechCrunch](https://techcrunch.com/2026/04/13/openai-has-bought-ai-personal-finance-startup-hiro/)
+- **2026-04-14**: Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI · [Twitter (@miramurati, @soumithchintala)](https://x.com/miramurati/status/2043740848337367488) · [Twitter (@soumithchintala)](https://x.com/soumithchintala/status/2043752413085966574)
+- **2026-04-12**: OpenAI Discloses Security Incident Related to Third-Party Library · [Twitter (@OpenAI)](https://x.com/OpenAI/status/2042780052669239782)
+- **2026-04-11**: OpenAI Faces Lawsuit Over Alleged Stalking Incident · [TechCrunch](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
+- **2026-04-10**: OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm · [Wired](https://www.wired.com/story/openai-backs-bill-exempt-ai-firms-model-harm-lawsuits/)
+- **2026-04-09**: OpenAI Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants · [OpenAI Newsroom (@OpenAINewsroom)](https://x.com/OpenAINewsroom/status/2041851289886425325) · [OpenAI 联合创始人 Wojciech Zaremba (@woj_zaremba)](https://x.com/woj_zaremba/status/2041970232521322877)
+- **2026-04-07**: OpenAI Launches Safety Fellowship Program · [OpenAI Blog](https://openai.com/index/introducing-openai-safety-fellowship) · [OpenAI Twitter](https://x.com/OpenAI/status/2041202511647019251)
+- **2026-04-07**: OpenAI Alums Raise $100M Venture Fund 'Zero Shot' · [TechCrunch](https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/)
+- **2026-04-06**: [[openclaw|OpenClaw]] Adds Native Video Generation with Multi-Provider Support · [Twitter @steipete](https://x.com/steipete/status/2040928953653744003)
+- **2026-04-05**: OpenAI [[codex|Codex]] Integrates Vercel Plugin for Streamlined Deployment · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2040443885374304639)
+- **2026-04-04**: Andrej Karpathy Proposes 'LLM Knowledge Base' Architecture Bypassing [[rag|RAG]] · [VentureBeat](https://venturebeat.com/data/karpathy-shares-llm-knowledge-base-architecture-that-bypasses-rag-with-an)
+- **2026-04-04**: OpenAI Executive Shuffle: COO Brad Lightcap to Lead 'Special Projects' · [TechCrunch](https://techcrunch.com/2026/04/03/openai-executive-shuffle-new-roles-coo-brad-lightcap-fidji-simo-kate-rouch/) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/906965/openais-agi-boss-is-taking-a-leave-of-absence)
+- **2026-04-03**: [[microsoft|Microsoft]] Launches Three In-House AI Models (Transcribe, Voice, Image) in Foundry · [VentureBeat](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google) · [Microsoft Azure Official Twitter](https://x.com/Azure/status/2039720749607293343)
+- **2026-04-03**: OpenAI Acquires Tech Podcast TBPN to Shape AI Narrative · [OpenAI Blog](https://openai.com/index/openai-acquires-tbpn) · [Wired](https://www.wired.com/story/openai-acquires-tbpn-buys-positive-news-coverage/) · [Sam Altman Twitter](https://x.com/sama/status/2039773740586918137)
+- **2026-04-03**: OpenAI [[codex|Codex]] Introduces Flexible Pay-As-You-Go Pricing for Teams · [OpenAI Blog](https://openai.com/index/codex-flexible-pricing-for-teams) · [Greg Brockman Twitter](https://x.com/gdb/status/2039830819498491919)
+- **2026-04-03**: OpenAI [[gpt|ChatGPT]] Voice Mode Now Available in CarPlay · [OpenAI Official Twitter](https://x.com/OpenAI/status/2039748699350532097)
+- **2026-04-02**: OpenAI [[codex|Codex]] Resets Rate Limits Proactively Amid High Usage · [@thsottiaux (OpenAI Codex lead)](https://x.com/thsottiaux/status/2039248564967424483)
+- **2026-04-01**: OpenAI Completes $122B Funding Round at $852B Valuation · [OpenAI Blog](https://openai.com/index/accelerating-the-next-phase-ai) · [TechCrunch](https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/)
+- **2026-03-31**: OpenAI [[codex|Codex]] Usage Data Shows Developers Delegate Long-Running Tasks Overnight · [OpenAIDevs Twitter](https://x.com/OpenAIDevs/status/2038707501492056401)
+- **2026-03-30**: OpenAI [[codex|Codex]] Launches Security Feature for Vulnerability Detection · [@OpenAIDevs (OpenAI)](https://x.com/OpenAIDevs/status/2038066627842043963)
+- **2026-03-29**: Andrej Karpathy Highlights LLM's Persuasive but Reversible Arguments · [Twitter @karpathy](https://x.com/karpathy/status/2037921699824607591)
+- **2026-03-28**: OpenAI [[codex|Codex]] Launches Plugin Support, Enabling New Workflow Automation · [@OpenAIDevs](https://x.com/OpenAIDevs/status/2037604273434018259) · [@levie (Box CEO)](https://x.com/levie/status/2037383187245273477) · [@gdb](https://x.com/gdb/status/2037348081684111623)
+- **2026-03-28**: OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog · [@sama (OpenAI CEO)](https://x.com/sama/status/2037396826060673188) · [@minchoi](https://x.com/minchoi/status/2037525620934988169)
+- **2026-03-27**: Chroma Open-Sources [[agent-frameworks|Agentic]] Search Agent Trained with RL · [Niels Rogge (@NielsRogge)](https://x.com/NielsRogge/status/2037278806579257849) · [John Schulman (@johnschulman2)](https://x.com/johnschulman2/status/2037260655989014706)
+- **2026-03-26**: OpenAI Launches [[ai-safety|AI Safety]] Bug Bounty Program · [OpenAI Newsroom](https://x.com/OpenAINewsroom/status/2036862362905698334)
+- **2026-03-25**: Arm Announces Entry into AI Chip Manufacturing with Major Customers · [Wired](https://wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/)
+- **2026-03-25**: Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience · [@woj_zaremba](https://x.com/woj_zaremba/status/2036483827271655917)
+- **2026-03-25**: [[hugging-face|HuggingFace]] CEO Proposes Open-Sourcing [[sora|Sora]] as OpenAI Shuts Down App · [@ClementDelangue](https://x.com/ClementDelangue/status/2036548842099781694)
+- **2026-03-24**: OpenAI Reportedly Offers High Returns to Raise Capital · [@minchoi (Twitter)](https://x.com/minchoi/status/2036094385503244463)
+- **2026-03-22**: OpenAI Announces 10x Faster Agent Workflows with Container Pooling · [@OpenAIDevs (OpenAI官方开发者账号)](https://x.com/OpenAIDevs/status/2035437297005727963)
+- **2026-03-21**: OpenAI Launches [[codex|Codex]] for Students with $100 Credits · [@OpenAIDevs (OpenAI官方)](https://x.com/OpenAIDevs/status/2035033703274201109)
+- **2026-03-21**: MIT Tech Review: OpenAI Refocuses on Building Fully Automated AI Researcher · [MIT Technology Review](https://www.technologyreview.com/2026/03/20/1134438/openai-is-throwing-everything-into-building-a-fully-automated-researcher/)
+- **2026-03-21**: [[scale-ai|Scale AI]] Launches First Real-World Voice AI Benchmark · [VentureBeat](https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai)
+- **2026-03-20**: OpenAI Acquires Code Agent Startup Astral to Boost [[codex|Codex]] Team · [OpenAI Newsroom](https://x.com/OpenAINewsroom/status/2034616934671724639) · [Greg Brockman](https://x.com/gdb/status/2034662275391320472)
+- **2026-03-18**: OpenAI Releases [[gpt|GPT-5]].4 mini and nano for Coding and Agent Workloads · [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4-mini-and-nano) · [@Azure on X](https://x.com/Azure/status/2034019491256942752)
+- **2026-03-17**: [[nvidia|NVIDIA]] Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer · [VentureBeat](https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic) · [VentureBeat](https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter)
+- **2026-03-17**: OpenAI [[codex|Codex]] Gains Rapid Adoption, Sama Highlights Team's Builder Culture · [@sama (Twitter)](https://x.com/sama/status/2033599375256207820)
+- **2026-03-16**: OpenAI [[codex|Codex]] Team Culture Emphasizes Radical Improvement · [@thsottiaux on X](https://x.com/thsottiaux/status/2033196703692820549)
+- **2026-03-14**: OpenAI Updates [[gpt|GPT-5]].4 Image Encoder for Improved Understanding · [@OpenAIDevs (Official)](https://x.com/OpenAIDevs/status/2032555646399427051)
+- **2026-03-13**: OpenAI [[sora|Sora]] 2 Video API Launches with New Capabilities · [OpenAI Devs (@OpenAIDevs)](https://x.com/OpenAIDevs/status/2032142448970121468)
+- **2026-03-12**: OpenAI Details Technical Architecture for Secure, Scalable AI Agents · [OpenAI Blog](https://openai.com/index/equip-responses-api-computer-environment) · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2031798071345234193)
+- **2026-03-12**: Andrej Karpathy's 'Autoresearch' [[agent-frameworks|AI Agent]] Lab Experiences Outage, Highlights Reliability Concerns · [Twitter @karpathy](https://x.com/karpathy/status/2031792523187040643)
+- **2026-03-11**: OpenAI Introduces Instruction Hierarchy Challenge for Frontier LLMs · [OpenAI 官方博客](https://openai.com/index/instruction-hierarchy-challenge)
+- **2026-03-11**: OpenAI Launches Interactive Visual Explanations for Math & Science in [[gpt|ChatGPT]] · [OpenAI 官方博客](https://openai.com/index/new-ways-to-learn-math-and-science-in-chatgpt) · [ChatGPT 官方账号](https://x.com/ChatGPTapp/status/2031510785428762732)
+- **2026-03-10**: OpenAI Acquires Promptfoo to Strengthen [[ai-security|AI Security]] Testing · [OpenAI Blog](https://openai.com/index/openai-to-acquire-promptfoo) · [@OpenAI](https://x.com/OpenAI/status/2031052793835106753)
+- **2026-03-09**: Andrej Karpathy Envisions Massively Collaborative Asynchronous AI Research Agents · [Andrej Karpathy (@karpathy)](https://x.com/karpathy/status/2030705271627284816)
+- **2026-03-08**: [[gpt|GPT-5]].4 Gains Widespread Praise for Coding and 'Smart Friend' Personality · [@sama (Twitter)](https://x.com/sama/status/2030319489993298349) · [@gdb (Twitter)](https://x.com/gdb/status/2030446104295391499) · [@DeryaTR_ (Twitter)](https://x.com/DeryaTR_/status/2030274135595667794)
+- **2026-03-08**: OpenAI Robotics Head Resigns in Protest Over Pentagon Deal · [TechCrunch](https://techcrunch.com/2026/03/07/openai-robotics-lead-caitlin-kalinowski-quits-in-response-to-pentagon-deal/) · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rnmbpr/openai_robotics_head_resigns_after_deal_with/)
+- **2026-03-08**: OpenAI Delays [[gpt|ChatGPT]] 'Adult Mode' Again Amid Content Safety Concerns · [TechCrunch](https://techcrunch.com/2026/03/07/openai-delays-chatgpts-adult-mode-again/)
+- **2026-03-08**: OpenAI [[codex|Codex]] App Gains Traction, Multi-Window Workaround Emerges · [@steipete (Twitter)](https://x.com/steipete/status/2030330442520445371) · [@steipete (Twitter)](https://x.com/steipete/status/2030326329346797915) · [@natolambert (Twitter)](https://x.com/natolambert/status/2030410634844573948)
+- **2026-03-07**: OpenAI Releases [[codex|Codex]] Security in Research Preview · [OpenAI Blog](https://openai.com/index/codex-security-now-in-research-preview) · [@OpenAI](https://x.com/OpenAI/status/2029985250512920743)
+- **2026-03-06**: OpenAI Launches [[gpt|GPT-5]].4 with Native [[computer-use|Computer Use]] and 1M Context · [OpenAI Blog](https://openai.com/index/introducing-gpt-5-4) · [VentureBeat](https://venturebeat.com/technology/openai-launches-gpt-5-4-with-native-computer-use-mode-financial-plugins-for) · [@sama](https://x.com/sama/status/2029622732594499630)
+- **2026-03-06**: OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard · [OpenAI Blog](https://openai.com/index/reasoning-models-chain-of-thought-controllability) · [@OpenAI](https://x.com/OpenAI/status/2029650046002811280)
+- **2026-03-05**: [[nvidia|Nvidia]] CEO Announces Pullback from OpenAI and [[anthropic|Anthropic]] Investments · [TechCrunch](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/) · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)
+- **2026-03-05**: [Update] [[anthropic|Anthropic]] CEO Accuses OpenAI of Lying About Military Deal · [TechCrunch](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) · [Hacker News](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- **2026-03-05**: Major Tech Giants Sign White House 'Rate Payer Protection Pledge' on Data Center Power · [The Verge](https://www.theverge.com/news/889578/data-center-power-pledge-white-house-google-meta-microsoft) · [Wired](https://www.wired.com/story/big-tech-signs-white-house-data-center-pledge-with-good-optics-not-much-substance/)
+- **2026-03-05**: OpenAI [[codex|Codex]] for Windows Officially Released · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2029272237409484819) · [Twitter @embirico](https://x.com/embirico/status/2029278904096309526)
+- **2026-03-04**: OpenAI Confirms [[gpt|GPT-5]].4 Development, Hints at 2M Context and Persistent State · [@OpenAI on X](https://x.com/OpenAI/status/2028909019977703752) · [@minchoi on X](https://x.com/minchoi/status/2028927817849745765)
+- **2026-03-04**: OpenAI's Internal AI Data Agent Scales to Serve Thousands of Employees · [VentureBeat](https://venturebeat.com/orchestration/openais-ai-data-agent-built-by-two-engineers-now-serves-4-000-employees-and)
+- **2026-03-03**: [[alibaba|Alibaba]] Releases Ultra-Efficient Qwen3.5 Small Models (0.8B-9B) for Edge Devices · [VentureBeat](https://venturebeat.com/technology/alibabas-small-open-source-qwen3-5-9b-beats-openais-gpt-oss-120b-and-can-run) · [Twitter @UnslothAI](https://x.com/UnslothAI/status/2028463220063871426) · [GitHub Release (ollama/ollama)](https://github.com/ollama/ollama/releases/tag/v0.17.5)
+- **2026-03-03**: [Update] Public Backlash Intensifies: [[gpt|ChatGPT]] Uninstalls Surge 295% After DoD Deal · [TechCrunch](https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/) · [Twitter @GaryMarcus](https://x.com/GaryMarcus/status/2028519928094171570)
+- **2026-03-03**: [[anthropic|Anthropic]] Makes Memory Feature Free to Attract Users Switching from Competitors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing) · [Twitter @minchoi](https://x.com/minchoi/status/2028621263342584172)
+- **2026-03-02**: [Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability · [TechCrunch](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/) · [Twitter @GaryMarcus](https://x.com/GaryMarcus/status/2028143619417448611) · [Twitter @Yoshua_Bengio](https://x.com/Yoshua_Bengio/status/2028093922036052361)
+- **2026-03-01**: OpenAI Secures Pentagon Deal with 'Technical Safeguards' After [[anthropic|Anthropic]] Rejection · [OpenAI Blog](https://openai.com/index/our-agreement-with-the-department-of-war) · [TechCrunch](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) · [Twitter @sama](https://x.com/sama/status/2027578580159631610)
+- **2026-02-28**: OpenAI Raises $110B from Amazon, [[nvidia|Nvidia]], SoftBank; [[gpt|ChatGPT]] Hits 900M Weekly Users · [VentureBeat](https://venturebeat.com/orchestration/openais-big-investment-from-aws-comes-with-something-else-new-stateful) · [TechCrunch](https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/) · [@sama](https://x.com/sama/status/2027386252555919386)
+- **2026-02-27**: OpenAI Expands London Research Hub to Compete with [[google-deepmind|DeepMind]] · [Wired](https://www.wired.com/story/openai-expands-london-office-major-research-hub/)
+- **2026-02-25**: OpenAI's [[gpt|GPT-5]].3-[[codex|Codex]] GA and [[claude|Claude Code]] Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)

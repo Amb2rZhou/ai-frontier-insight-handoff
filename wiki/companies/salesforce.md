@@ -1,31 +1,19 @@
 ---
 title: Salesforce
 type: company
-created: 2026-02-25
+created: 2026-04-01
 updated: 2026-04-23
 ---
 
 # Salesforce
 
-Enterprise CRM giant that has fully embraced AI agents, transforming its 27-year platform into AI agent infrastructure.
+Enterprise CRM giant that has fully embraced AI agents, transforming its 27-year platform into AI [[agent-frameworks|agent]] infrastructure.
 
 ## Timeline
 
-- **2026-04-01**: Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features
-- **2026-04-04**: Nvidia Launches Enterprise AI Agent Platform with Major Partners
-- **2026-04-06**: Salesforce Proposes GPA for GUI Process Automation from Demonstrations
-- **2026-04-17**: Salesforce Launches Headless 360 to Turn Its Platform into AI Agent Infrastructure
-- **2026-04-23**: OpenAI Launches Workspace Agents for Enterprise Automation
-- **2026-04-23**: Salesforce AI Research Addresses Calibration Issue in On-Policy Distillation
-
-## Key Developments
-
-### AI Agent Platform
-Announced AI-heavy Slack overhaul with 30+ new features (Apr 1). Proposed GPA for GUI Process Automation (Apr 6). Launched Headless 360 to turn platform into AI agent infrastructure (Apr 17). AI research addressed calibration issue in on-policy distillation (Apr 23).
-
-## Weekly Insights
-- **W17 (Context War)**: Chose the "open up as agent infrastructure" path with Headless 360 — exposing 27 years of CRM data, workflows, and governance controls as APIs, MCP tools, and CLI commands. This was the clearest example of a $300B incumbent redefining itself from "product company" to "agent infrastructure layer," betting that its accumulated customer context becomes more valuable (not less) when AI agents can programmatically access it.
-
-## Related
-- [[agent-frameworks]] — Enterprise agent ecosystem
-- [[microsoft]] — Enterprise competitor
+- **2026-04-23**: [[openai|OpenAI]] Launches Workspace Agents for Enterprise Automation · [VentureBeat](https://venturebeat.com/orchestration/openai-unveils-workspace-agents-a-successor-to-custom-gpts-for-enterprises-that-can-plug-directly-into-slack-salesforce-and-more) · [OpenAI Blog](https://openai.com/index/introducing-workspace-agents-in-chatgpt)
+- **2026-04-23**: Salesforce AI Research Addresses Calibration Issue in On-Policy Distillation · [arXiv (Salesforce AI Research)](https://huggingface.co/papers/2604.16830)
+- **2026-04-17**: Salesforce Launches Headless 360 to Turn Its Platform into [[agent-frameworks|AI Agent]] Infrastructure · [VentureBeat](https://venturebeat.com/technology/salesforce-launches-headless-360-to-turn-its-entire-platform-into-infrastructure-for-ai-agents)
+- **2026-04-06**: Salesforce Proposes GPA for GUI Process Automation from Demonstrations · [Arxiv (Salesforce)](https://huggingface.co/papers/2604.01676)
+- **2026-04-04**: [[nvidia|Nvidia]] Launches Enterprise [[agent-frameworks|AI Agent]] Platform with Major Partners · [VentureBeat](https://venturebeat.com/technology/nvidia-launches-enterprise-ai-agent-platform-with-adobe-salesforce-sap-among)
+- **2026-04-01**: Salesforce Announces AI-Heavy Slack Overhaul with 30+ New Features · [TechCrunch](https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/) · [VentureBeat](https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the)

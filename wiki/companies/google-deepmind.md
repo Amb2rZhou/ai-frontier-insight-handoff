@@ -2,117 +2,82 @@
 title: Google DeepMind
 type: company
 created: 2026-02-25
-updated: 2026-04-26
+updated: 2026-04-28
 ---
 
 # Google DeepMind
 
-Google's unified AI research division, maker of Gemini and Gemma model families. Operates across research, products, cloud, and hardware (TPU).
+Google's unified AI research division, maker of [[gemini|Gemini]] and [[gemma|Gemma]] model families. Operates across research, products, cloud, and hardware (TPU).
 
 ## Timeline
 
-- **2026-04-26**: Google Gemma Team Hosts Global 'Gemmaverse' Events for Developer Ecosystem
-- **2026-04-25**: Google NPU Unlocking with LiteRT Delivers On-Device AI Performance Leap
-- **2026-04-24**: Jeff Dean Highlights Decoupled DiLoCo for Fault-Tolerant Large-Scale Training
-- **2026-02-25**: Nvidia Challenger MatX Raises $500M Led by Former Google TPU Engineers
-- **2026-02-25**: Grok 4.20 Beta Tops Search Arena, Challenges Frontier Models
-- **2026-02-26**: Google Folds Robotics Moonshot Intrinsic into Core Business
-- **2026-02-27**: OpenAI Expands London Research Hub to Compete with DeepMind
-- **2026-02-27**: Google Nano Banana 2 Aims to Reduce AI Image Generation Costs
-- **2026-02-28**: Google Releases Nano Banana 2: State-of-the-Art Image Generation Model with Real-World Knowledge
-- **2026-02-28**: Google Opal Presents New Blueprint for Enterprise AI Agent Development
-- **2026-03-04**: Google Launches Gemini 3.1 Flash-Lite for High-Speed, Low-Cost Agentic Workflows
-- **2026-03-06**: Google Launches Workspace CLI for AI Agents
-- **2026-03-07**: Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs
-- **2026-03-10**: Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns
-- **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share
-- **2026-03-11**: Google Releases First Multimodal Embedding Model Gemini Embedding 2
-- **2026-03-11**: Google Upgrades Gemini for Workspace with Cross-App Data Integration
-- **2026-03-12**: Google Gemini CLI Introduces 'Plan Mode' for Agentic Code Exploration
-- **2026-03-13**: Google Maps Integrates AI with 'Ask Gemini' and Immersive Navigation
-- **2026-03-13**: [Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context
-- **2026-03-14**: Niels Rogge Introduces Agentic RAG Benchmark with Human-Authored Questions
-- **2026-03-15**: Chrome Enables Native Browser Access for AI Agents
-- **2026-03-16**: Google NotebookLM Launches Powerful Video Feature for Education
-- **2026-03-16**: François Chollet Argues Next AI Breakthrough Requires New Paradigm
-- **2026-03-17**: Google Developers Introduce New Framework for Building Custom AI Agent UIs
-- **2026-03-18**: Google DeepMind Launches AGI Cognitive Framework Hackathon with $200K Prizes
-- **2026-03-19**: Google Launches Stitch: AI-Native Vibe Design Platform
-- **2026-03-19**: Google Releases Developer Guide for AI Agent Protocols
-- **2026-03-20**: Google AI Studio Upgrades to Full-Stack Vibe Coding with Backend Support
-- **2026-03-20**: Google and Kaggle Launch Community Hackathons Platform
-- **2026-03-21**: Scale AI Launches First Real-World Voice AI Benchmark
-- **2026-03-24**: Google Gemini Gains On-Device Agent Capabilities for Tasks
-- **2026-03-25**: Google DeepMind Partners with Agile Robots for Next-Gen Robotics
-- **2026-03-26**: Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x
-- **2026-03-26**: Google Releases Lyria 3 Pro Music Generation Model
-- **2026-03-26**: François Chollet Launches ARC-AGI-3 Benchmark for Agentic AI
-- **2026-03-27**: Google Launches Gemini 3.1 Flash Live for Real-Time Voice and Vision Agents
-- **2026-03-27**: Google Expands Search Live Globally and Launches Chat Migration Tools for Gemini
-- **2026-03-27**: DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs
-- **2026-03-28**: Google Releases Agent Development Kit for Faster AI Agent Building
-- **2026-03-28**: OpenAI CEO Shares Story of User Using LLMs to Develop mRNA Vaccine for Dog
-- **2026-03-30**: Nicolas Carlini Claims Claude Outperforms Him in Security Research
-- **2026-03-31**: DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs
-- **2026-04-01**: Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model
-- **2026-04-02**: Google DeepMind Introduces AI Agent Traps Framework
-- **2026-04-02**: DeepMind Safety Research on Chain-of-Thought Monitorability
-- **2026-04-02**: Google Devs Proposes Agent Skills Specification for Efficiency
-- **2026-04-03**: Google DeepMind Releases Gemma 4 Under Apache 2.0, Focus on Edge Deployment
-- **2026-04-03**: Microsoft Launches Three In-House AI Models (Transcribe, Voice, Image) in Foundry
-- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents
-- **2026-04-05**: vLLM v0.19.0 Released with Full Gemma 4 Architecture Support
-- **2026-04-06**: OpenClaw Adds Native Video Generation with Multi-Provider Support
-- **2026-04-06**: Google AI Edge App Ranks High on iOS Store Post-Gemma 4
-- **2026-04-07**: Anthropic Expands Compute Partnership with Google and Broadcom
-- **2026-04-07**: Google Releases Offline-First AI Dictation App Using Gemma
-- **2026-04-07**: Ollama Cloud Launches Subscription for Running Gemma 4
-- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity
-- **2026-04-08**: Google Releases PyTorch-Native Backend for TPUs with Significant Performance Boost
-- **2026-04-09**: Jeff Dean Highlights Hedged Requests Technique for Drastic Latency Reduction
-- **2026-04-09**: Google Integrates NotebookLM Features into Gemini as 'Notebooks'
-- **2026-04-10**: Unsloth AI Enables Free Fine-Tuning of Gemma 4 31B on Kaggle
-- **2026-04-10**: Google Devs Showcase RAG Pipeline Optimization for AI Agents
-- **2026-04-12**: Google Releases Large-Scale Virtual Try-On Dataset FIT
-- **2026-04-14**: DeepMind Proposes Elastic Looped Transformers for Efficient Visual Generation
-- **2026-04-15**: Google Devs Share Five Architectural Patterns for Production-Grade AI Agents
-- **2026-04-15**: Google Announces Gemini Robotics-ER 1.6 for Enhanced Robot Environmental Understanding
-- **2026-04-16**: Google Releases Gemini 3.1 Flash TTS, Next-Gen Expressive AI Speech
-- **2026-04-17**: Google Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge
-- **2026-04-17**: Google Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures
-- **2026-04-18**: Google Labs Launches Flow Music for AI Music Creation
-- **2026-04-19**: Scale AI CEO Highlights Muse Spark's Strong Performance on Agentic Benchmark
-- **2026-04-21**: Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs
-- **2026-04-22**: Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents
-- **2026-04-22**: NeurIPS 2026 Partners with Google to Offer 'Paper Assistant Tool' to Authors
-- **2026-04-23**: Google and AWS Split AI Agent Stack Between Control and Execution
-- **2026-04-23**: Google Releases CityRAG for Spatially-Grounded Long-Form Video Generation
-
-## Key Developments
-
-### Model Releases
-Released Nano Banana 2 for cost-effective image generation (Feb 27-28), Gemma 4 under Apache 2.0 for edge deployment (Apr 3, 17), Gemini 3.1 Flash Live for real-time voice/vision agents (Mar 27), Gemini 3.1 Flash TTS for expressive speech (Apr 16), and Gemini Robotics-ER 1.6 for robot environmental understanding (Apr 15).
-
-### Agent & Platform Strategy
-Proposed Agent Skills Specification (Apr 2), shared five architectural patterns for production-grade AI agents (Apr 15), introduced AI Agent Traps Framework (Apr 2), launched "Deep Research" and "Deep Research Max" autonomous research agents (Apr 22), and released Auto-Diagnose for integration test failure analysis (Apr 17).
-
-### Research
-TurboQuant algorithm cuts KV cache memory by 6x (Mar 26). Released PyTorch-native backend for TPUs (Apr 8). Published research on elastic looped transformers for visual generation (Apr 14). Launched AGI cognitive framework hackathon with $200K prizes (Mar 18).
-
-### Creative Tools
-Launched Stitch AI-native design platform (Mar 19), Lyria 3 Pro music generation (Mar 26), NotebookLM video feature (Mar 16), Flow Music for AI music creation (Apr 18), and Veo 3.1 Lite video generation (Apr 1). Released large-scale virtual try-on dataset FIT (Apr 12), CityRAG for video generation (Apr 23).
-
-### Robotics
-Folded robotics moonshot Intrinsic into core business (Feb 26). Partnered with Agile Robots (Mar 25). Blueprint for enterprise AI agent development via Google Opal (Feb 28).
-
-## Weekly Insights
-- **W12 (Model Race to Habitat War)**: Made Chrome native for agents (no extensions needed) and launched Workspace CLI with 40+ agent skills — competing for the agent execution environment alongside Microsoft and NVIDIA, with browser session access creating its own form of platform lock-in.
-- **W14 (Agent Moved into the OS)**: Gemini gained device-level agent capability on phones (Screen Automation on Galaxy S26/Pixel 10) with a "safe virtual window" sandbox isolating agent execution — directly targeting the massive mobile user base. Simultaneously released Gemini 3.1 Flash Live for real-time voice+vision agents, shrinking the interface gap between AI agents and human assistants.
-- **W15 (The Math Doesn't Work)**: Released Gemma 4 under Apache 2.0 — the world's #3 model (including closed-source) available for free commercial use. This made "build your own local agent in a weekend" viable, directly enabling users to bypass the "Agent tax" that Anthropic and OpenAI were imposing. Google's calculus: model free, but Google Cloud earns from running it. Also proposed Agent Skills specification reducing baseline context consumption by 90%.
-
-## Related
-- [[gemini]] — Gemini model family
-- [[gemma]] — Gemma open model family
-- [[openai]] — Primary competitor
-- [[anthropic]] — Primary competitor
-- [[nvidia]] — Hardware partner
+- **2026-04-28**: [[microsoft|Microsoft]] and [[openai|OpenAI]] Gut Exclusive Cloud Deal, Freeing OpenAI for Multi-Cloud Strategy · [VentureBeat](https://venturebeat.com/technology/microsoft-and-openai-gut-their-exclusive-deal-freeing-openai-to-sell-on-aws-and-google-cloud) · [TechCrunch](https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/) · [Twitter / Sam Altman](https://x.com/sama/status/2048755148361707946)
+- **2026-04-28**: David Silver Raises $1.1B for Ineffable Intelligence to Build RL Superlearner · [TechCrunch](https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/) · [Twitter / NVIDIA AI](https://x.com/NVIDIAAI/status/2048791878879891827) · [Twitter / Nando de Freitas](https://x.com/NandoDF/status/2048806439892746628)
+- **2026-04-28**: Google Tests AI Chatbot Search for YouTube ('Ask YouTube') · [The Verge](https://www.theverge.com/streaming/919441/google-ask-youtube-ai-chatbot-search)
+- **2026-04-28**: 600+ Google Employees Protest Classified Military AI Use to Sundar Pichai · [The Verge](https://www.theverge.com/ai-artificial-intelligence/919326/google-ai-pentagon-classified-letter)
+- **2026-04-26**: Google [[gemma|Gemma]] Team Hosts Global 'Gemmaverse' Events for Developer Ecosystem · [Google Gemma 团队成员 @osanseviero](https://x.com/osanseviero/status/2047857010721665046)
+- **2026-04-25**: Google NPU Unlocking with LiteRT Delivers On-Device AI Performance Leap · [Google Developers (X/Twitter)](https://x.com/googledevs/status/2047722234786025665)
+- **2026-04-24**: Jeff Dean Highlights Decoupled DiLoCo for Fault-Tolerant Large-Scale Training · [Jeff Dean (@JeffDean)](https://x.com/JeffDean/status/2047339995682529313)
+- **2026-04-23**: Google and AWS Split [[agent-frameworks|AI Agent]] Stack Between Control and Execution · [VentureBeat](https://venturebeat.com/orchestration/google-and-aws-split-the-ai-agent-stack-between-control-and-execution)
+- **2026-04-23**: Google Releases CityRAG for Spatially-Grounded Long-Form Video Generation · [arXiv (Google)](https://huggingface.co/papers/2604.19741)
+- **2026-04-22**: Google Unveils 'Deep Research' and 'Deep Research Max' Autonomous Research Agents · [VentureBeat](https://venturebeat.com/technology/googles-new-deep-research-and-deep-research-max-agents-can-search-the-web-and-your-private-data) · [@OfficialLoganK](https://x.com/OfficialLoganK/status/2046628030777631000)
+- **2026-04-22**: NeurIPS 2026 Partners with Google to Offer 'Paper Assistant Tool' to Authors · [@NeurIPSConf](https://x.com/NeurIPSConf/status/2046632664493384060)
+- **2026-04-18**: Google Labs Launches Flow Music for AI Music Creation · [@GoogleLabs Twitter](https://x.com/GoogleLabs/status/2045250788864495874)
+- **2026-04-17**: Google Releases [[gemma|Gemma]] 4, a Flexible Model Family for Scalable Agents and Edge · [@googledevs (Google)](https://x.com/googledevs/status/2044611741842079970)
+- **2026-04-17**: Google Proposes Auto-Diagnose, an LLM-Based Tool for Debugging Integration Test Failures · [@omarsar0 (citing Google Research)](https://x.com/omarsar0/status/2044769798845079665)
+- **2026-04-16**: Google Releases [[gemini|Gemini]] 3.1 Flash TTS, Next-Gen Expressive AI Speech · [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-tts/) · [@googledevs](https://x.com/googledevs/status/2044448265396269278)
+- **2026-04-15**: Google Devs Share Five Architectural Patterns for Production-Grade AI Agents · [@googledevs (Google Developers)](https://x.com/googledevs/status/2044158757077242333)
+- **2026-04-15**: Google Announces [[gemini|Gemini]] Robotics-ER 1.6 for Enhanced [[embodied-ai|Robot]] Environmental Understanding · [@ZoubinGhahrama1 (Google Chief Scientist)](https://x.com/ZoubinGhahrama1/status/2044116228743045299)
+- **2026-04-14**: DeepMind Proposes Elastic Looped Transformers for Efficient Visual Generation · [Arxiv (Deepmind)](https://huggingface.co/papers/2604.09168)
+- **2026-04-12**: Google Releases Large-Scale Virtual Try-On Dataset FIT · [Arxiv (Google)](https://huggingface.co/papers/2604.08526)
+- **2026-04-10**: Google Devs Showcase [[rag|RAG]] Pipeline Optimization for AI Agents · [Google Devs on X](https://x.com/googledevs/status/2042331722298060929)
+- **2026-04-09**: Jeff Dean Highlights Hedged Requests Technique for Drastic Latency Reduction · [Google 研究员 Jeff Dean (@JeffDean)](https://x.com/JeffDean/status/2041908142590792122)
+- **2026-04-09**: Google Integrates NotebookLM Features into [[gemini|Gemini]] as 'Notebooks' · [The Verge](https://www.theverge.com/tech/909031/google-gemini-notebooks-notebooklm) · [Google 产品负责人 Logan Kilpatrick (@OfficialLoganK)](https://x.com/OfficialLoganK/status/2042025888053702911)
+- **2026-04-08**: [[anthropic|Anthropic]] Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity · [VentureBeat](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) · [Wired](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing)
+- **2026-04-08**: Google Releases PyTorch-Native Backend for TPUs with Significant Performance Boost · [Twitter @googledevs](https://x.com/googledevs/status/2041561643260211334)
+- **2026-04-07**: [[anthropic|Anthropic]] Expands Compute Partnership with Google and Broadcom · [Anthropic Blog](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- **2026-04-07**: Google Releases Offline-First AI Dictation App Using [[gemma|Gemma]] · [TechCrunch](https://techcrunch.com/2026/04/06/google-quietly-releases-an-offline-first-ai-dictation-app-on-ios/)
+- **2026-04-06**: [[openclaw|OpenClaw]] Adds Native Video Generation with Multi-Provider Support · [Twitter @steipete](https://x.com/steipete/status/2040928953653744003)
+- **2026-04-06**: Google AI Edge App Ranks High on iOS Store Post-[[gemma|Gemma]] 4 · [Twitter @OfficialLoganK](https://x.com/OfficialLoganK/status/2040874501777317982)
+- **2026-04-05**: vLLM v0.19.0 Released with Full [[gemma|Gemma]] 4 Architecture Support · [GitHub Release (vllm-project/vllm)](https://github.com/vllm-project/vllm/releases/tag/v0.19.0)
+- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents · [@minchoi (Twitter)](https://x.com/minchoi/status/2039904088737947889)
+- **2026-04-03**: Google DeepMind Releases [[gemma|Gemma]] 4 Under Apache 2.0, Focus on Edge Deployment · [Google AI Blog (via Jeff Dean)](https://x.com/JeffDean/status/2039748604232122707) · [VentureBeat](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter) · [HuggingFace Transformers Release](https://github.com/huggingface/transformers/releases/tag/v5.5.0)
+- **2026-04-03**: [[microsoft|Microsoft]] Launches Three In-House AI Models (Transcribe, Voice, Image) in Foundry · [VentureBeat](https://venturebeat.com/technology/microsoft-launches-3-new-ai-models-in-direct-shot-at-openai-and-google) · [Microsoft Azure Official Twitter](https://x.com/Azure/status/2039720749607293343)
+- **2026-04-02**: Google DeepMind Introduces [[agent-frameworks|AI Agent]] Traps Framework · [@omarsar0 (citing Google DeepMind paper)](https://x.com/omarsar0/status/2039383554510217707)
+- **2026-04-02**: DeepMind Safety Research on Chain-of-Thought Monitorability · [Alignment Forum (Crossposted from DeepMind Safety Research)](https://www.alignmentforum.org/posts/SvxaKP5KdkksZPcG7/predicting-when-rl-training-breaks-chain-of-thought)
+- **2026-04-02**: Google Devs Proposes Agent Skills Specification for Efficiency · [@googledevs](https://x.com/googledevs/status/2039359112668950986)
+- **2026-04-01**: Google Releases Veo 3.1 Lite, a Cost-Effective Video Generation Model · [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/)
+- **2026-03-31**: DeepMind Paper Analyzes Challenges in Iterative Generative Optimization with LLMs · [arXiv Paper (DeepMind)](https://huggingface.co/papers/2603.23994)
+- **2026-03-30**: Nicolas Carlini Claims [[claude|Claude]] Outperforms Him in Security Research · [Reddit (引用 Nicolas Carlini 观点)](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)
+- **2026-03-28**: Google Releases Agent Development Kit for Faster [[agent-frameworks|AI Agent]] Building · [@googledevs](https://x.com/googledevs/status/2037643322387234886)
+- **2026-03-27**: Google Launches [[gemini|Gemini]] 3.1 Flash Live for Real-Time Voice and Vision Agents · [Google AI Blog](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-flash-live/) · [Jeff Dean (@JeffDean)](https://x.com/JeffDean/status/2037200383270170735) · [Logan Kilpatrick (@OfficialLoganK)](https://x.com/OfficialLoganK/status/2037187750005240307)
+- **2026-03-27**: Google Expands Search Live Globally and Launches Chat Migration Tools for [[gemini|Gemini]] · [Google AI Blog (Search Live)](https://blog.google/products-and-platforms/products/search/search-live-global-expansion/) · [TechCrunch (Gemini Migration)](https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/)
+- **2026-03-26**: Google's TurboQuant Algorithm Cuts KV Cache Memory by 6x · [VentureBeat](https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50) · [@DeryaTR_ (AI researcher)](https://x.com/DeryaTR_/status/2036931243158233407) · [@minchoi (AI researcher)](https://x.com/minchoi/status/2036912728351133970)
+- **2026-03-26**: Google Releases Lyria 3 Pro Music Generation Model · [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/lyria-3-pro/) · [@emollick (AI researcher)](https://x.com/emollick/status/2036836310447452606)
+- **2026-03-26**: François Chollet Launches ARC-AGI-3 Benchmark for [[agent-frameworks|Agentic]] AI · [@fchollet (Google researcher)](https://x.com/fchollet/status/2036863769981403497) · [@fchollet](https://x.com/fchollet/status/2036868401843626302)
+- **2026-03-25**: Google DeepMind Partners with Agile Robots for Next-Gen Robotics · [@GoogleDeepMind](https://x.com/GoogleDeepMind/status/2036418139672482229)
+- **2026-03-24**: Google [[gemini|Gemini]] Gains On-Device Agent Capabilities for Tasks · [The Information](https://www.theinformation.com/articles/googles-gemini-steals-march-openai)
+- **2026-03-21**: [[scale-ai|Scale AI]] Launches First Real-World Voice AI Benchmark · [VentureBeat](https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai)
+- **2026-03-20**: Google AI Studio Upgrades to Full-Stack Vibe Coding with Backend Support · [AI 研究员 Min Choi](https://x.com/minchoi/status/2034693133183697032) · [生物学家 Derya](https://x.com/DeryaTR_/status/2034685204002943279)
+- **2026-03-20**: Google and Kaggle Launch Community Hackathons Platform · [Google Developers](https://x.com/googledevs/status/2034706472647405606) · [HuggingFace 社区负责人](https://x.com/osanseviero/status/2034648577138426355)
+- **2026-03-19**: Google Launches Stitch: AI-Native Vibe Design Platform · [@GoogleLabs](https://x.com/GoogleLabs/status/2034337527293944228)
+- **2026-03-19**: Google Releases Developer Guide for [[agent-frameworks|AI Agent]] Protocols · [@googledevs](https://x.com/googledevs/status/2034374282504015964)
+- **2026-03-18**: Google DeepMind Launches AGI Cognitive Framework Hackathon with $200K Prizes · [@GoogleDeepMind on X](https://x.com/GoogleDeepMind/status/2034014385941975298) · [@OfficialLoganK on X](https://x.com/OfficialLoganK/status/2033978254344786351)
+- **2026-03-17**: Google Developers Introduce New Framework for Building Custom [[agent-frameworks|AI Agent]] UIs · [@googledevs (Twitter)](https://x.com/googledevs/status/2033589109277507618)
+- **2026-03-16**: Google NotebookLM Launches Powerful Video Feature for Education · [@DeryaTR_ on X](https://x.com/DeryaTR_/status/2033026297258033583)
+- **2026-03-16**: François Chollet Argues Next AI Breakthrough Requires New Paradigm · [@fchollet on X](https://x.com/fchollet/status/2033274445058687457)
+- **2026-03-15**: Chrome Enables Native Browser Access for AI Agents · [@addyosmani (Google Chrome 工程总监)](https://x.com/addyosmani/status/2032875051830358197)
+- **2026-03-13**: Google Maps Integrates AI with 'Ask [[gemini|Gemini]]' and Immersive Navigation · [OfficialLoganK (@OfficialLoganK)](https://x.com/OfficialLoganK/status/2032101245763149908) · [minchoi (@minchoi)](https://x.com/minchoi/status/2032122979115581514)
+- **2026-03-12**: Google [[gemini|Gemini]] CLI Introduces 'Plan Mode' for [[agent-frameworks|Agentic]] Code Exploration · [Twitter @googledevs](https://x.com/googledevs/status/2031750026360176876)
+- **2026-03-11**: Google Releases First Multimodal Embedding Model [[gemini|Gemini]] Embedding 2 · [Google Developers 官方账号](https://x.com/googledevs/status/2031411032845885725)
+- **2026-03-11**: Google Upgrades [[gemini|Gemini]] for Workspace with Cross-App Data Integration · [VentureBeat 报道](https://venturebeat.com/orchestration/google-upgrades-gemini-for-workspace-allowing-it-to-pull-data-from-multiple) · [Google 产品经理 Logan Kilpatrick](https://x.com/OfficialLoganK/status/2031374503599567113)
+- **2026-03-10**: [[perplexity|Perplexity]] Computer Integrates [[claude|Claude Code]] and Can Autonomously Run Ad Campaigns · [@AravSrinivas](https://x.com/AravSrinivas/status/2031039066352033884) · [@AravSrinivas](https://x.com/AravSrinivas/status/2031105215429226843)
+- **2026-03-07**: Google PM Open-Sources Always On Memory Agent, Replacing Vector DBs · [VentureBeat](https://venturebeat.com/orchestration/google-pm-open-sources-always-on-memory-agent-ditching-vector-databases-for)
+- **2026-03-06**: Google Launches Workspace CLI for AI Agents · [VentureBeat](https://venturebeat.com/orchestration/google-workspace-cli-brings-gmail-docs-sheets-and-more-into-a-common) · [@addyosmani](https://x.com/addyosmani/status/2029372736267805081)
+- **2026-03-04**: Google Launches [[gemini|Gemini]] 3.1 Flash-Lite for High-Speed, Low-Cost [[agent-frameworks|Agentic]] Workflows · [VentureBeat](https://venturebeat.com/technology/google-releases-gemini-3-1-flash-lite-at-1-8th-the-cost-of-pro) · [@googledevs on X](https://x.com/googledevs/status/2028874212362850427)
+- **2026-02-28**: Google Releases Nano Banana 2: State-of-the-Art Image Generation Model with Real-World Knowledge · [@GoogleAI](https://x.com/GoogleAI/status/2027463725498720306) · [@GeminiApp](https://x.com/GeminiApp/status/2027429555250860129) · [@arena](https://x.com/arena/status/2027436205118525774)
+- **2026-02-28**: Google Opal Presents New Blueprint for Enterprise [[agent-frameworks|AI Agent]] Development · [VentureBeat](https://venturebeat.com/technology/googles-opal-just-quietly-showed-enterprise-teams-the-new-blueprint-for)
+- **2026-02-27**: [[openai|OpenAI]] Expands London Research Hub to Compete with DeepMind · [Wired](https://www.wired.com/story/openai-expands-london-office-major-research-hub/)
+- **2026-02-27**: Google Nano Banana 2 Aims to Reduce AI Image Generation Costs · [VentureBeat](https://venturebeat.com/technology/googles-nano-banana-2-takes-aim-at-the-production-cost-problem-thats-kept-ai) · [Google AI Blog](https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/)
+- **2026-02-26**: Google Folds Robotics Moonshot Intrinsic into Core Business · [The Verge](https://www.theverge.com/tech/885113/google-swallows-ai-robotics-moonshot-intrinsic)
+- **2026-02-25**: [[nvidia|Nvidia]] Challenger MatX Raises $500M Led by Former Google TPU Engineers · [TechCrunch](https://techcrunch.com/2026/02/24/nvidia-challenger-ai-chip-startup-matx-raised-500m/)

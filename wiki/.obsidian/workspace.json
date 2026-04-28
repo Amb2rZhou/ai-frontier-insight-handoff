@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "companies/openai.md",
+                "file": "companies/anthropic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "openai"
+              "title": "anthropic"
             }
           }
         ]
@@ -182,6 +182,22 @@
   },
   "active": "4bc902316f5ba570",
   "lastOpenFiles": [
+    "weekly-summaries/W18.md",
+    "schema.md",
+    "companies/alibaba.md",
+    "index.md",
+    "products/sora.md",
+    "trends/creative-ai.md.tmp.73685.1777279528662",
+    "trends/ai-infrastructure.md",
+    "products/openclaw.md.tmp.73685.1777278927720",
+    "companies/anthropic.md",
+    "companies/anthropic.md.tmp.73685.1777278528859",
+    "products/qwen.md",
+    "trends/ai-powered-search-and-information-retrie.md",
+    "trends/ai-hardware.md",
+    "trends/ai-enabled-criminal-and-security-threats.md",
+    "trends/agent-ecosystem.md",
+    "companies/openai.md",
     "weekly-summaries/W17.md",
     "weekly-summaries/W11.md",
     "weekly-summaries/W10.md",
@@ -193,16 +209,7 @@
     "technologies/agent-frameworks.md",
     "products/muse-spark.md",
     "trends/reasoning-efficiency.md",
-    "trends/ai-hardware.md",
-    "trends/ai-enabled-criminal-and-security-threats.md",
-    "trends/agent-ecosystem.md",
-    "products/sora.md",
     "products/codex.md",
-    "trends/mega-funding.md",
-    "trends/creative-ai.md",
-    "companies/anthropic.md",
-    "trends/embodied-ai.md",
-    "technologies/rag.md",
-    "products/copilot.md"
+    "trends/mega-funding.md"
   ]
 }

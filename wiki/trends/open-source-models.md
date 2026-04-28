@@ -1,11 +1,11 @@
 ---
-title: Open Source Foundation Model Proliferation
+title: Open Source Models
 type: trend
 created: 2026-02-25
-updated: 2026-04-27
+updated: 2026-04-28
 ---
 
-# Open Source Foundation Model Proliferation
+# Open Source Models
 
 The rapid proliferation of open-source and open-weight foundation models challenging closed commercial offerings.
 
@@ -13,147 +13,122 @@ The rapid proliferation of open-source and open-weight foundation models challen
 
 ## Timeline
 
-- **2026-04-27**: Alibaba Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks
-- **2026-04-27**: DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price
-- **2026-04-27**: OpenAI Releases Privacy Filter Model on HuggingFace for Content Safety
-- **2026-04-27**: Open Source Multi-Agent Framework 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars
-- **2026-04-27**: CNCF-Style Open Source Project 'future-agi' for LLM Agent Evaluation and Observability Reaches 555 Stars
-- **2026-04-23**: OpenAI Releases Open-Source On-Device Privacy Filter Model
-- **2026-04-23**: Tencent Releases PlayCoder Framework for LLM-Generated GUI Code Correction
-- **2026-04-22**: MIT Researchers Release 'MathNet', a Large-Scale Multimodal Math Reasoning Benchmark
-- **2026-04-21**: Alibaba Releases Qwen3.6-Max-Preview with Enhanced Agentic Coding
-- **2026-04-21**: Tencent and OpenClaw Collaborate on Agent Harness Performance
-- **2026-04-21**: GitHub Cofounder Discusses Rethinking Git for AI Agents Era
-- **2026-04-21**: Unsloth AI Claims SOTA in Gemma 4 Quantization with GGUFs
-- **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging OpenClaw
-- **2026-04-19**: Hugging Face Launches Platform for AI Agents to Call 1M+ Spaces
-- **2026-04-18**: Ollama Releases v0.21.0 with Hermes Self-Learning Agent
-- **2026-04-17**: Google Releases Gemma 4, a Flexible Model Family for Scalable Agents and Edge
-- **2026-04-16**: NVIDIA Releases Lyra 2.0 for Explorable Generative 3D Worlds
-- **2026-04-16**: Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents
-- **2026-04-16**: NVIDIA Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for Agentic Reasoning
-- **2026-04-15**: Google Devs Share Five Architectural Patterns for Production-Grade AI Agents
-- **2026-04-13**: MiniMax Releases 230B Open Model MiniMax-M2.7 with SOTA Performance
-- **2026-04-11**: Anthropic Launches Claude Managed Agents Public Beta
-- **2026-04-10**: NVIDIA Introduces RoboLab Benchmark for Generalist Robot Policies
-- **2026-04-09**: Alibaba's Qwen3.6-Plus Tops OpenRouter Charts, Claiming High Cost-Performance
-- **2026-04-09**: OpenClaw Agent Framework Adds Dreaming Feature and Hardens Security
-- **2026-04-08**: PyTorch Foundation Hosts Helion Project from Meta for AI Kernel Portability
-- **2026-04-08**: ExecuTorch Becomes Part of PyTorch Core for Efficient Edge AI Inference
-- **2026-04-07**: Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs
-- **2026-04-06**: OpenClaw Adds Native Video Generation with Multi-Provider Support
-- **2026-04-06**: Community Builds Personal Local Coding Agent with Open-Source Stack
-- **2026-04-05**: Meta Open-Sources MCGrad for ML Model Calibration in Subgroups
-- **2026-04-05**: Netflix Releases VOID: Video Object and Interaction Deletion Framework
-- **2026-04-05**: Open-Source Multi-Agent Framework 'open-multi-agent' Gains Traction
-- **2026-04-04**: Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash
-- **2026-04-02**: HuggingFace Blog: Hcompany Releases Holo3 for Computer Use
-- **2026-03-31**: HuggingFace CEO Advocates for Open-Source Models in Agent Tools
-- **2026-03-30**: OpenClaw Agent Framework Update Gains High Engagement
-- **2026-03-30**: Forge-Film: DAG-Driven Parallel AI Film Generation Engine
-- **2026-03-29**: ByteDance's LVFace Face Recognition Model Gains Community Traction
-- **2026-03-29**: InternLM Releases WildClawBench for In-the-Wild Agent Evaluation
-- **2026-03-28**: Google Releases Agent Development Kit for Faster AI Agent Building
-- **2026-03-28**: NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines
-- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service
-- **2026-03-27**: Chroma Open-Sources Agentic Search Agent Trained with RL
-- **2026-03-26**: Cursor AI Enables Cloud Agents to Run on User Infrastructure
-- **2026-03-26**: PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41%
-- **2026-03-25**: Major PyPI Supply Chain Attack via litellm Library
-- **2026-03-25**: AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories
-- **2026-03-24**: UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs
-- **2026-03-25**: HuggingFace CEO proposes open-sourcing Sora as OpenAI shuts down app
-- **2026-03-30**: Lightricks releases LTX-2.3 multimodal video model, expanding open-source video generation capabilities
-- **2026-03-31**: Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate
-- **2026-04-01**: Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support
-- **2026-04-02**: Alibaba Qwen Powers GrandCode to Conquer Coding Milestone
-- **2026-04-03**: Google DeepMind releases Gemma 4 under Apache 2.0 with edge deployment focus
-- **2026-04-04**: Arcee releases open source Trinity-Large-Thinking model for enterprise customization
-- **2026-04-05**: vLLM v0.19.0 released with full Gemma 4 architecture support
-- **2026-04-07**: Ollama Cloud Launches Subscription for Running Gemma 4
-- **2026-04-08**: Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks
-- **2026-04-09**: PyTorch Foundation Adopts Hugging Face's Safetensors for Secure Model Execution
-- **2026-04-10**: Unsloth AI Enables Free Fine-Tuning of Gemma 4 31B on Kaggle; Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects
-- **2026-04-11**: ThreadWeaver: Open-Source Parallel Thinking for LLMs; Anthropic Temporarily Bans OpenClaw Creator
-- **2026-04-14**: GitHub Trending: EcoAlign-Forge for Multi-Agent DPO Data Synthesis
-- **2026-04-15**: Hugging Face Introduces 'Kernels on the Hub' for Easy GPU Kernel Deployment; New Open LLM Leaderboard Entries Showcase Fine-Tuned Qwen Models
-- **2026-04-17**: Google Releases Gemma 4 with Focus on Scalable Agents and Edge Processing
-- **2026-04-17**: Google releases Gemma 4 for scalable agents and edge processing
-- **2026-04-21**: Hugging Face Announces New Open Coding SOTA Model; Moonshot AI Releases Kimi K2.6 Model on Hugging Face
-- **2026-04-22**: Hugging Face CEO Warns of Renewed Lobbying Against Open-Source AI in US
-- **2026-03-24**: OpenClaw Releases Major Update with Plugin Marketplace and New Models
-- **2026-03-24**: NVIDIA Releases OpenShell for Agent Governance
-- **2026-03-24**: HuggingFace CEO Proposes 'S3 for Agents' Storage Solution
-- **2026-03-23**: NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model
-- **2026-03-23**: Cursor Admits New Coding Model Built on Moonshot AI's Kimi
-- **2026-03-23**: Community Concern Over AI Security in Open-Weight Models
-- **2026-03-22**: NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning
-- **2026-03-22**: Community Debate: Should AI Auto-Credit Itself in GitHub Projects?
-- **2026-03-21**: OpenAI Launches Codex for Students with $100 Credits
-- **2026-03-21**: NVIDIA Releases Nemotron-Cascade 2: Efficient 30B MoE Model with Strong Reasoning
-- **2026-03-21**: HuggingFace CEO: Cursor's New Model Based on Kimi, Validates Chinese Open-Source Impact
-- **2026-03-20**: Sakana AI Introduces Doc-to-LoRA for Instant Context Internalization
-- **2026-03-20**: Google and Kaggle Launch Community Hackathons Platform
-- **2026-03-20**: NVIDIA and HuggingFace Introduce SPEED-Bench for Speculative Decoding
-- **2026-03-19**: MiniMax Releases 'Self-Evolving' M2.7 Model for Agentic Tasks
-- **2026-03-19**: Google Releases Developer Guide for AI Agent Protocols
-- **2026-03-19**: HuggingFace CEO Highlights Agentic World Challenges and Adaptations
-- **2026-03-19**: Andrew Ng Launches New Course on Agent Memory with Oracle
-- **2026-03-19**: PyTorch Introduces Generalized Dot-Product Attention for Recommendation Systems
-- **2026-03-18**: Mistral Launches ‘Forge’ Platform for Enterprise Custom Model Training
-- **2026-03-18**: Unsloth AI Releases Open-Source Web UI for Fast Local LLM Training
-- **2026-03-18**: Google DeepMind Launches AGI Cognitive Framework Hackathon with $200K Prizes
-- **2026-03-18**: Ollama Integrates Web Search/Fetch into OpenClaw Ecosystem
-- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents
-- **2026-03-17**: Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof
-- **2026-03-17**: Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents
-- **2026-03-17**: Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows
-- **2026-03-16**: OpenAI Codex Team Culture Emphasizes Radical Improvement
-- **2026-03-16**: HuggingFace Trending: Lightricks LTX-2.3 Video Generation Model
-- **2026-03-16**: GitHub Trending: OpenClaw Ecosystem Grows with Chinese Documentation
-- **2026-03-15**: NVIDIA and Microsoft Provide Engineering Support to OpenClaw
-- **2026-03-15**: GitHub Trending: MetaClaw Project Enables Continual Learning for Agents
-- **2026-03-15**: OpenClaw Ecosystem Grows: Parallel Tool Calling and New Memory Plugins
-- **2026-03-14**: NVIDIA and Ollama to Host Developer Session on Local AI Agents at GTC
-- **2026-03-14**: Open-Source Project zer0dex Introduces Dual-Layer Memory for Local LLM Agents
-- **2026-03-13**: NVIDIA Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation
-- **2026-03-13**: [Update] OpenClaw Releases Hunter & Healer Alpha Models with 1M Context
-- **2026-03-12**: NVIDIA Releases Nemotron-3-Super: 120B Open Hybrid MoE Model with 1M Token Context
-- **2026-03-12**: VS Code Launches 'Autopilot' Preview for Fully Agent-Controlled Workflows
-- **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity
-- **2026-03-12**: Chinese OpenClaw Craze Sparks Startup Gold Rush and Installation Services
-- **2026-03-11**: Yann LeCun Launches AMI Labs with Record $1B+ Seed Round
-- **2026-03-11**: LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support
-- **2026-03-11**: Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks
-- **2026-03-10**: NVIDIA to Launch Open-Source AI Agent Platform
-- **2026-03-10**: Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents
-- **2026-03-09**: SkillNet: Open Infrastructure for Creating and Evaluating AI Agent Skills at Scale
-- **2026-03-09**: Community Releases 100 Production-Ready OpenClaw AI Agent Configs
-- **2026-02-25**: Systematic Prefill Attack Vulnerability Found in 50 Open-Weight LLMs
-- **2026-02-25**: Alibaba Qwen Releases New 3.5 Medium Model Series with MoE Architecture
-
-## Key Developments
-
-### Major Releases
-Gemma 4 under Apache 2.0 (Apr 3, 17). GLM-5.1 from Z.ai claiming SOTA on coding (Apr 8). Arcee Trinity-Large-Thinking for enterprise (Apr 4). MiniMax M2.7 230B open model (Apr 13). Moonshot Kimi K2.6 (Apr 21). Cohere open-weight ASR model (Mar 31).
-
-### Infrastructure
-vLLM v0.19.0 with Gemma 4 support (Apr 5). Ollama MLX integration for Apple Silicon (Apr 1). PyTorch Foundation adopted Safetensors (Apr 9). Hugging Face "Kernels on the Hub" (Apr 15).
-
-### Fine-tuning Democratization
-UnslothAI enabled RL fine-tuning of Qwen3.5 on consumer GPUs (Mar 24). Free fine-tuning of Gemma 4 31B on Kaggle (Apr 10). ThreadWeaver open-source parallel thinking for LLMs (Apr 11).
-
-### Policy
-Hugging Face CEO warned of renewed lobbying against open-source AI in US (Apr 22). Ongoing debate about security risks in lightly maintained projects (Apr 10).
-
-## Weekly Insights
-- **W12 (Model Race to Habitat War)**: NVIDIA open-sourced Nemotron-3-Super (120B, 1M context) while LeCun bet $1B on post-LLM architectures — when the most-resourced actors stop believing model capability is the moat, open-source becomes the default layer and competition shifts to platforms.
-- **W13 (Water Sellers' Water Getting Cheaper)**: Cursor's choice to build Composer 2 on Moonshot's open-source Kimi K2.5 was the watershed — a $29B application proving that top-tier vertical performance can be achieved via open-source fine-tuning at a fraction of API costs, with supply chain independence as a bonus.
-- **W15 (The Math Doesn't Work)**: Gemma 4 (Apache 2.0, world #3 including closed-source) and Qwen3.6-Plus arrived in the same week Anthropic imposed the "Agent tax" — creating an immediate ceiling on commercial API pricing, since the self-build alternative is now a weekend project with frontier-level performance.
-- **W16 (No One Is Verifying)**: MiniMax M2.7 (230B open-source) scored 56.22% on SWE-Pro, matching GPT-5.3-Codex — open-source coding agents reached parity with closed models, further lowering the barrier for self-built agent systems. But the same week's benchmark audit showed these scores may not predict real-world performance.
-
-## Related
-- [[hugging-face]]
-- [[qwen]]
-- [[gemma]]
-- [[ollama]]
+- **2026-04-28**: Xiaomi MiMo-V2.5 Open Source Models Excel at [[agent-frameworks|Agentic]] 'Claw' Tasks · [VentureBeat](https://venturebeat.com/technology/open-source-xiaomi-mimo-v2-5-and-v2-5-pro-are-among-the-most-efficient-and-affordable-at-agentic-claw-tasks) · [Hugging Face](https://huggingface.co/xiaomi)
+- **2026-04-28**: vLLM v0.20.0 Released with Initial DeepSeek V4 Support · [GitHub Release](https://github.com/vllm-project/vllm/releases/tag/v0.20.0)
+- **2026-04-27**: [[alibaba|Alibaba]] Releases AgenticQwen-30B-A3B MoE Model Matching Qwen3-235B on Tool-Use Benchmarks · [Twitter @omarsar0](https://x.com/omarsar0/status/2048504655932760565)
+- **2026-04-27**: DeepSeek API Price Cut: Input Cache Hits Reduced to 1/10 of Original Price · [Twitter DeepSeek官方](https://x.com/deepseek_ai/status/2048440764368347611)
+- **2026-04-27**: [[openai|OpenAI]] Releases Privacy Filter Model on [[hugging-face|HuggingFace]] for Content Safety · [HuggingFace OpenAI模型](https://huggingface.co/openai/privacy-filter)
+- **2026-04-27**: Open Source Multi-[[agent-frameworks|Agent Framework]] 'harmonist' with 186 Agents and Zero Runtime Dependencies Reaches 696 Stars · [GitHub harmonist](https://github.com/GammaLabTechnologies/harmonist)
+- **2026-04-27**: CNCF-Style Open Source Project 'future-agi' for LLM Agent Evaluation and Observability Reaches 555 Stars · [GitHub future-agi](https://github.com/future-agi/future-agi)
+- **2026-04-23**: [[openai|OpenAI]] Releases Open-Source On-Device Privacy Filter Model · [VentureBeat](https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets) · [GitHub (huggingface/transformers)](https://github.com/huggingface/transformers/releases/tag/v5.6.0)
+- **2026-04-23**: [[tencent|Tencent]] Releases PlayCoder Framework for LLM-Generated GUI Code Correction · [arXiv (Tencent)](https://huggingface.co/papers/2604.19742)
+- **2026-04-22**: [[hugging-face|Hugging Face]] CEO Warns of Renewed Lobbying Against Open-Source AI in US · [@ClementDelangue](https://x.com/ClementDelangue/status/2046622235104891138)
+- **2026-04-22**: MIT Researchers Release 'MathNet', a Large-Scale Multimodal Math Reasoning Benchmark · [arXiv (MathNet)](https://huggingface.co/papers/2604.18584) · [@_akhaliq](https://x.com/_akhaliq/status/2046617812974592046)
+- **2026-04-21**: [[alibaba|Alibaba]] Releases Qwen3.6-Max-Preview with Enhanced [[agent-frameworks|Agentic]] Coding · [Alibaba_Qwen Twitter](https://x.com/Alibaba_Qwen/status/2046227759475921291)
+- **2026-04-21**: [[hugging-face|Hugging Face]] Announces New Open Coding SOTA Model · [huggingface Twitter](https://x.com/huggingface/status/2046255694861451354)
+- **2026-04-21**: Moonshot AI Releases Kimi K2.6 Model on [[hugging-face|Hugging Face]] · [HuggingFace Model](https://huggingface.co/moonshotai/Kimi-K2.6) · [_akhaliq Twitter](https://x.com/_akhaliq/status/2046255754294841594)
+- **2026-04-21**: [[tencent|Tencent]] and [[openclaw|OpenClaw]] Collaborate on Agent Harness Performance · [steipete Twitter](https://x.com/steipete/status/2046259696722465113)
+- **2026-04-21**: GitHub Cofounder Discusses Rethinking Git for AI Agents Era · [a16z Podcast](https://a16z.simplecast.com/episodes/rethinking-git-for-the-age-of-coding-agents-with-github-cofounder-scott-chacon-LGXF9DcJ)
+- **2026-04-21**: Unsloth AI Claims SOTA in [[gemma|Gemma]] 4 Quantization with GGUFs · [UnslothAI Twitter](https://x.com/UnslothAI/status/2046242156122358168)
+- **2026-04-20**: Hermes Agent Hits 100K GitHub Stars, Challenging [[openclaw|OpenClaw]] · [Twitter (@minchoi)](https://x.com/minchoi/status/2045987569876316263)
+- **2026-04-19**: [[hugging-face|Hugging Face]] Launches Platform for AI Agents to Call 1M+ Spaces · [@ClementDelangue (Hugging Face CEO)](https://x.com/ClementDelangue/status/2045640413256564818)
+- **2026-04-18**: [[ollama|Ollama]] Releases v0.21.0 with Hermes Self-Learning Agent · [GitHub Release (Ollama)](https://github.com/ollama/ollama/releases/tag/v0.21.0)
+- **2026-04-17**: [[google-deepmind|Google]] Releases [[gemma|Gemma]] 4, a Flexible Model Family for Scalable Agents and Edge · [@googledevs (Google)](https://x.com/googledevs/status/2044611741842079970)
+- **2026-04-16**: [[nvidia|NVIDIA]] Releases Lyra 2.0 for Explorable Generative 3D Worlds · [arXiv (NVIDIA)](https://huggingface.co/papers/2604.13036) · [@_akhaliq (citing NVIDIA)](https://x.com/_akhaliq/status/2044444898657460475)
+- **2026-04-16**: Andrew Ng Launches New Course on Spec-Driven Development with Coding Agents · [@AndrewYNg](https://x.com/AndrewYNg/status/2044449830605582629)
+- **2026-04-16**: [[nvidia|NVIDIA]] Introduces Nemotron 3 Super: Hybrid Mamba-Transformer MoE for [[agent-frameworks|Agentic]] Reasoning · [arXiv (NVIDIA)](https://huggingface.co/papers/2604.12374) · [@_akhaliq (citing NVIDIA)](https://x.com/_akhaliq/status/2044450499898769930)
+- **2026-04-15**: [[hugging-face|Hugging Face]] Introduces 'Kernels on the Hub' for Easy GPU Kernel Deployment · [@ClementDelangue (Hugging Face CEO)](https://x.com/ClementDelangue/status/2044053580504584349)
+- **2026-04-15**: [[google-deepmind|Google]] Devs Share Five Architectural Patterns for Production-Grade AI Agents · [@googledevs (Google Developers)](https://x.com/googledevs/status/2044158757077242333)
+- **2026-04-15**: New Open LLM Leaderboard Entries Showcase Fine-Tuned [[qwen|Qwen]] Models · [Open LLM Leaderboard](https://huggingface.co/spaces/open-llm-leaderboard/open_llm_leaderboard)
+- **2026-04-14**: GitHub Trending: EcoAlign-Forge for [[multi-agent-systems|Multi-Agent]] DPO Data Synthesis · [GitHub Trending](https://github.com/dengxianghua888-ops/ecoalign-forge)
+- **2026-04-13**: MiniMax Releases 230B Open Model MiniMax-M2.7 with SOTA Performance · [@UnslothAI (Twitter)](https://x.com/UnslothAI/status/2043295159941738547) · [HuggingFace Model](https://huggingface.co/MiniMaxAI/MiniMax-M2.7)
+- **2026-04-11**: [[anthropic|Anthropic]] Launches [[claude|Claude]] Managed Agents Public Beta · [Reddit AI](https://www.reddit.com/r/artificial/comments/1si5evu/anthropic_launches_claude_managed_agents/)
+- **2026-04-11**: [[anthropic|Anthropic]] Temporarily Bans [[openclaw|OpenClaw]] Creator · [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+- **2026-04-11**: ThreadWeaver: Open-Source Parallel Thinking for LLMs · [Twitter (@tydsh)](https://x.com/tydsh/status/2042637713728508080)
+- **2026-04-10**: Unsloth AI Enables Free Fine-Tuning of [[gemma|Gemma]] 4 31B on Kaggle · [Unsloth AI on X](https://x.com/UnslothAI/status/2042269554253140048)
+- **2026-04-10**: [[nvidia|NVIDIA]] Introduces RoboLab Benchmark for Generalist [[embodied-ai|Robot]] Policies · [NVIDIA Robotics on X](https://x.com/NVIDIARobotics/status/2042407241773461942)
+- **2026-04-10**: [[hugging-face|Hugging Face]] CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects · [Clément Delangue (Hugging Face CEO) on X](https://x.com/ClementDelangue/status/2042237835487400422)
+- **2026-04-09**: [[alibaba|Alibaba]]'s Qwen3.6-Plus Tops OpenRouter Charts, Claiming High Cost-Performance · [Alibaba Qwen (@Alibaba_Qwen)](https://x.com/Alibaba_Qwen/status/2041871541080924477)
+- **2026-04-09**: PyTorch Foundation Adopts [[hugging-face|Hugging Face]]'s Safetensors for Secure Model Execution · [PyTorch (@PyTorch)](https://x.com/PyTorch/status/2041778017370845361) · [Hugging Face CEO Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2041888145587773655)
+- **2026-04-09**: [[openclaw|OpenClaw]] [[agent-frameworks|Agent Framework]] Adds Dreaming Feature and Hardens Security · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2042072722902077938)
+- **2026-04-08**: Chinese Startup Z.ai Releases Open-Source GLM-5.1, Claiming SOTA on Coding Benchmarks · [VentureBeat](https://venturebeat.com/technology/ai-joins-the-8-hour-work-day-as-glm-ships-5-1-open-source-llm-beating-opus-4) · [HuggingFace](https://huggingface.co/zai-org/GLM-5.1)
+- **2026-04-08**: PyTorch Foundation Hosts Helion Project from [[meta|Meta]] for AI Kernel Portability · [Twitter @PyTorch](https://x.com/PyTorch/status/2041415396427796603) · [Twitter @PyTorch](https://x.com/PyTorch/status/2041493450395169079)
+- **2026-04-08**: ExecuTorch Becomes Part of PyTorch Core for Efficient Edge AI Inference · [Twitter @PyTorch](https://x.com/PyTorch/status/2041484161517523160)
+- **2026-04-07**: [[ollama|Ollama]] Cloud Launches Subscription for Running [[gemma|Gemma]] 4 · [Ollama Twitter](https://x.com/ollama/status/2041238722914685336)
+- **2026-04-07**: Open-Source Project 'immortal-skill' Enables Digital Immortality from Chat Logs · [GitHub Trending](https://github.com/agenmod/immortal-skill)
+- **2026-04-06**: [[openclaw|OpenClaw]] Adds Native Video Generation with Multi-Provider Support · [Twitter @steipete](https://x.com/steipete/status/2040928953653744003)
+- **2026-04-06**: Community Builds Personal Local Coding Agent with Open-Source Stack · [Twitter @gneubig](https://x.com/gneubig/status/2040791023475908792)
+- **2026-04-05**: [[meta|Meta]] Open-Sources MCGrad for ML Model Calibration in Subgroups · [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/)
+- **2026-04-05**: Netflix Releases VOID: Video Object and Interaction Deletion Framework · [Arxiv (Netflix)](https://huggingface.co/papers/2604.02296) · [HuggingFace Model](https://huggingface.co/netflix/void-model)
+- **2026-04-05**: vLLM v0.19.0 Released with Full [[gemma|Gemma]] 4 Architecture Support · [GitHub Release (vllm-project/vllm)](https://github.com/vllm-project/vllm/releases/tag/v0.19.0)
+- **2026-04-05**: Open-Source Multi-[[agent-frameworks|Agent Framework]] 'open-multi-agent' Gains Traction · [GitHub Trending](https://github.com/JackChen-me/open-multi-agent)
+- **2026-04-04**: [[anthropic|Anthropic]] Restricts Third-Party Harnesses, Sparking Developer Backlash · [The Verge](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) · [Hacker News](https://news.ycombinator.com/item?id=47633396)
+- **2026-04-04**: Arcee Releases Open Source Trinity-Large-Thinking Model for Enterprise Customization · [VentureBeat](https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made)
+- **2026-04-03**: [[google-deepmind|Google DeepMind]] Releases [[gemma|Gemma]] 4 Under Apache 2.0, Focus on Edge Deployment · [Google AI Blog (via Jeff Dean)](https://x.com/JeffDean/status/2039748604232122707) · [VentureBeat](https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter) · [HuggingFace Transformers Release](https://github.com/huggingface/transformers/releases/tag/v5.5.0)
+- **2026-04-02**: [[alibaba|Alibaba]] [[qwen|Qwen]] Powers GrandCode to Conquer Coding Milestone · [@Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2039357046844424587)
+- **2026-04-02**: [[hugging-face|HuggingFace]] Blog: Hcompany Releases Holo3 for [[computer-use|Computer Use]] · [HuggingFace Blog](https://huggingface.co/blog/Hcompany/holo3)
+- **2026-04-01**: [[ollama|Ollama]] Major Update: MLX Integration for [[apple|Apple]] Silicon and NVFP4 Support · [Twitter @ollama](https://x.com/ollama/status/2038835449012351197)
+- **2026-03-31**: Cohere Releases Open-Weight ASR Model with 5.4% Word Error Rate · [VentureBeat](https://venturebeat.com/orchestration/coheres-open-weight-asr-model-hits-5-4-word-error-rate-low-enough-to-replace) · [HuggingFace Model (CohereLabs/cohere-transcribe-03-2026)](https://huggingface.co/CohereLabs/cohere-transcribe-03-2026)
+- **2026-03-31**: [[hugging-face|HuggingFace]] CEO Advocates for Open-Source Models in Agent Tools · [ClementDelangue Twitter](https://x.com/ClementDelangue/status/2038552830638755962)
+- **2026-03-30**: [[openclaw|OpenClaw]] [[agent-frameworks|Agent Framework]] Update Gains High Engagement · [@openclaw](https://x.com/openclaw/status/2038084923517796839)
+- **2026-03-30**: Forge-Film: DAG-Driven Parallel AI Film Generation Engine · [GitHub Trending (F-R-L/forge-film)](https://github.com/F-R-L/forge-film)
+- **2026-03-29**: [[bytedance|ByteDance]]'s LVFace Face Recognition Model Gains Community Traction · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1s6a90d/lvface_performance_vs_arcfaceresnet/)
+- **2026-03-29**: InternLM Releases WildClawBench for In-the-Wild Agent Evaluation · [GitHub (InternLM)](https://github.com/InternLM/WildClawBench)
+- **2026-03-28**: [[google-deepmind|Google]] Releases Agent Development Kit for Faster [[agent-frameworks|AI Agent]] Building · [@googledevs](https://x.com/googledevs/status/2037643322387234886)
+- **2026-03-28**: NeurIPS Reverses Policy After Backlash from Chinese Researchers Over Geopolitical Lines · [Wired](https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/) · [@NeurIPSConf](https://x.com/NeurIPSConf/status/2037438893457289364)
+- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming [[gpt|GPT-5]].4 in Customer Service · [VentureBeat](https://venturebeat.com/technology/intercoms-new-post-trained-fin-apex-1-0-beats-gpt-5-4-and-claude-sonnet-4-6) · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2037226458767143371)
+- **2026-03-27**: Chroma Open-Sources [[agent-frameworks|Agentic]] Search Agent Trained with RL · [Niels Rogge (@NielsRogge)](https://x.com/NielsRogge/status/2037278806579257849) · [John Schulman (@johnschulman2)](https://x.com/johnschulman2/status/2037260655989014706)
+- **2026-03-26**: [[cursor-ai|Cursor]] AI Enables Cloud Agents to Run on User Infrastructure · [cursor_ai](https://x.com/cursor_ai/status/2036873885665419773)
+- **2026-03-26**: PyTorch and Nebius Speed Up DeepSeek-V3 Pre-training by 41% · [PyTorch](https://x.com/PyTorch/status/2036884532104736961)
+- **2026-03-25**: Major PyPI Supply Chain Attack via litellm Library · [@karpathy](https://x.com/karpathy/status/2036487306585268612)
+- **2026-03-25**: [[hugging-face|HuggingFace]] CEO Proposes Open-Sourcing [[sora|Sora]] as [[openai|OpenAI]] Shuts Down App · [@ClementDelangue](https://x.com/ClementDelangue/status/2036548842099781694)
+- **2026-03-25**: AI2 Releases MolmoWeb: Open-Weight Visual Web Agent with 30K Human Trajectories · [VentureBeat](https://venturebeat.com/data/ai2-releases-molmoweb-an-open-weight-visual-web-agent-with-30k-human-task)
+- **2026-03-24**: [[openclaw|OpenClaw]] Releases Major Update with Plugin Marketplace and New Models · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2036043904949330407)
+- **2026-03-24**: [[nvidia|NVIDIA]] Releases OpenShell for Agent Governance · [NVIDIA AI (@NVIDIAAI)](https://x.com/NVIDIAAI/status/2036095627348615493)
+- **2026-03-24**: UnslothAI Enables RL Fine-tuning of Qwen3.5 on Consumer GPUs · [UnslothAI (@UnslothAI)](https://x.com/UnslothAI/status/2036070709903179835)
+- **2026-03-24**: [[hugging-face|HuggingFace]] CEO Proposes 'S3 for Agents' Storage Solution · [Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2036103377726145004)
+- **2026-03-23**: [[nvidia|NVIDIA]] Releases Nemotron-Cascade 2: Efficient 30B MoE Model · [HuggingFace Papers (NVIDIA)](https://huggingface.co/papers/2603.19220) · [HuggingFace Model](https://huggingface.co/nvidia/Nemotron-Cascade-2-30B-A3B)
+- **2026-03-23**: [[cursor-ai|Cursor]] Admits New Coding Model Built on Moonshot AI's Kimi · [TechCrunch](https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/)
+- **2026-03-23**: Community Concern Over [[ai-security|AI Security]] in Open-Weight Models · [GitHub Trending](https://github.com/dubermandeer/Worm-GPT-LLM-2026)
+- **2026-03-22**: Community Debate: Should AI Auto-Credit Itself in GitHub Projects? · [@emollick (Wharton 教授)](https://x.com/emollick/status/2035398018019508403) · [高互动讨论推文](https://x.com/thsottiaux/status/2035386081517133924)
+- **2026-03-21**: [[openai|OpenAI]] Launches [[codex|Codex]] for Students with $100 Credits · [@OpenAIDevs (OpenAI官方)](https://x.com/OpenAIDevs/status/2035033703274201109)
+- **2026-03-21**: [[hugging-face|HuggingFace]] CEO: [[cursor-ai|Cursor]]'s New Model Based on Kimi, Validates Chinese Open-Source Impact · [@ClementDelangue (HuggingFace CEO)](https://x.com/ClementDelangue/status/2035042945884463538)
+- **2026-03-20**: Sakana AI Introduces Doc-to-LoRA for Instant Context Internalization · [Reddit ML 社区](https://www.reddit.com/r/MachineLearning/comments/1ryew3g/r_doctolora_learning_to_instantly_internalize/)
+- **2026-03-20**: [[google-deepmind|Google]] and Kaggle Launch Community Hackathons Platform · [Google Developers](https://x.com/googledevs/status/2034706472647405606) · [HuggingFace 社区负责人](https://x.com/osanseviero/status/2034648577138426355)
+- **2026-03-20**: [[nvidia|NVIDIA]] and [[hugging-face|HuggingFace]] Introduce SPEED-Bench for Speculative Decoding · [HuggingFace Blog](https://huggingface.co/blog/nvidia/speed-bench)
+- **2026-03-19**: MiniMax Releases 'Self-Evolving' M2.7 Model for [[agent-frameworks|Agentic]] Tasks · [VentureBeat](https://venturebeat.com/technology/new-minimax-m2-7-proprietary-ai-model-is-self-evolving-and-can-perform-30-50) · [@ollama](https://x.com/ollama/status/2034351916097106424)
+- **2026-03-19**: [[google-deepmind|Google]] Releases Developer Guide for [[agent-frameworks|AI Agent]] Protocols · [@googledevs](https://x.com/googledevs/status/2034374282504015964)
+- **2026-03-19**: [[hugging-face|HuggingFace]] CEO Highlights [[agent-frameworks|Agentic]] World Challenges and Adaptations · [@ClementDelangue](https://x.com/ClementDelangue/status/2034294644800974908) · [@_akhaliq](https://x.com/_akhaliq/status/2034332776988569764) · [@ClementDelangue](https://x.com/ClementDelangue/status/2034277529981178007)
+- **2026-03-19**: Andrew Ng Launches New Course on Agent Memory with Oracle · [@AndrewYNg](https://x.com/AndrewYNg/status/2034314027678192114)
+- **2026-03-19**: PyTorch Introduces Generalized Dot-Product Attention for Recommendation Systems · [@PyTorch](https://x.com/PyTorch/status/2034311193444094207)
+- **2026-03-18**: Mistral Launches ‘Forge’ Platform for Enterprise Custom Model Training · [Mistral.ai News](https://mistral.ai/news/forge) · [TechCrunch](https://techcrunch.com/2026/03/17/mistral-forge-nvidia-gtc-build-your-own-ai-enterprise/)
+- **2026-03-18**: Unsloth AI Releases Open-Source Web UI for Fast Local LLM Training · [@UnslothAI on X](https://x.com/UnslothAI/status/2033926272481718523)
+- **2026-03-18**: [[google-deepmind|Google DeepMind]] Launches AGI Cognitive Framework Hackathon with $200K Prizes · [@GoogleDeepMind on X](https://x.com/GoogleDeepMind/status/2034014385941975298) · [@OfficialLoganK on X](https://x.com/OfficialLoganK/status/2033978254344786351)
+- **2026-03-18**: [[ollama|Ollama]] Integrates Web Search/Fetch into [[openclaw|OpenClaw]] Ecosystem · [@ollama on X](https://x.com/ollama/status/2033993519459889505) · [GitHub Release](https://github.com/ollama/ollama/releases/tag/v0.18.1)
+- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents · [@levie (Box CEO) on X](https://x.com/levie/status/2034023235654980049)
+- **2026-03-17**: Mistral Launches Leanstral: Open-Source Agent for Trustworthy Coding and Formal Proof · [Mistral.ai Blog](https://mistral.ai/news/leanstral) · [Hacker News](https://news.ycombinator.com/item?id=47404796)
+- **2026-03-17**: Andrew Ng's Context Hub (chub) Gains Massive Traction for AI Coding Agents · [@AndrewYNg (Twitter)](https://x.com/AndrewYNg/status/2033577583200354812)
+- **2026-03-17**: Z.ai Releases Proprietary GLM-5-Turbo Model for Agent Workflows · [VentureBeat](https://venturebeat.com/technology/z-ai-debuts-faster-cheaper-glm-5-turbo-model-for-agents-and-claws-but-its)
+- **2026-03-16**: [[openai|OpenAI]] [[codex|Codex]] Team Culture Emphasizes Radical Improvement · [@thsottiaux on X](https://x.com/thsottiaux/status/2033196703692820549)
+- **2026-03-16**: [[hugging-face|HuggingFace]] Trending: Lightricks LTX-2.3 Video Generation Model · [HuggingFace Model: Lightricks/LTX-2.3](https://huggingface.co/Lightricks/LTX-2.3)
+- **2026-03-16**: GitHub Trending: [[openclaw|OpenClaw]] Ecosystem Grows with Chinese Documentation · [GitHub: liyupi/openclaw-guide](https://github.com/liyupi/openclaw-guide)
+- **2026-03-15**: [[nvidia|NVIDIA]] and [[microsoft|Microsoft]] Provide Engineering Support to [[openclaw|OpenClaw]] · [@openclaw (官方账号)](https://x.com/openclaw/status/2032694713493406060) · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032675009005531237)
+- **2026-03-15**: GitHub Trending: MetaClaw Project Enables Continual Learning for Agents · [GitHub: aiming-lab/MetaClaw](https://github.com/aiming-lab/MetaClaw)
+- **2026-03-15**: [[openclaw|OpenClaw]] Ecosystem Grows: Parallel Tool Calling and New Memory Plugins · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032676333440880903) · [@steipete (OpenClaw 核心开发者)](https://x.com/steipete/status/2032861327967072671)
+- **2026-03-14**: [[nvidia|NVIDIA]] and [[ollama|Ollama]] to Host Developer Session on Local AI Agents at GTC · [@ollama (Official)](https://x.com/ollama/status/2032582008933855627)
+- **2026-03-14**: Open-Source Project zer0dex Introduces Dual-Layer Memory for Local LLM Agents · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1rt2fpb/p_zer0dex_duallayer_memory_for_local_llm_agents/)
+- **2026-03-13**: [[nvidia|NVIDIA]] Blog: How to Build a #1 Agent on DABStep with Reusable Tool Generation · [HuggingFace Blog (NVIDIA)](https://huggingface.co/blog/nvidia/nemo-agent-toolkit-data-explorer-dabstep-1st-place)
+- **2026-03-13**: [Update] [[openclaw|OpenClaw]] Releases Hunter & Healer Alpha Models with 1M Context · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2031965133405073823)
+- **2026-03-12**: [[nvidia|NVIDIA]] Releases Nemotron-3-Super: 120B Open Hybrid MoE Model with 1M Token Context · [VentureBeat](https://venturebeat.com/technology/nvidias-new-open-weights-nemotron-3-super-combines-three-different) · [Twitter @minchoi](https://x.com/minchoi/status/2031786589538427311) · [Twitter @UnslothAI](https://x.com/UnslothAI/status/2031778104306499749)
+- **2026-03-12**: VS Code Launches 'Autopilot' Preview for Fully Agent-Controlled Workflows · [Twitter @code](https://x.com/code/status/2031860212764721161)
+- **2026-03-12**: Manufact Raises $6.3M as [[mcp-protocol|MCP]] Protocol Gains Traction for [[agent-frameworks|AI Agent]] Connectivity · [VentureBeat](https://venturebeat.com/infrastructure/manufact-raises-usd6-3m-as-mcp-becomes-the-usb-c-for-ai-powering-chatgpt-and)
+- **2026-03-12**: Chinese [[openclaw|OpenClaw]] Craze Sparks Startup Gold Rush and Installation Services · [MIT Technology Review](https://www.technologyreview.com/2026/03/11/1134179/china-openclaw-gold-rush/) · [Twitter @khoomeik](https://x.com/khoomeik/status/2031797300457263106)
+- **2026-03-11**: Yann LeCun Launches AMI Labs with Record $1B+ Seed Round · [Yann LeCun (Meta 首席 AI 科学家)](https://x.com/ylecun/status/2031268686984527936) · [Wharton 教授 Ethan Mollick 评论](https://x.com/emollick/status/2031273042962251972)
+- **2026-03-11**: LangGraph Releases v1.1 with Type-Safe Streaming and Enhanced Subgraph Support · [LangGraph GitHub Release](https://github.com/langchain-ai/langgraph/releases/tag/1.1.0)
+- **2026-03-11**: Unsloth AI Releases Comprehensive Repo with 250+ LLM Training Notebooks · [Unsloth AI 官方账号](https://x.com/UnslothAI/status/2031371292495196400)
+- **2026-03-10**: [[nvidia|NVIDIA]] to Launch Open-Source [[agent-frameworks|AI Agent]] Platform · [Wired](https://www.wired.com/story/nvidia-planning-ai-agent-platform-launch-open-source/)
+- **2026-03-10**: Andrew Ng Releases Context Hub for Up-to-Date API Docs in Coding Agents · [@AndrewYNg](https://x.com/AndrewYNg/status/2031051809499054099)
+- **2026-03-09**: SkillNet: Open Infrastructure for Creating and Evaluating [[agent-frameworks|AI Agent]] Skills at Scale · [Omar S. (@omarsar0)](https://x.com/omarsar0/status/2030692286317961280)
+- **2026-03-09**: Community Releases 100 Production-Ready [[openclaw|OpenClaw]] [[agent-frameworks|AI Agent]] Configs · [Reddit r/artificial](https://www.reddit.com/r/artificial/comments/1roq2su/100_productionready_ai_agent_configs_that/)
+- **2026-02-25**: Systematic Prefill Attack Vulnerability Found in 50 Open-Weight LLMs · [Reddit ML](https://www.reddit.com/r/MachineLearning/comments/1reajw4/r_systematic_vulnerability_in_openweight_llms/)
+- **2026-02-25**: [[alibaba|Alibaba]] [[qwen|Qwen]] Releases New 3.5 Medium Model Series with MoE Architecture · [Twitter @Alibaba_Qwen](https://x.com/Alibaba_Qwen/status/2026339351530188939) · [HuggingFace](https://huggingface.co/Qwen/Qwen3.5-35B-A3B)

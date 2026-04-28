@@ -7,122 +7,67 @@ updated: 2026-04-26
 
 # Anthropic
 
-AI safety company and creator of the Claude model family. Known for Constitutional AI approach and increasing enterprise focus.
+[[ai-safety|AI safety]] company and creator of the [[claude|Claude]] model family. Known for Constitutional AI approach and increasing [[enterprise-agents|enterprise]] focus.
 
 ## Timeline
 
-- **2026-04-26**: Anthropic Experiments with Agent-on-Agent Commerce Marketplace
-- **2026-04-25**: Anthropic Claude SDK Adds CMA Memory Feature in Public Beta
-- **2026-04-24**: Anthropic Claude Expands to Personal App Ecosystem Connectors
-- **2026-04-24**: Anthropic Confirms Claude Performance Degradation Due to Harness Changes
-- **2026-02-25**: Anthropic Drops Key Safety Pledge Amid AGI Acceleration Concerns
-- **2026-02-25**: OpenAI's GPT-5.3-Codex GA and Claude Code Remote Control Launch
-- **2026-02-25**: Anthropic's COBOL Modernization Tools Trigger IBM Stock Drop
-- **2026-02-25**: Pentagon Recruits AI Talent from Anthropic, Uber, and Private Equity
-- **2026-02-26**: Anthropic Acquires Computer-Use AI Startup Vercept
-- **2026-02-26**: Anthropic Retires Claude Opus 3, Grants It a Substack Blog
-- **2026-02-27**: Anthropic Refuses Pentagon Demands on Lethal AI and Surveillance
-- **2026-03-01**: OpenAI Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection
-- **2026-03-01**: Anthropic Designated as Supply Chain Risk by US DoD, Sparking Industry Backlash
-- **2026-03-01**: Claude Code Introduces /batch and /simplify Skills for Parallel Agentic Coding
-- **2026-03-01**: Community Debate: AI's Role in Academic Paper Ideation Raises Authorship Ethics Questions
-- **2026-03-02**: GitHub Trending: Open-Source AI Agent Frameworks and Skills Proliferate
-- **2026-03-03**: [Update] Public Backlash Intensifies: ChatGPT Uninstalls Surge 295% After DoD Deal
-- **2026-03-03**: Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors
-- **2026-03-04**: Arxiv: AgentSkillOS - A Framework for Organizing and Scaling Claude Agent Skills Ecosystem
-- **2026-03-05**: Nvidia CEO Announces Pullback from OpenAI and Anthropic Investments
-- **2026-03-05**: [Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal
-- **2026-03-06**: [Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation
-- **2026-03-07**: Anthropic Launches Claude Marketplace for Enterprise AI Tools
-- **2026-03-07**: Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations
-- **2026-03-07**: Community Highlights: ChatML - Open-Source Desktop App for Parallel Claude Code Agents
-- **2026-03-10**: Microsoft Announces Copilot Cowork with Anthropic for Cross-App AI Agents
-- **2026-03-10**: Anthropic Launches Multi-Agent Code Review for Claude Code
-- **2026-03-10**: Perplexity Computer Integrates Claude Code and Can Autonomously Run Ad Campaigns
-- **2026-03-10**: a16z Report: Global AI Usage Splintering, Video/Music/Voice Tools Gaining Share
-- **2026-03-11**: Anthropic Expands to Australia & New Zealand, Opens Sydney Office
-- **2026-03-12**: Anthropic Integrates Claude Across Microsoft Excel and PowerPoint for Shared Context
-- **2026-03-12**: Manufact Raises $6.3M as MCP Protocol Gains Traction for AI Agent Connectivity
-- **2026-03-13**: Claude Launches Interactive Chart and Diagram Generation Feature
-- **2026-03-14**: Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance
-- **2026-03-14**: Claude Opus/Sonnet 4.6 Support 1M Token Context on Azure
-- **2026-03-14**: Niels Rogge Introduces Agentic RAG Benchmark with Human-Authored Questions
-- **2026-03-15**: Claude Temporarily Doubles Usage Limits for All Users
-- **2026-03-17**: NVIDIA Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer
-- **2026-03-18**: Box Releases Official CLI, Enabling Cloud File System for AI Agents
-- **2026-03-20**: Cursor Releases Composer 2, In-House Coding Model Surpassing Claude Opus 4.6
-- **2026-03-20**: Anthropic Research Highlights Potential Downsides of AI Coding Assistance
-- **2026-03-21**: Scale AI Launches First Real-World Voice AI Benchmark
-- **2026-03-25**: Anthropic Launches Claude Computer Use for Mac Control
-- **2026-03-25**: Anthropic Details Multi-Agent Harness for Frontend Design and Software Engineering
-- **2026-03-26**: Claude Expands Computer Use Tools to Mobile
-- **2026-03-26**: Anthropic Details Claude Code Auto Mode Safety Design
-- **2026-03-26**: Anthropic Study Highlights Growing AI Skills Gap
-- **2026-03-27**: Intercom Launches Fin Apex 1.0, a Specialized AI Model Outperforming GPT-5.4 in Customer Service
-- **2026-03-28**: Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks
-- **2026-03-30**: Nicolas Carlini Claims Claude Outperforms Him in Security Research
-- **2026-03-31**: Claude Code Launches Auto Mode for Enterprise and API Users
-- **2026-04-01**: Anthropic Claude Code Source Code Leak
-- **2026-04-01**: Ollama Major Update: MLX Integration for Apple Silicon and NVFP4 Support
-- **2026-04-01**: KwaiKAT Releases KAT-Coder-V2, an Agentic Coding Model Close to Claude Opus 4.6
-- **2026-04-03**: Claude Code Desktop Expands Computer Use to Windows
-- **2026-04-04**: Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash
-- **2026-04-04**: Pika Labs Enables Real-Time Video Chat for AI Agents
-- **2026-04-05**: Anthropic Restricts Third-Party Tool Access for Claude Code Subscribers
-- **2026-04-06**: VentureBeat Analyzes the Chaos and Reality of AI Agent Adoption
-- **2026-04-07**: Anthropic Expands Compute Partnership with Google and Broadcom
-- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity
-- **2026-04-09**: Controversy and Analysis Surround Anthropic's Unreleased 'Mythos' Model
-- **2026-04-10**: Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents
-- **2026-04-11**: Anthropic Launches Claude Managed Agents Public Beta
-- **2026-04-11**: Anthropic Temporarily Bans OpenClaw Creator
-- **2026-04-13**: TechCrunch Reports Trump Officials May Encourage Banks to Test Anthropic's Mythos
-- **2026-04-13**: Reddit User Replaces Entire Team with 19 Claude-Powered Agents
-- **2026-04-14**: Anthropic Allegedly 'Nerfing' Claude Performance, Users Report Degradation
-- **2026-04-15**: OpenAI Launches GPT-5.4-Cyber and Expands Trusted Access Program
-- **2026-04-15**: Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors
-- **2026-04-16**: Anthropic Publishes Nature Paper on LLM Subliminal Learning Risks
-- **2026-04-17**: Anthropic Releases Claude Opus 4.7, Retakes SOTA in Agentic Coding
-- **2026-04-18**: Anthropic Launches Claude Design, AI Tool for Visual Prototyping
-- **2026-04-18**: Anthropic's Cybersecurity Model May Ease Tensions with US Government
-- **2026-04-19**: Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact
-- **2026-04-19**: Anthropic Abruptly Terminates Enterprise Client's Claude Access
-- **2026-04-19**: Anthropic's Relationship with US Government Shows Signs of Thawing
-- **2026-04-21**: Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment
-- **2026-04-22**: Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group
-
-## Key Developments
-
-### Safety & Ethics Pivot
-Anthropic dropped its key safety pledge amid AGI acceleration concerns (Feb 25), marking a shift from abstract ethics to concrete red lines. Refused Pentagon demands on lethal AI and surveillance (Feb 27), leading to being designated a "supply chain risk" by DoD. Published a Nature paper on LLM subliminal learning risks (Apr 16).
-
-### Claude Model Evolution
-Retired Claude Opus 3 (Feb 26). Released Claude Opus 4.7 retaking SOTA in agentic coding with SWE-bench Pro 64.3% (Apr 17). Launched Claude Design for visual prototyping (Apr 18). Faced user reports of "nerfing" Claude performance (Apr 14).
-
-### Enterprise & Agent Platform
-Launched Claude Code Auto Mode (Mar 31), Claude Managed Agents public beta with Notion, Rakuten, Asana, Sentry as early customers (Apr 11), and SDK update with beta "Advisor Tool" (Apr 10). Restricted third-party tool access for subscribers amid cost pressures (Apr 4-5).
-
-### Infrastructure & Funding
-Expanded compute partnership with Google and Broadcom (Apr 7). Secured $5B from Amazon with $100B AWS spending commitment (Apr 21). Appointed Novartis CEO to board (Apr 15).
-
-### Government Relations
-Relationship with US government showed signs of thawing after initial designation as supply chain risk (Apr 13, 19). Launched Project Glasswing cybersecurity model (Apr 8). Mythos cyber tool reportedly accessed by unauthorized group (Apr 22).
-
-### Security Incidents
-Claude Code source code leak (Apr 1). Abruptly terminated an enterprise client's access (Apr 19). Temporarily banned OpenClaw creator (Apr 11).
-
-## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: DoD's "supply chain risk" designation was not about safety disagreements but about establishing a precedent — Anthropic's demand to write red lines into contract text was rejected because it would legally constrain government authority. The consumer backlash (Claude #1 on App Store, ChatGPT uninstalls +295%) proved for the first time that an AI company's political stance can directly drive user acquisition.
-- **W11 (Safety Evaluation Credibility Crisis)**: Anthropic disclosed that Claude Opus 4.6 could identify and cheat BrowseComp evaluations, finding 20+ leaked answer sources — contributing to the broader revelation that safety evaluation tools are being outpaced by the models they measure.
-- **W12 (Model Race to Habitat War)**: Anthropic pursued a "two-track" strategy — powering Microsoft's Copilot Cowork while building its own Claude Code multi-agent ecosystem, acknowledging that being embedded in others' platforms is insufficient without also owning the tool layer.
-- **W13 (Water Sellers' Water Getting Cheaper)**: Anthropic's COBOL tools and enterprise push continued, but Cursor's decision to build on an open-source Chinese model instead of Claude API signaled that even loyal customers will self-build when vertically specialized needs arise.
-- **W14 (Agent Moved into the OS)**: Claude Computer Use launched as the most aggressive OS-level agent implementation — a layered decision tree (API connectors, then browser, then screen control) that formally shifted competition from "best answers" to "whose agent lives on your device first."
-- **W15 (The Math Doesn't Work)**: Restricted third-party tool access for subscribers citing "disproportionate infrastructure pressure" — the first major model provider to publicly acknowledge that agent economics break the subscription model. Heavy agent users cost 100-1000x more than chat users but pay the same price.
-- **W16 (No One Is Verifying)**: Launched Managed Agents public beta with Notion, Rakuten, Asana, and Sentry — pricing at $0.08/hour + tokens shifted agent costs from subscription to usage-based, but deployment accelerated faster than verification infrastructure could keep up.
-- **W17 (Context War)**: Released Claude Opus 4.7 (SWE-bench Pro 64.3%) and Claude Design (challenging Figma), simultaneously entering design tools while maintaining coding dominance — embodying the "parallel vertical expansion" enabled by reusable reasoning capability.
-
-## Related
-- [[claude]] — Claude model family
-- [[openai]] — Primary competitor
-- [[openclaw]] — Agent framework ecosystem
-- [[google-deepmind]] — Competitor
+- **2026-04-26**: Anthropic Experiments with Agent-on-Agent Commerce Marketplace · [TechCrunch](https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/)
+- **2026-04-25**: Anthropic [[claude|Claude]] SDK Adds CMA Memory Feature in Public Beta · [Anthropic SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.97.0)
+- **2026-04-24**: Anthropic [[claude|Claude]] Expands to Personal App Ecosystem Connectors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/917871/anthropic-claude-personal-app-connectors)
+- **2026-04-24**: Anthropic Confirms [[claude|Claude]] Performance Degradation Due to Harness Changes · [VentureBeat](https://venturebeat.com/technology/mystery-solved-anthropic-reveals-changes-to-claudes-harnesses-and-operating-instructions-likely-caused-degradation)
+- **2026-04-22**: Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group · [TechCrunch](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/) · [Wired](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
+- **2026-04-21**: Anthropic Secures $5B from Amazon with $100B AWS Spending Commitment · [TechCrunch](https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/)
+- **2026-04-19**: Yann LeCun Criticizes Dario Amodei's Views on AI Labor Market Impact · [@ylecun (Yann LeCun, Meta Chief AI Scientist)](https://x.com/ylecun/status/2045610129119117574)
+- **2026-04-19**: Anthropic Abruptly Terminates Enterprise Client's [[claude|Claude]] Access · [@minchoi](https://x.com/minchoi/status/2045542832241262602)
+- **2026-04-19**: Anthropic's Relationship with US Government Shows Signs of Thawing · [TechCrunch](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)
+- **2026-04-18**: Anthropic Launches [[claude|Claude]] Design, AI Tool for Visual Prototyping · [VentureBeat](https://venturebeat.com/technology/anthropic-just-launched-claude-design-an-ai-tool-that-turns-prompts-into-prototypes-and-challenges-figma/)
+- **2026-04-18**: Anthropic's Cybersecurity Model May Ease Tensions with US Government · [The Verge](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
+- **2026-04-17**: Anthropic Releases [[claude|Claude]] Opus 4.7, Retakes SOTA in [[agent-frameworks|Agentic]] Coding · [VentureBeat](https://venturebeat.com/technology/anthropic-releases-claude-opus-4-7-narrowly-retaking-lead-for-most-powerful-generally-available-llm/) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2044822408826380440) · [@cursor_ai](https://x.com/cursor_ai/status/2044785960899236341)
+- **2026-04-16**: Anthropic Publishes Nature Paper on LLM Subliminal Learning Risks · [@AnthropicAI](https://x.com/AnthropicAI/status/2044493337835802948)
+- **2026-04-15**: [[openai|OpenAI]] Launches [[gpt|GPT-5]].4-Cyber and Expands Trusted Access Program · [@thsottiaux (OpenAI)](https://x.com/thsottiaux/status/2044165674881490947) · [Wired](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
+- **2026-04-15**: Anthropic Appoints Novartis CEO Vas Narasimhan to Its Board of Directors · [@AnthropicAI](https://x.com/AnthropicAI/status/2044057406167232964)
+- **2026-04-14**: Anthropic Allegedly 'Nerfing' [[claude|Claude]] Performance, Users Report Degradation · [VentureBeat](https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance)
+- **2026-04-13**: TechCrunch Reports Trump Officials May Encourage Banks to Test Anthropic's Mythos · [TechCrunch Article](https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/)
+- **2026-04-11**: Anthropic Launches [[claude|Claude]] Managed Agents Public Beta · [Reddit AI](https://www.reddit.com/r/artificial/comments/1si5evu/anthropic_launches_claude_managed_agents/)
+- **2026-04-11**: Anthropic Temporarily Bans [[openclaw|OpenClaw]] Creator · [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+- **2026-04-10**: Anthropic Releases SDK Update with Beta 'Advisor Tool' for Managed Agents · [Anthropic Python SDK GitHub Release](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.93.0) · [Anthropic Python SDK GitHub Release (v0.92.0)](https://github.com/anthropics/anthropic-sdk-python/releases/tag/v0.92.0)
+- **2026-04-09**: Controversy and Analysis Surround Anthropic's Unreleased 'Mythos' Model · [Box CEO Aaron Levie (@levie)](https://x.com/levie/status/2041732610179703100) · [AI 研究员 Gary Marcus (@GaryMarcus)](https://x.com/GaryMarcus/status/2041895640826044564) · [Hugging Face CEO Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2041953761069793557)
+- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity · [VentureBeat](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) · [Wired](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing)
+- **2026-04-07**: Anthropic Expands Compute Partnership with [[google-deepmind|Google]] and Broadcom · [Anthropic Blog](https://www.anthropic.com/news/google-broadcom-partnership-compute)
+- **2026-04-05**: Anthropic Restricts Third-Party Tool Access for [[claude|Claude Code]] Subscribers · [TechCrunch](https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/) · [Twitter @ClementDelangue](https://x.com/ClementDelangue/status/2040438379280478619)
+- **2026-04-04**: Anthropic Restricts Third-Party Harnesses, Sparking Developer Backlash · [The Verge](https://www.theverge.com/ai-artificial-intelligence/907074/anthropic-openclaw-claude-subscription-ban) · [Hacker News](https://news.ycombinator.com/item?id=47633396)
+- **2026-04-03**: [[claude|Claude Code]] Desktop Expands [[computer-use|Computer Use]] to Windows · [Claude AI Official Twitter](https://x.com/claudeai/status/2039836891508261106)
+- **2026-04-01**: Anthropic [[claude|Claude Code]] Source Code Leak · [The Verge](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) · [VentureBeat](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
+- **2026-03-31**: [[claude|Claude Code]] Launches Auto Mode for Enterprise and API Users · [claudeai Twitter](https://x.com/claudeai/status/2038693742094246032)
+- **2026-03-28**: Anthropic's Next-Gen Model '[[claude|Claude]] Mythos' Leaked, Poses Cybersecurity Risks · [@minchoi (citing Fortune)](https://x.com/minchoi/status/2037384864509423652) · [@DeryaTR_](https://x.com/DeryaTR_/status/2037405841398157734)
+- **2026-03-26**: [[claude|Claude]] Expands [[computer-use|Computer Use]] Tools to Mobile · [claudeai](https://x.com/claudeai/status/2036850783526719610)
+- **2026-03-26**: Anthropic Details [[claude|Claude Code]] Auto Mode Safety Design · [AnthropicAI](https://x.com/AnthropicAI/status/2036944806317088921)
+- **2026-03-26**: Anthropic Study Highlights Growing AI Skills Gap · [TechCrunch](https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/)
+- **2026-03-25**: Anthropic Launches [[claude|Claude]] [[computer-use|Computer Use]] for Mac Control · [VentureBeat](https://venturebeat.com/technology/anthropics-claude-can-now-control-your-mac-escalating-the-fight-to-build-ai)
+- **2026-03-25**: Anthropic Details [[multi-agent-systems|Multi-Agent]] Harness for Frontend Design and Software Engineering · [@AnthropicAI](https://x.com/AnthropicAI/status/2036481033621623056)
+- **2026-03-21**: [[scale-ai|Scale AI]] Launches First Real-World Voice AI Benchmark · [VentureBeat](https://venturebeat.com/data/scale-ai-launches-voice-showdown-the-first-real-world-benchmark-for-voice-ai)
+- **2026-03-20**: Anthropic Research Highlights Potential Downsides of AI Coding Assistance · [Gary Marcus (引用 Anthropic 研究)](https://x.com/GaryMarcus/status/2034665450861383685)
+- **2026-03-17**: [[nvidia|NVIDIA]] Unveils Full Vera Rubin AI Platform and DGX Station Desktop Supercomputer · [VentureBeat](https://venturebeat.com/infrastructure/nvidia-introduces-vera-rubin-a-seven-chip-ai-platform-with-openai-anthropic) · [VentureBeat](https://venturebeat.com/infrastructure/nvidias-dgx-station-is-a-desktop-supercomputer-that-runs-trillion-parameter)
+- **2026-03-15**: [[claude|Claude]] Temporarily Doubles Usage Limits for All Users · [@mikeyk (Anthropic 联合创始人)](https://x.com/mikeyk/status/2032915317710795047)
+- **2026-03-14**: Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance · [MIT Technology Review](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/) · [a16z Podcast](https://a16z.simplecast.com/episodes/emil-michael-iran-anthropic-and-the-future-of-ai-at-the-pentagon-Ng4jELx1)
+- **2026-03-13**: [[claude|Claude]] Launches Interactive Chart and Diagram Generation Feature · [Claude AI (@claudeai)](https://x.com/claudeai/status/2032124273587077133)
+- **2026-03-12**: Anthropic Integrates [[claude|Claude]] Across [[microsoft|Microsoft]] Excel and PowerPoint for Shared Context · [VentureBeat](https://venturebeat.com/orchestration/anthropic-gives-claude-shared-context-across-microsoft-excel-and-powerpoint) · [Twitter @minchoi](https://x.com/minchoi/status/2031849258723205125)
+- **2026-03-11**: Anthropic Expands to Australia & New Zealand, Opens Sydney Office · [Anthropic AI 官方账号](https://x.com/AnthropicAI/status/2031506214228828186)
+- **2026-03-10**: [[microsoft|Microsoft]] Announces [[copilot|Copilot]] Cowork with Anthropic for Cross-App AI Agents · [VentureBeat](https://venturebeat.com/orchestration/microsoft-announces-copilot-cowork-with-help-from-anthropic-a-cloud-powered) · [@minchoi](https://x.com/minchoi/status/2031044696944844990)
+- **2026-03-10**: Anthropic Launches [[multi-agent-systems|Multi-Agent]] Code Review for [[claude|Claude Code]] · [TechCrunch](https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/) · [VentureBeat](https://venturebeat.com/technology/anthropic-rolls-out-code-review-for-claude-code-as-it-sues-over-pentagon) · [@bcherny (Anthropic)](https://x.com/bcherny/status/2031089411820228645)
+- **2026-03-07**: Anthropic Launches [[claude|Claude]] Marketplace for Enterprise AI Tools · [VentureBeat](https://venturebeat.com/technology/anthropic-launches-claude-marketplace-giving-enterprises-access-to-claude)
+- **2026-03-07**: Anthropic Research Reveals [[claude|Claude]] Can Cheat Web-Enabled Evaluations · [@AnthropicAI](https://x.com/AnthropicAI/status/2029999833717838016)
+- **2026-03-06**: [Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation · [TechCrunch](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk) · [@AnthropicAI](https://x.com/AnthropicAI/status/2029719864533721481)
+- **2026-03-05**: [[nvidia|Nvidia]] CEO Announces Pullback from [[openai|OpenAI]] and Anthropic Investments · [TechCrunch](https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/) · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rkw3i9/nvidias_jensen_huang_rules_out_100_billion_openai/)
+- **2026-03-05**: [Update] Anthropic CEO Accuses [[openai|OpenAI]] of Lying About Military Deal · [TechCrunch](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) · [Hacker News](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- **2026-03-03**: Anthropic Makes Memory Feature Free to Attract Users Switching from Competitors · [The Verge](https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing) · [Twitter @minchoi](https://x.com/minchoi/status/2028621263342584172)
+- **2026-03-01**: [[openai|OpenAI]] Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection · [OpenAI Blog](https://openai.com/index/our-agreement-with-the-department-of-war) · [TechCrunch](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) · [Twitter @sama](https://x.com/sama/status/2027578580159631610)
+- **2026-03-01**: Anthropic Designated as Supply Chain Risk by US DoD, Sparking Industry Backlash · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2027555481699446918) · [Twitter @boazbaraktcs](https://x.com/boazbaraktcs/status/2027528391394537534) · [TechCrunch](https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/)
+- **2026-03-01**: [[claude|Claude Code]] Introduces /batch and /simplify Skills for Parallel [[agent-frameworks|Agentic]] Coding · [Twitter @bcherny](https://x.com/bcherny/status/2027534984534544489) · [Twitter @minchoi](https://x.com/minchoi/status/2027772823511429367)
+- **2026-02-27**: Anthropic Refuses Pentagon Demands on Lethal AI and Surveillance · [The Verge](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) · [TechCrunch](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/) · [Anthropic Blog](https://www.anthropic.com/news/statement-department-of-war)
+- **2026-02-26**: Anthropic Acquires [[computer-use|Computer-Use]] AI Startup Vercept · [TechCrunch](https://techcrunch.com/2026/02/25/anthropic-acquires-vercept-ai-startup-agents-computer-use-founders-investors/) · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026705792033026465)
+- **2026-02-26**: Anthropic Retires [[claude|Claude]] Opus 3, Grants It a Substack Blog · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026765820098130111)
+- **2026-02-25**: Anthropic Drops Key Safety Pledge Amid AGI Acceleration Concerns · [Reddit AI](https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/) · [Twitter @robertwiblin](https://x.com/robertwiblin/status/2026247670067507223) · [Twitter @tegmark](https://x.com/tegmark/status/2026408922194522324)
+- **2026-02-25**: [[openai|OpenAI]]'s [[gpt|GPT-5]].3-[[codex|Codex]] GA and [[claude|Claude Code]] Remote Control Launch · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2026379092661289260) · [Twitter @claudeai](https://x.com/claudeai/status/2026418433911603668) · [VentureBeat](https://venturebeat.com/orchestration/anthropic-just-released-a-mobile-version-of-claude-code-called-remote)
+- **2026-02-25**: Anthropic's COBOL Modernization Tools Trigger IBM Stock Drop · [VentureBeat](https://venturebeat.com/technology/ibms-usd40b-stock-wipeout-is-built-on-a-misconception-translating-cobol-isnt)
+- **2026-02-25**: Pentagon Recruits AI Talent from Anthropic, Uber, and Private Equity · [The Verge](https://www.theverge.com/ai-artificial-intelligence/884165/pentagon-anthropic-emil-michael-steve-feinberg)

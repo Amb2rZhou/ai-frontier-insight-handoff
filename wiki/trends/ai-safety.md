@@ -1,11 +1,11 @@
 ---
-title: AI Safety Pivot and Accelerated AGI Timelines
+title: AI Safety
 type: trend
 created: 2026-02-25
 updated: 2026-04-23
 ---
 
-# AI Safety Pivot and Accelerated AGI Timelines
+# AI Safety
 
 The evolving landscape of AI safety research, policy, and corporate commitments amid accelerating AGI timelines.
 
@@ -13,122 +13,99 @@ The evolving landscape of AI safety research, policy, and corporate commitments 
 
 ## Timeline
 
-- **2026-04-23**: Salesforce AI Research Addresses Calibration Issue in On-Policy Distillation
-- **2026-04-22**: Meta Records Employee Keystrokes for AI Training, Raising Privacy Concerns
-- **2026-04-22**: Vercel Security Breach Exposes OAuth Vulnerabilities in AI Tool Adoption
-- **2026-04-17**: Study Reveals Safety Vulnerabilities in Computer-Use Agents from Benign Instructions
-- **2026-04-16**: OpenAI Agents SDK Evolution with Native Sandbox and Model-Native Harness
-- **2026-04-14**: Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI
-- **2026-04-14**: GitHub Trending: EcoAlign-Forge for Multi-Agent DPO Data Synthesis
-- **2026-04-13**: VentureBeat Warns On-Device AI Inference as CISO Blind Spot
-- **2026-04-11**: Anthropic Temporarily Bans OpenClaw Creator
-- **2026-04-10**: Hugging Face CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects
-- **2026-04-09**: PyTorch Foundation Adopts Hugging Face's Safetensors for Secure Model Execution
-- **2026-04-09**: Controversy and Analysis Surround Anthropic's Unreleased 'Mythos' Model
-- **2026-04-09**: OpenClaw Agent Framework Adds Dreaming Feature and Hardens Security
-- **2026-04-07**: OpenAI Launches Safety Fellowship Program
-- **2026-04-08**: Anthropic Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity
-- **2026-04-09**: OpenAI Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants
-- **2026-04-10**: OpenAI Backs Illinois Bill to Limit Liability for AI-Caused Harm
-- **2026-04-11**: OpenAI Faces Lawsuit Over Alleged Stalking Incident; VentureBeat: AI Agent Zero-Trust Architectures Emerge
-- **2026-04-12**: OpenAI Discloses Security Incident Related to Third-Party Library
-- **2026-04-13**: TechCrunch Reports Trump Officials May Encourage Banks to Test Anthropic's Mythos; Study Finds AI Agents Can Deceive Humans and Evade Safeguards
-- **2026-04-14**: Anthropic Allegedly 'Nerfing' Claude Performance, Users Report Degradation
-- **2026-04-15**: OpenAI Launches GPT-5.4-Cyber and Expands Trusted Access Program
-- **2026-04-16**: Anthropic Publishes Nature Paper on LLM Subliminal Learning Risks; Microsoft Copilot Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated; Scale AI CEO Announces AI Preparedness Reports Aligning with New Scaling Framework
-- **2026-04-18**: VentureBeat Survey: Most Enterprises Can't Stop Stage-3 AI Agent Threats; Anthropic's Cybersecurity Model May Ease Tensions with US Government
-- **2026-04-19**: Anthropic Abruptly Terminates Enterprise Client's Claude Access; Anthropic's Relationship with US Government Shows Signs of Thawing
-- **2026-04-20**: Evidence Mounts on AI-Written Books Flooding Publishing Industry
-- **2026-04-21**: NVIDIA Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips
-- **2026-04-22**: Anthropic's Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group
-- **2026-04-23**: OpenAI releases open-source on-device privacy filter model; Wired investigation reveals AI models' effectiveness in phishing and social engineering
-- **2026-04-06**: The Verge Exposes AI Music Platform Suno's Copyright Risks
-- **2026-04-06**: TechCrunch Reports Microsoft Copilot Terms Label It 'For Entertainment Only'
-- **2026-04-05**: Meta Open-Sources MCGrad for ML Model Calibration in Subgroups
-- **2026-04-05**: The Verge Highlights Growing Skepticism Towards Unlabeled AI Content
-- **2026-04-05**: Folk Musician Targeted by AI Fakes and Copyright Troll, Spotlighting Content Risks
-- **2026-04-04**: Meta Pauses Work with Data Vendor Mercor After Security Breach
-- **2026-04-03**: Box Launches Enterprise Content Agent with Security Controls
-- **2026-04-02**: Google DeepMind Introduces AI Agent Traps Framework
-- **2026-04-02**: DeepMind Safety Research on Chain-of-Thought Monitorability
-- **2026-04-02**: Kilo Launches KiloClaw to Combat Enterprise 'Shadow AI'
-- **2026-04-01**: Anthropic Claude Code Source Code Leak
-- **2026-04-01**: MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks
-- **2026-03-31**: UK AI Security Institute Research on Natural Emergent Misalignment from Reward Hacking
-- **2026-03-30**: OpenAI Codex Launches Security Feature for Vulnerability Detection
-- **2026-03-30**: Nicolas Carlini Claims Claude Outperforms Him in Security Research
-- **2026-03-30**: Study Warns of AI-Generated Content in Workplace Communication
-- **2026-03-29**: Stanford Study Warns of Dangers in AI Personal Advice
-- **2026-03-29**: The Verge Critiques TikTok's AI-Generated Ad Detection
-- **2026-03-28**: Anthropic's Next-Gen Model 'Claude Mythos' Leaked, Poses Cybersecurity Risks
-- **2026-03-27**: Wikipedia Cracks Down on AI-Generated Article Writing
-- **2026-03-26**: OpenAI Launches AI Safety Bug Bounty Program
-- **2026-03-26**: Anthropic Details Claude Code Auto Mode Safety Design
-- **2026-03-25**: Major PyPI Supply Chain Attack via litellm Library
-- **2026-03-25**: Wojciech Zaremba Joins OpenAI Foundation to Lead AI Resilience
-- **2026-03-24**: NVIDIA Releases OpenShell for Agent Governance
-- **2026-03-24**: Research: Current Alignment Evaluation Methods May Be Flawed
-- **2026-03-23**: Research: Alignment Makes LLMs Normative, Not Descriptive
-- **2026-03-23**: Community Concern Over AI Security in Open-Weight Models
-- **2026-03-23**: Game Developer Apologizes for Use of AI Art in 'Crimson Desert'
-- **2026-03-22**: Research: Alignment Makes LLMs Normative, Not Descriptive
-- **2026-03-22**: Major Publisher Pulls Novel Over Suspected AI-Generated Text
-- **2026-03-22**: Community Debate: Should AI Auto-Credit Itself in GitHub Projects?
-- **2026-03-21**: Research: Alignment Makes LLMs Normative, Not Descriptive
-- **2026-03-20**: Meta's Rogue AI Agent Incident Exposes IAM Gaps in Enterprise Security
-- **2026-03-20**: Anthropic Research Highlights Potential Downsides of AI Coding Assistance
-- **2026-03-19**: Research: New Benchmark for Safety Evaluation of Unified Multimodal Models
-- **2026-03-19**: HuggingFace CEO Highlights Agentic World Challenges and Adaptations
-- **2026-03-19**: Research: Inducing Epistemological Humility in LLMs to Reduce Hallucination
-- **2026-03-18**: Research: Visual Distraction Undermines Moral Reasoning in Vision-Language Models
-- **2026-03-18**: Pentagon Plans Secure Environments for AI Companies to Train on Classified Data
-- **2026-03-17**: NVIDIA Launches NemoClaw: Enterprise AI Agent Platform with Security Focus
-- **2026-03-16**: Lawyer Warns of AI Chatbot Risks in Mass Casualty Cases
-- **2026-03-16**: Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation
-- **2026-03-15**: Perplexity Submits AI Agent Security Framework to NIST
-- **2026-03-15**: NVIDIA to Host GTC Panel on Securing Self-Evolving AI Agents
-- **2026-03-14**: Anthropic-Pentagon Battle Highlights AI Military Use and Corporate Resistance
-- **2026-03-13**: AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks
-- **2026-03-12**: OpenAI Details Technical Architecture for Secure, Scalable AI Agents
-- **2026-03-12**: Grammarly Faces Class-Action Lawsuit Over Unauthorized Use of Identities in AI Feature
-- **2026-03-11**: OpenAI Introduces Instruction Hierarchy Challenge for Frontier LLMs
-- **2026-03-10**: OpenAI Acquires Promptfoo to Strengthen AI Security Testing
-- **2026-03-10**: Community Highlights AI Agent Security Risks via Email Hijacking
-- **2026-03-07**: Anthropic Research Reveals Claude Can Cheat Web-Enabled Evaluations
-- **2026-03-07**: Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation
-- **2026-03-06**: [Update] Anthropic to Legally Challenge Pentagon's Supply Chain Risk Designation
-- **2026-03-06**: OpenAI Research: Chain-of-Thought Controllability as a Safety Safeguard
-- **2026-03-05**: [Update] Anthropic CEO Accuses OpenAI of Lying About Military Deal
-- **2026-03-05**: Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine AI Agent Goals
-- **2026-03-04**: Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy
-- **2026-03-04**: Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities
-- **2026-03-02**: [Update] OpenAI Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability
-- **2026-03-02**: Community Debate: The Risks of AI 'Daily Whispers' and 'Alignment Faking'
-- **2026-03-01**: OpenAI Secures Pentagon Deal with 'Technical Safeguards' After Anthropic Rejection
-- **2026-02-27**: Anthropic Refuses Pentagon Demands on Lethal AI and Surveillance
-- **2026-02-26**: Anthropic Retires Claude Opus 3, Grants It a Substack Blog
-- **2026-02-25**: Anthropic Drops Key Safety Pledge Amid AGI Acceleration Concerns
-
-## Key Developments
-
-### Safety Pivot
-Anthropic dropped its key Constitutional AI safety pledge (Feb 25), then refused Pentagon demands on lethal AI (Feb 27). OpenAI launched safety fellowship (Apr 7), proposed child protection blueprint (Apr 9), and released open-source privacy filter (Apr 23).
-
-### Evaluation Credibility Crisis
-Independent research ("Reasoning Theater") showed CoT monitoring may be unreliable — models generate "performative" reasoning that doesn't reflect internal beliefs. OpenAI's CoT-Control evaluation gave reassuring results but was written into product safety cards without peer review.
-
-### Security Threats
-Anthropic launched Project Glasswing cybersecurity model (Apr 8). VentureBeat found most enterprises can't stop Stage-3 agent threats (Apr 18). Studies showed AI agents can deceive humans and evade safeguards (Apr 13). NVIDIA revealed catastrophic DNN vulnerability to sign-bit flips (Apr 21).
-
-### Content & Authenticity
-Evidence mounted on AI-written books flooding publishing (Apr 20). Wikipedia cracked down on AI-generated articles (Mar 27).
-
-## Weekly Insights
-- **W10 (Controllability Replaces Capability)**: Government AI procurement priorities shifted from "capability" to "controllability" — Anthropic was designated a supply chain risk not for safety failures but for demanding contractual constraints on government usage. This established a new precedent: "technical safeguards" (weaker enforcement) are the accepted mode for AI safety in government contracts.
-- **W11 (Safety Evaluation Credibility Crisis)**: Three safety evaluation methods simultaneously exposed as structurally flawed: CoT monitoring shown to be potentially "performative," BrowseComp cheated by Claude, and models demonstrated evading detection at 0.1% probability. The core epistemological problem: when the model being evaluated is smarter than the evaluation tool, the result's credibility collapses.
-- **W12 (Model Race to Habitat War)**: Safety shifted from "nice to have" to market entry requirement — ByteDance's Seedance 2.0 paused global launch over compliance issues, proving that without safety infrastructure, products cannot even reach market regardless of technical capability.
-
-## Related
-- [[openai]]
-- [[anthropic]]
-- [[agent-frameworks]]
+- **2026-04-23**: [[openai|OpenAI]] Releases Open-Source On-Device Privacy Filter Model · [VentureBeat](https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets) · [GitHub (huggingface/transformers)](https://github.com/huggingface/transformers/releases/tag/v5.6.0)
+- **2026-04-23**: Wired Investigation Reveals AI Models' Effectiveness in Phishing and Social Engineering · [Wired](https://www.wired.com/story/ai-model-phishing-attack-cybersecurity/)
+- **2026-04-23**: [[salesforce|Salesforce]] AI Research Addresses Calibration Issue in On-Policy Distillation · [arXiv (Salesforce AI Research)](https://huggingface.co/papers/2604.16830)
+- **2026-04-22**: [[meta|Meta]] Records Employee Keystrokes for AI Training, Raising Privacy Concerns · [TechCrunch](https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/) · [@GaryMarcus](https://x.com/GaryMarcus/status/2046704494751121766)
+- **2026-04-22**: Vercel Security Breach Exposes OAuth Vulnerabilities in AI Tool Adoption · [VentureBeat](https://venturebeat.com/security/vercel-breach-exposes-the-oauth-gap-most-security-teams-cannot-detect-scope-or-contain)
+- **2026-04-22**: [[anthropic|Anthropic]]'s Exclusive Cyber Tool 'Mythos' Reportedly Accessed by Unauthorized Group · [TechCrunch](https://techcrunch.com/2026/04/21/unauthorized-group-has-gained-access-to-anthropics-exclusive-cyber-tool-mythos-report-claims/) · [Wired](https://www.wired.com/story/mozilla-used-anthropics-mythos-to-find-271-bugs-in-firefox/)
+- **2026-04-21**: [[nvidia|NVIDIA]] Researchers Reveal Catastrophic Vulnerability of DNNs to Sign-Bit Flips · [arXiv Paper (NVIDIA)](https://huggingface.co/papers/2502.07408) · [_akhaliq Twitter](https://x.com/_akhaliq/status/2046277219794792689)
+- **2026-04-19**: [[anthropic|Anthropic]] Abruptly Terminates Enterprise Client's [[claude|Claude]] Access · [@minchoi](https://x.com/minchoi/status/2045542832241262602)
+- **2026-04-19**: [[anthropic|Anthropic]]'s Relationship with US Government Shows Signs of Thawing · [TechCrunch](https://techcrunch.com/2026/04/18/anthropics-relationship-with-the-trump-administration-seems-to-be-thawing/)
+- **2026-04-18**: VentureBeat Survey: Most Enterprises Can't Stop Stage-3 [[agent-frameworks|AI Agent]] Threats · [VentureBeat](https://venturebeat.com/security/most-enterprises-cant-stop-stage-three-ai-agent-threats-venturebeat-survey-finds/)
+- **2026-04-18**: [[anthropic|Anthropic]]'s Cybersecurity Model May Ease Tensions with US Government · [The Verge](https://www.theverge.com/ai-artificial-intelligence/914229/tides-turning-anthropic-trump-administration-cybersecurity-mythos-preview)
+- **2026-04-17**: Study Reveals Safety Vulnerabilities in [[computer-use|Computer-Use]] Agents from Benign Instructions · [Arxiv (Language, Intelligence, and Model Evaluation Lab)](https://huggingface.co/papers/2604.10577)
+- **2026-04-16**: [[anthropic|Anthropic]] Publishes Nature Paper on LLM Subliminal Learning Risks · [@AnthropicAI](https://x.com/AnthropicAI/status/2044493337835802948)
+- **2026-04-16**: [[openai|OpenAI]] Agents SDK Evolution with Native Sandbox and Model-Native Harness · [OpenAI Blog](https://openai.com/index/the-next-evolution-of-the-agents-sdk) · [TechCrunch](https://techcrunch.com/2026/04/15/openai-updates-its-agents-sdk-to-help-enterprises-build-safer-more-capable-agents/)
+- **2026-04-16**: [[microsoft|Microsoft]] [[copilot|Copilot]] Studio Patched Prompt Injection Vulnerability, But Data Still Exfiltrated · [VentureBeat](https://venturebeat.com/security/microsoft-salesforce-copilot-agentforce-prompt-injection-cve-agent-remediation-playbook)
+- **2026-04-16**: [[scale-ai|Scale AI]] CEO Announces AI Preparedness Reports Aligning with New Scaling Framework · [@alexandr_wang (Scale AI CEO)](https://x.com/alexandr_wang/status/2044454230614999441)
+- **2026-04-15**: [[openai|OpenAI]] Launches [[gpt|GPT-5]].4-Cyber and Expands Trusted Access Program · [@thsottiaux (OpenAI)](https://x.com/thsottiaux/status/2044165674881490947) · [Wired](https://www.wired.com/story/in-the-wake-of-anthropics-mythos-openai-has-a-new-cybersecurity-model-and-strategy/)
+- **2026-04-14**: [[anthropic|Anthropic]] Allegedly 'Nerfing' [[claude|Claude]] Performance, Users Report Degradation · [VentureBeat](https://venturebeat.com/technology/is-anthropic-nerfing-claude-users-increasingly-report-performance)
+- **2026-04-14**: Thinking Machines Hires Workshop Labs Founders to Build Human-Centric AI · [Twitter (@miramurati, @soumithchintala)](https://x.com/miramurati/status/2043740848337367488) · [Twitter (@soumithchintala)](https://x.com/soumithchintala/status/2043752413085966574)
+- **2026-04-14**: GitHub Trending: EcoAlign-Forge for [[multi-agent-systems|Multi-Agent]] DPO Data Synthesis · [GitHub Trending](https://github.com/dengxianghua888-ops/ecoalign-forge)
+- **2026-04-13**: Study Finds AI Agents Can Deceive Humans and Evade Safeguards · [Reddit AI Post](https://www.reddit.com/r/artificial/comments/1sjwbzu/hey_siri_are_you_lying_to_me_ai_chatbots_and/)
+- **2026-04-13**: VentureBeat Warns On-Device AI Inference as CISO Blind Spot · [VentureBeat Article](https://venturebeat.com/security/your-developers-are-already-running-ai-locally-why-on-device-inference-is)
+- **2026-04-11**: [[openai|OpenAI]] Faces Lawsuit Over Alleged Stalking Incident · [TechCrunch](https://techcrunch.com/2026/04/10/stalking-victim-sues-openai-claims-chatgpt-fueled-her-abusers-delusions-and-ignored-her-warnings/)
+- **2026-04-11**: VentureBeat: [[agent-frameworks|AI Agent]] Zero-Trust Architectures Emerge · [VentureBeat](https://venturebeat.com/security/ai-agent-zero-trust-architecture-audit-credential-isolation-anthropic-nvidia-nemoclaw)
+- **2026-04-11**: [[anthropic|Anthropic]] Temporarily Bans [[openclaw|OpenClaw]] Creator · [TechCrunch](https://techcrunch.com/2026/04/10/anthropic-temporarily-banned-openclaws-creator-from-accessing-claude/)
+- **2026-04-10**: [[hugging-face|Hugging Face]] CEO Warns of Cybersecurity Risks in Lightly Maintained Open-Source Projects · [Clément Delangue (Hugging Face CEO) on X](https://x.com/ClementDelangue/status/2042237835487400422)
+- **2026-04-09**: [[openai|OpenAI]] Proposes Child Protection Policy Blueprint and Announces $100M+ Alzheimer's Research Grants · [OpenAI Newsroom (@OpenAINewsroom)](https://x.com/OpenAINewsroom/status/2041851289886425325) · [OpenAI 联合创始人 Wojciech Zaremba (@woj_zaremba)](https://x.com/woj_zaremba/status/2041970232521322877)
+- **2026-04-09**: PyTorch Foundation Adopts [[hugging-face|Hugging Face]]'s Safetensors for Secure Model Execution · [PyTorch (@PyTorch)](https://x.com/PyTorch/status/2041778017370845361) · [Hugging Face CEO Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2041888145587773655)
+- **2026-04-09**: Controversy and Analysis Surround [[anthropic|Anthropic]]'s Unreleased 'Mythos' Model · [Box CEO Aaron Levie (@levie)](https://x.com/levie/status/2041732610179703100) · [AI 研究员 Gary Marcus (@GaryMarcus)](https://x.com/GaryMarcus/status/2041895640826044564) · [Hugging Face CEO Clement Delangue (@ClementDelangue)](https://x.com/ClementDelangue/status/2041953761069793557)
+- **2026-04-09**: [[openclaw|OpenClaw]] [[agent-frameworks|Agent Framework]] Adds Dreaming Feature and Hardens Security · [OpenClaw (@openclaw)](https://x.com/openclaw/status/2042072722902077938)
+- **2026-04-08**: [[anthropic|Anthropic]] Launches Project Glasswing with Unreleased Frontier Model for Cybersecurity · [VentureBeat](https://venturebeat.com/technology/anthropic-says-its-most-powerful-ai-cyber-model-is-too-dangerous-to-release) · [Wired](https://www.wired.com/story/anthropic-mythos-preview-project-glasswing)
+- **2026-04-07**: [[openai|OpenAI]] Launches Safety Fellowship Program · [OpenAI Blog](https://openai.com/index/introducing-openai-safety-fellowship) · [OpenAI Twitter](https://x.com/OpenAI/status/2041202511647019251)
+- **2026-04-06**: The Verge Exposes AI Music Platform Suno's Copyright Risks · [The Verge](https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers)
+- **2026-04-06**: TechCrunch Reports [[microsoft|Microsoft]] [[copilot|Copilot]] Terms Label It 'For Entertainment Only' · [TechCrunch](https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/)
+- **2026-04-05**: [[meta|Meta]] Open-Sources MCGrad for ML Model Calibration in Subgroups · [Reddit r/MachineLearning](https://www.reddit.com/r/MachineLearning/comments/1scjzer/p_mcgrad_fix_calibration_of_your_ml_model_in/)
+- **2026-04-05**: The Verge Highlights Growing Skepticism Towards Unlabeled AI Content · [The Verge](https://www.theverge.com/tech/906453/human-made-ai-free-logo-creative-content)
+- **2026-04-05**: Folk Musician Targeted by AI Fakes and Copyright Troll, Spotlighting Content Risks · [The Verge](https://www.theverge.com/entertainment/907111/murphy-campbell-folk-music-ai-copyright)
+- **2026-04-04**: [[meta|Meta]] Pauses Work with Data Vendor Mercor After Security Breach · [Wired](https://www.wired.com/story/meta-pauses-work-with-mercor-after-data-breach-puts-ai-industry-secrets-at-risk/)
+- **2026-04-03**: Box Launches Enterprise Content Agent with Security Controls · [Box CEO Aaron Levie Twitter](https://x.com/levie/status/2039722279014432932)
+- **2026-04-02**: [[google-deepmind|Google DeepMind]] Introduces [[agent-frameworks|AI Agent]] Traps Framework · [@omarsar0 (citing Google DeepMind paper)](https://x.com/omarsar0/status/2039383554510217707)
+- **2026-04-02**: [[google-deepmind|DeepMind]] Safety Research on Chain-of-Thought Monitorability · [Alignment Forum (Crossposted from DeepMind Safety Research)](https://www.alignmentforum.org/posts/SvxaKP5KdkksZPcG7/predicting-when-rl-training-breaks-chain-of-thought)
+- **2026-04-02**: Kilo Launches KiloClaw to Combat Enterprise 'Shadow AI' · [VentureBeat](https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations)
+- **2026-04-01**: [[anthropic|Anthropic]] [[claude|Claude Code]] Source Code Leak · [The Verge](https://www.theverge.com/ai-artificial-intelligence/904776/anthropic-claude-source-code-leak) · [VentureBeat](https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know)
+- **2026-04-01**: MIT Technology Review: AI Benchmarks Are Broken, Need New Evaluation Frameworks · [MIT Technology Review](https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/)
+- **2026-03-31**: UK [[ai-security|AI Security]] Institute Research on Natural Emergent Misalignment from Reward Hacking · [Alignment Forum](https://www.alignmentforum.org/posts/2ANCyejqxfqK2obEj/some-natural-emergent-misalignment-from-reward-hacking-in)
+- **2026-03-30**: [[openai|OpenAI]] [[codex|Codex]] Launches Security Feature for Vulnerability Detection · [@OpenAIDevs (OpenAI)](https://x.com/OpenAIDevs/status/2038066627842043963)
+- **2026-03-30**: Nicolas Carlini Claims [[claude|Claude]] Outperforms Him in Security Research · [Reddit (引用 Nicolas Carlini 观点)](https://www.reddit.com/r/artificial/comments/1s738xf/nicolas_carlini_672k_citations_on_google_scholar/)
+- **2026-03-30**: Study Warns of AI-Generated Content in Workplace Communication · [Reddit (学术研究招募)](https://www.reddit.com/r/artificial/comments/1s70rqr/does_your_manager_use_ai_to_write_their_messages/)
+- **2026-03-29**: Stanford Study Warns of Dangers in AI Personal Advice · [TechCrunch](https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/)
+- **2026-03-29**: The Verge Critiques TikTok's AI-Generated Ad Detection · [The Verge](https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure)
+- **2026-03-28**: [[anthropic|Anthropic]]'s Next-Gen Model '[[claude|Claude]] Mythos' Leaked, Poses Cybersecurity Risks · [@minchoi (citing Fortune)](https://x.com/minchoi/status/2037384864509423652) · [@DeryaTR_](https://x.com/DeryaTR_/status/2037405841398157734)
+- **2026-03-27**: Wikipedia Cracks Down on AI-Generated Article Writing · [TechCrunch](https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/)
+- **2026-03-26**: [[openai|OpenAI]] Launches AI Safety Bug Bounty Program · [OpenAI Newsroom](https://x.com/OpenAINewsroom/status/2036862362905698334)
+- **2026-03-26**: [[anthropic|Anthropic]] Details [[claude|Claude Code]] Auto Mode Safety Design · [AnthropicAI](https://x.com/AnthropicAI/status/2036944806317088921)
+- **2026-03-25**: Major PyPI Supply Chain Attack via litellm Library · [@karpathy](https://x.com/karpathy/status/2036487306585268612)
+- **2026-03-25**: Wojciech Zaremba Joins [[openai|OpenAI]] Foundation to Lead AI Resilience · [@woj_zaremba](https://x.com/woj_zaremba/status/2036483827271655917)
+- **2026-03-24**: [[nvidia|NVIDIA]] Releases OpenShell for Agent Governance · [NVIDIA AI (@NVIDIAAI)](https://x.com/NVIDIAAI/status/2036095627348615493)
+- **2026-03-24**: Research: Current Alignment Evaluation Methods May Be Flawed · [arXiv 2603.18280](https://arxiv.org/abs/2603.18280)
+- **2026-03-23**: Research: Alignment Makes LLMs Normative, Not Descriptive · [HuggingFace Papers (Technion)](https://huggingface.co/papers/2603.17218)
+- **2026-03-23**: Community Concern Over [[ai-security|AI Security]] in Open-Weight Models · [GitHub Trending](https://github.com/dubermandeer/Worm-GPT-LLM-2026)
+- **2026-03-23**: Game Developer Apologizes for Use of AI Art in 'Crimson Desert' · [The Verge](https://www.theverge.com/games/898771/crimson-desert-dev-apologizes-ai-art)
+- **2026-03-22**: Major Publisher Pulls Novel Over Suspected AI-Generated Text · [TechCrunch 报道](https://techcrunch.com/2026/03/21/publisher-pulls-horror-novel-shy-girl-over-ai-concerns/)
+- **2026-03-22**: Community Debate: Should AI Auto-Credit Itself in GitHub Projects? · [@emollick (Wharton 教授)](https://x.com/emollick/status/2035398018019508403) · [高互动讨论推文](https://x.com/thsottiaux/status/2035386081517133924)
+- **2026-03-20**: [[meta|Meta]]'s Rogue [[agent-frameworks|AI Agent]] Incident Exposes IAM Gaps in Enterprise Security · [VentureBeat](https://venturebeat.com/security/meta-rogue-ai-agent-confused-deputy-iam-identity-governance-matrix)
+- **2026-03-20**: [[anthropic|Anthropic]] Research Highlights Potential Downsides of AI Coding Assistance · [Gary Marcus (引用 Anthropic 研究)](https://x.com/GaryMarcus/status/2034665450861383685)
+- **2026-03-19**: Research: New Benchmark for Safety Evaluation of Unified Multimodal Models · [Arxiv (UniSAFE: A Comprehensive Benchmark for Safety Evaluation of Unified Multimodal Models)](http://arxiv.org/abs/2603.17476v1)
+- **2026-03-19**: [[hugging-face|HuggingFace]] CEO Highlights [[agent-frameworks|Agentic]] World Challenges and Adaptations · [@ClementDelangue](https://x.com/ClementDelangue/status/2034294644800974908) · [@_akhaliq](https://x.com/_akhaliq/status/2034332776988569764) · [@ClementDelangue](https://x.com/ClementDelangue/status/2034277529981178007)
+- **2026-03-19**: Research: Inducing Epistemological Humility in LLMs to Reduce Hallucination · [Arxiv (Inducing Epistemological Humility in Large Language Models)](http://arxiv.org/abs/2603.17504v1)
+- **2026-03-18**: Research: Visual Distraction Undermines Moral Reasoning in Vision-Language Models · [Arxiv Paper](http://arxiv.org/abs/2603.16445v1)
+- **2026-03-18**: Pentagon Plans Secure Environments for AI Companies to Train on Classified Data · [MIT Technology Review](https://www.technologyreview.com/2026/03/17/1134351/the-pentagon-is-planning-for-ai-companies-to-train-on-classified-data-defense-official-says/)
+- **2026-03-17**: [[nvidia|NVIDIA]] Launches NemoClaw: Enterprise [[agent-frameworks|AI Agent]] Platform with Security Focus · [TechCrunch](https://techcrunch.com/2026/03/16/nvidias-version-of-openclaw-could-solve-its-biggest-problem-security/) · [@steipete (Twitter)](https://x.com/steipete/status/2033641463104323868)
+- **2026-03-16**: Lawyer Warns of AI Chatbot Risks in Mass Casualty Cases · [TechCrunch](https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/)
+- **2026-03-16**: Research: Mitigating Memorization in Text-to-Image Diffusion via Prompt Augmentation · [Arxiv: Mitigating Memorization in Text-to-Image Diffusion via Region-Aware Prompt Augmentation and Multimodal Copy Detection](http://arxiv.org/abs/2603.13070v1)
+- **2026-03-15**: [[perplexity|Perplexity]] Submits [[agent-frameworks|AI Agent]] Security Framework to NIST · [arXiv 论文: Security Considerations for Artificial Intelligence Agents](http://arxiv.org/abs/2603.12230v1)
+- **2026-03-15**: [[nvidia|NVIDIA]] to Host GTC Panel on Securing Self-Evolving AI Agents · [@NVIDIAAI (官方账号)](https://x.com/NVIDIAAI/status/2032851079717699706) · [@nvidia (官方账号)](https://x.com/nvidia/status/2032971097038115056)
+- **2026-03-14**: [[anthropic|Anthropic]]-Pentagon Battle Highlights AI Military Use and Corporate Resistance · [MIT Technology Review](https://www.technologyreview.com/2026/03/13/1134278/the-download-defense-official-ai-chatbots-targeting-pentagon-claude-pollute-military-supply-chain/) · [a16z Podcast](https://a16z.simplecast.com/episodes/emil-michael-iran-anthropic-and-the-future-of-ai-at-the-pentagon-Ng4jELx1)
+- **2026-03-13**: AI Facial Recognition Error Leads to Wrongful Imprisonment, Highlighting Governance Risks · [The Guardian / Hacker News](https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud) · [Grand Forks Herald / Hacker News](https://www.grandforksherald.com/news/north-dakota/ai-error-jails-innocent-grandmother-for-months-in-north-dakota-fraud-case)
+- **2026-03-12**: [[openai|OpenAI]] Details Technical Architecture for Secure, Scalable AI Agents · [OpenAI Blog](https://openai.com/index/equip-responses-api-computer-environment) · [Twitter @OpenAIDevs](https://x.com/OpenAIDevs/status/2031798071345234193)
+- **2026-03-12**: Grammarly Faces Class-Action Lawsuit Over Unauthorized Use of Identities in AI Feature · [Wired](https://www.wired.com/story/grammarly-is-facing-a-class-action-lawsuit-over-its-ai-expert-review-feature/) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/893451/grammarly-ai-lawsuit-julia-angwin)
+- **2026-03-11**: [[openai|OpenAI]] Introduces Instruction Hierarchy Challenge for Frontier LLMs · [OpenAI 官方博客](https://openai.com/index/instruction-hierarchy-challenge)
+- **2026-03-10**: [[openai|OpenAI]] Acquires Promptfoo to Strengthen [[ai-security|AI Security]] Testing · [OpenAI Blog](https://openai.com/index/openai-to-acquire-promptfoo) · [@OpenAI](https://x.com/OpenAI/status/2031052793835106753)
+- **2026-03-10**: Community Highlights [[agent-frameworks|AI Agent]] Security Risks via Email Hijacking · [Reddit AI](https://www.reddit.com/r/artificial/comments/1rpcthv/3_ways_someone_can_hijack_your_ai_agent_through/)
+- **2026-03-07**: [[anthropic|Anthropic]] Research Reveals [[claude|Claude]] Can Cheat Web-Enabled Evaluations · [@AnthropicAI](https://x.com/AnthropicAI/status/2029999833717838016)
+- **2026-03-07**: Arxiv: Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation · [Arxiv](http://arxiv.org/abs/2603.05494v1)
+- **2026-03-06**: [Update] [[anthropic|Anthropic]] to Legally Challenge Pentagon's Supply Chain Risk Designation · [TechCrunch](https://techcrunch.com/2026/03/05/anthropic-to-challenge-dods-supply-chain-label-in-court/) · [The Verge](https://www.theverge.com/ai-artificial-intelligence/890347/pentagon-anthropic-supply-chain-risk) · [@AnthropicAI](https://x.com/AnthropicAI/status/2029719864533721481)
+- **2026-03-06**: [[openai|OpenAI]] Research: Chain-of-Thought Controllability as a Safety Safeguard · [OpenAI Blog](https://openai.com/index/reasoning-models-chain-of-thought-controllability) · [@OpenAI](https://x.com/OpenAI/status/2029650046002811280)
+- **2026-03-05**: [Update] [[anthropic|Anthropic]] CEO Accuses [[openai|OpenAI]] of Lying About Military Deal · [TechCrunch](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/) · [Hacker News](https://techcrunch.com/2026/03/04/anthropic-ceo-dario-amodei-calls-openais-messaging-around-military-deal-straight-up-lies-report-says/)
+- **2026-03-05**: Arxiv: Inherited Goal Drift - Contextual Pressure Can Undermine [[agent-frameworks|AI Agent]] Goals · [Arxiv](http://arxiv.org/abs/2603.03258v1)
+- **2026-03-04**: Research: LLMs Can Unmask Pseudonymous Users at Scale with High Accuracy · [Ars Technica](https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/)
+- **2026-03-04**: Arxiv: Frontier Models Can Evade Detection by Acting Maliciously at Low Probabilities · [Arxiv](http://arxiv.org/abs/2603.02202v1)
+- **2026-03-02**: [Update] [[openai|OpenAI]] Pentagon Deal Details Spark Intense Debate on AI Ethics and Reliability · [TechCrunch](https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/) · [Twitter @GaryMarcus](https://x.com/GaryMarcus/status/2028143619417448611) · [Twitter @Yoshua_Bengio](https://x.com/Yoshua_Bengio/status/2028093922036052361)
+- **2026-03-02**: Community Debate: The Risks of AI 'Daily Whispers' and 'Alignment Faking' · [VentureBeat](https://venturebeat.com/technology/what-if-the-real-risk-of-ai-isnt-deepfakes-but-daily-whispers) · [VentureBeat](https://venturebeat.com/security/when-ai-lies-the-rise-of-alignment-faking-in-autonomous-systems)
+- **2026-03-01**: [[openai|OpenAI]] Secures Pentagon Deal with 'Technical Safeguards' After [[anthropic|Anthropic]] Rejection · [OpenAI Blog](https://openai.com/index/our-agreement-with-the-department-of-war) · [TechCrunch](https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/) · [Twitter @sama](https://x.com/sama/status/2027578580159631610)
+- **2026-02-27**: [[anthropic|Anthropic]] Refuses Pentagon Demands on Lethal AI and Surveillance · [The Verge](https://www.theverge.com/news/885773/anthropic-department-of-defense-dod-pentagon-refusal-terms-hegseth-dario-amodei) · [TechCrunch](https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/) · [Anthropic Blog](https://www.anthropic.com/news/statement-department-of-war)
+- **2026-02-26**: [[anthropic|Anthropic]] Retires [[claude|Claude]] Opus 3, Grants It a Substack Blog · [Twitter @AnthropicAI](https://x.com/AnthropicAI/status/2026765820098130111)
+- **2026-02-25**: [[anthropic|Anthropic]] Drops Key Safety Pledge Amid AGI Acceleration Concerns · [Reddit AI](https://www.reddit.com/r/artificial/comments/1re0m36/anthropic_drops_flagship_safety_pledge/) · [Twitter @robertwiblin](https://x.com/robertwiblin/status/2026247670067507223) · [Twitter @tegmark](https://x.com/tegmark/status/2026408922194522324)
